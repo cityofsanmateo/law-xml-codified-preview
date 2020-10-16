@@ -13,10 +13,10 @@
     </canonical-urls>
     <build xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="cityofsanmateo/law-xml" commit="749b9c7cbb62aba25c0b8b1c271640035496c38d"/>
+        <repository name="cityofsanmateo/law-xml" commit="53fe9d0cdf6e430ddaf4a1dfcb0607e285a35de2"/>
       </repositories>
       <platform version="2020.2.3" reproducible="true"/>
-      <build-date>2020-10-14</build-date>
+      <build-date>2020-10-16</build-date>
       <codified-date>2021-01-01</codified-date>
     </build>
   </meta>

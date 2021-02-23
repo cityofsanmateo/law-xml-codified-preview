@@ -9,8 +9,8 @@
         <volume start="17"/>
       </volumes>
     </print>
-    <recency through="2021-04-01">
-      <doc id="City of San Mateo, Cal., Ord. No. 2021-3" type="ordinance"/>
+    <recency through="2021-03-18">
+      <doc id="City of San Mateo, Cal., Ord. No. 2021-6" type="ordinance"/>
     </recency>
   </meta>
   <xi:include href="./1.xml"/>
@@ -40,4 +40,5 @@
   <xi:include href="./25.xml"/>
   <xi:include href="./26.xml"/>
   <xi:include href="./27.xml"/>
+  <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§1" type="History"/>
 </document>

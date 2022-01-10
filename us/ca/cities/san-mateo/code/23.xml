@@ -5591,6 +5591,7 @@
     <prefix>Chapter</prefix>
     <num>23.65</num>
     <heading>Child Care Development Fee</heading>
+    <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§5" type="History"/>
     <section>
       <num>23.65.010</num>
       <heading>Purpose</heading>
@@ -5607,7 +5608,6 @@
         <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§5" type="History"/>
       </annotations>
     </section>
-    <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§5" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

@@ -15,13 +15,13 @@
           <historic end="2022-12-21">https://sanmateo.ca.us.open.law</historic>
         </historical>
       </html>
-      <static-assets>https://github.com/openlawlibrary/law-static-assets</static-assets>
+      <static-assets>https://github.com/cityofsanmateo/law-static-assets</static-assets>
       <law-git>https://github.com/cityofsanmateo/law.git</law-git>
     </canonical-urls>
     <history-start>2018-03-05</history-start>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="cityofsanmateo/law-xml" commit="3f82304cdfd7d880108f8fb7f77ce2b612cc462e"/>
+        <repository name="cityofsanmateo/law-xml" commit="cd88d3389eddcfd725def432afe873590ab239be"/>
       </repositories>
       <platform version="2.7.0" reproducible="false"/>
       <build-date>2022-12-21</build-date>

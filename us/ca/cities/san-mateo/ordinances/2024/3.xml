@@ -17,7 +17,7 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>on November 5, 2002, the voters approved Measure F, which amended San Mateo <cite doc="City of San Mateo, Cal., Charter" path="2.03">City Charter section 2.03</cite> by increasing the monthly compensation for members of the City Council from $300 per month to $600 per month and by further providing that compensation may be adjusted in the manner authorized by state law for general law cities with the same population as San Mateo; and</text>
+      <text>on November 5, 2002, the voters approved Measure F, which amended San Mateo <cite doc="City of San Mateo, Cal., Charter" path="|2.03">City Charter section 2.03</cite> by increasing the monthly compensation for members of the City Council from $300 per month to $600 per month and by further providing that compensation may be adjusted in the manner authorized by state law for general law cities with the same population as San Mateo; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -68,7 +68,7 @@
         <codify:insert doc="City of San Mateo, Cal., Code" path="2.03" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.03.020"/>
         <num>2.03.020</num>
         <heading>City Council Compensation</heading>
-        <text>Effective January 6, 2025, council members shall receive a monthly salary of one thousand two hundred dollars ($1,200) per month in accordance with <cite doc="City of San Mateo, Cal., Charter" path="2.03">City Charter section 2.03</cite> and <cite doc="Cal. Gov't Code" path="§36516">Government Code section 36516</cite>.</text>
+        <text>Effective January 6, 2025, council members shall receive a monthly salary of one thousand two hundred dollars ($1,200) per month in accordance with <cite doc="City of San Mateo, Cal., Charter" path="|2.03">City Charter section 2.03</cite> and <cite doc="Cal. Gov't Code" path="§36516">Government Code section 36516</cite>.</text>
       </section>
     </include>
   </section>
@@ -85,7 +85,7 @@
   <section>
     <num>5</num>
     <heading>Publication.</heading>
-    <text>This ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+    <text>This ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="|2.15">Section 2.15 of the City Charter</cite>.</text>
   </section>
   <section>
     <num>6</num>

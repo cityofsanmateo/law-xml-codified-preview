@@ -21,11 +21,11 @@
     <history-start>2018-03-05</history-start>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="cityofsanmateo/law-xml" commit="e97269ca33800ebf42b3613737dbe03baf92e807"/>
+        <repository name="cityofsanmateo/law-xml" commit="068f1b43752afb582ffe22a16906cdc9c7454333"/>
       </repositories>
-      <platform version="2.14.5" reproducible="false"/>
-      <build-date>2024-09-25</build-date>
-      <codified-date>2024-10-03</codified-date>
+      <platform version="2.14.14" reproducible="false"/>
+      <build-date>2024-12-27</build-date>
+      <codified-date>2025-01-08</codified-date>
     </build>
   </meta>
   <xi:include href="./us/ca/cities/san-mateo/charter/index.xml"/>

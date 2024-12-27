@@ -242,30 +242,28 @@
     <text>Legislative History And Effective Date</text>
     <text>This ordinance was introduced by City Council on July 15, 2024 and adopted by the voters on November 5, 2024.  This ordinance shall take effect ten days after certification of election results by the City Council certifying that the ordinance was approved by a majority of the voters voting at the general municipal election to be held on November 5, 2024.</text>
   </section>
-  <attachments>
-    <attachment name="att-1">
-      <prefix>Ordinance Attachment</prefix>
-      <num>1</num>
-      <heading>General Plan Land Use Element</heading>
-      <text>See <a href="./adopted/2024-10.pdf">PDF</a>.</text>
-    </attachment>
-    <attachment name="att-1A">
-      <prefix>Ordinance Attachment</prefix>
-      <num>1A</num>
-      <heading>General Plan Land Use Map - Individual Parcels</heading>
-      <text>See <a href="./adopted/2024-10.pdf">PDF</a>.</text>
-    </attachment>
-    <attachment name="att-2">
-      <prefix>Ordinance Attachment</prefix>
-      <num>2</num>
-      <heading>General Plan Land Use Element Appendix A</heading>
-      <text>See <a href="./adopted/2024-10.pdf">PDF</a>.</text>
-    </attachment>
-    <attachment name="att-3">
-      <prefix>Ordinance Attachment</prefix>
-      <num>3</num>
-      <heading>Measure Y – strikethrough text</heading>
-      <text>See <a href="./adopted/2024-10.pdf">PDF</a>.</text>
-    </attachment>
-  </attachments>
+  <attachment name="att-1">
+    <prefix>Ordinance Attachment</prefix>
+    <num>1</num>
+    <heading>General Plan Land Use Element</heading>
+    <text>See <a href="./adopted/2024-10.pdf">PDF</a>.</text>
+  </attachment>
+  <attachment name="att-1A">
+    <prefix>Ordinance Attachment</prefix>
+    <num>1A</num>
+    <heading>General Plan Land Use Map - Individual Parcels</heading>
+    <text>See <a href="./adopted/2024-10.pdf">PDF</a>.</text>
+  </attachment>
+  <attachment name="att-2">
+    <prefix>Ordinance Attachment</prefix>
+    <num>2</num>
+    <heading>General Plan Land Use Element Appendix A</heading>
+    <text>See <a href="./adopted/2024-10.pdf">PDF</a>.</text>
+  </attachment>
+  <attachment name="att-3">
+    <prefix>Ordinance Attachment</prefix>
+    <num>3</num>
+    <heading>Measure Y – strikethrough text</heading>
+    <text>See <a href="./adopted/2024-10.pdf">PDF</a>.</text>
+  </attachment>
 </document>

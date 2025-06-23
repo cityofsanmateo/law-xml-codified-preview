@@ -191,10 +191,10 @@
   </section>
   <section>
     <num>10</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.313.1">Section 27.04.313.1</cite> of the San Mateo Municipal Code is added to <cite doc="City of San Mateo, Cal., Code" path="27.04">Chapter 27.04</cite> as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.313">Section 27.04.313.1</cite> of the San Mateo Municipal Code is added to <cite doc="City of San Mateo, Cal., Code" path="27.04">Chapter 27.04</cite> as follows:</text>
     <include>
-      <section>
-        <codify:insert path="27.04" after="27.04.313" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.04.313.1"/>
+      <section name="27.04.313-1">
+        <codify:insert path="27.04" after="27.04.313" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.04.313-1"/>
         <num>27.04.313.1</num>
         <heading>MOBILEHOME PARK</heading>
         <text>"Mobilehome park" means any area or tract of land where two or more lots are rented or leased, held out for rent or lease, or were formerly held out for rent or lease and later converted to a subdivision, cooperative, condominium, or other form of resident ownership, to accommodate manufactured homes, mobilehomes, or recreational vehicles used for human habitation as defined in <cite doc="Cal. Health &amp; Safety Code" path="§18214">Section 18214 of the Health and Safety Code</cite>, as amended from time to time. The rent paid for a manufactured home, a mobilehome, or a recreational vehicle shall be deemed to include rent for the lot it occupies. "Mobilehome park" also means a mobilehome development constructed according to the requirements of Part 2.1 (commencing with Section 18200) of Division <cite doc="Cal. Health &amp; Safety Code" path="§13">13 of the Health and Safety Code</cite>, and intended for use and sale as a mobilehome condominium or cooperative park, or as a mobilehome planned unit development.</text>

@@ -96,6 +96,11 @@
       <heading>HISTORICAL BUILDING CODE</heading>
     </codify:replace>
   </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2019-13" history="false">
+    <codify:replace applicability="2019-12-18" doc="City of San Mateo, Cal., Code" path="23.38|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.38">
+      <heading>REFERENCED STANDARDS CODE</heading>
+    </codify:replace>
+  </codify:insert>
   <codify:insert doc="City of San Mateo, Cal., Ord. No. 2021-24" history="false">
     <codify:replace applicability="2022-01-14" doc="City of San Mateo, Cal., Code" path="23.65|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.65">
       <heading>CHILD CARE DEVELOPMENT FEE</heading>

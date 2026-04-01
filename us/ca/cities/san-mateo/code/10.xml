@@ -1846,27 +1846,40 @@
     <heading>OPERATION OF LEAF BLOWERS</heading>
     <section>
       <num>10.80.010</num>
-      <heading>PURPOSE.</heading>
-      <text>It has been found that leaf blowers cause considerable noise and air pollution and have been the source of numerous complaints by San Mateo citizens living in residential zoning districts. <cite path="10.80">This chapter</cite> is intended to regulate the use of leaf blowers to minimize noise and air pollution in the City's residentially zoned neighborhoods and in areas bordering residentially zoned neighborhoods.</text>
+      <heading>Purpose.</heading>
+      <text>It has been found that leaf blowers cause considerable noise and air pollution and have been the source of numerous complaints by San Mateo residents. <cite path="10.80">This chapter</cite> is intended to regulate the use of leaf blowers to minimize noise and air pollution in the City.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History"/>
+        <annotation app="2027-01-01" doc="City of San Mateo, Cal., Ord. No. 2026-03" eff="2027-01-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
       <num>10.80.020</num>
-      <heading>LEAF BLOWER—DEFINITION.</heading>
-      <text>Leaf blowers are defined as portable equipment that is powered by a self-contained fuel engine and used in any landscape, maintenance, construction, property repair, or property maintenance for the purpose of blowing, dispersing or redistributing dust, dirt, leaves, grass, clippings, cuttings and trimmings from trees, shrubs or other debris.</text>
+      <heading>Leaf Blower – Definition.</heading>
+      <text>"Electric leaf blower" is defined as any leaf blower powered by electric means, including but not limited to, battery-powered equipment.</text>
+      <text>"Gas leaf blower" is defined as any leaf blower powered by a combustion engine using gasoline or any other liquid or gaseous fluid.</text>
+      <text>"Leaf blowers" are defined as portable equipment that is powered by a self-contained engine and used in any landscape, maintenance, construction, property repair, or property maintenance for the purpose of blowing, dispersing or redistributing dust, dirt, leaves, grass, clippings, cuttings and trimmings from trees, shrubs or other debris.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History"/>
+        <annotation app="2027-01-01" doc="City of San Mateo, Cal., Ord. No. 2026-03" eff="2027-01-01" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>10.80.025</num>
+      <heading>Prohibition of Gas Leaf Blowers.</heading>
+      <text>It shall be unlawful for any person to operate or authorize the operation of a gas leaf blower within the city limits.</text>
+      <annotations>
+        <annotation app="2027-01-01" doc="City of San Mateo, Cal., Ord. No. 2026-03" eff="2027-01-01" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
       <num>10.80.030</num>
-      <heading>HOURS OF OPERATION.</heading>
-      <text>No person shall use or operate a leaf blower in a residential zoning district or in areas bordering a residential zoning district before 8:00 a.m. or after 5:00 p.m. Monday through Friday, nor prior to 9:00 a.m. or after 5:00 p.m. on Saturdays. Use of leaf blowers on Sundays or on the following holidays is prohibited: New Years Day, Martin Luther King, Jr. Birthday, Presidents' Day, Memorial Day, 4th of July, Labor Day, Veterans Day, Thanksgiving, Christmas.</text>
+      <heading>Restriction of Electric Leaf Blowers - Hours of Operation.</heading>
+      <text>No person shall use or operate an electric leaf blower in a residential zoning district or in areas bordering a residential zoning district before 8:00 a.m. or after 5:00 p.m. Monday through Friday, nor prior to 9:00 a.m. or after 5:00 p.m. on Saturdays. Use of electric leaf blowers on Sundays or on the following holidays is prohibited: New Years Day, Martin Luther King, Jr. Birthday, Presidents' Day, Memorial Day, Juneteenth, 4th of July, Labor Day, Veterans Day, Thanksgiving, and Christmas.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1998-6" path="§1" type="History"/>
+        <annotation app="2027-01-01" doc="City of San Mateo, Cal., Ord. No. 2026-03" eff="2027-01-01" path="§4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1887,10 +1900,11 @@
     </section>
     <section>
       <num>10.80.060</num>
-      <heading>VIOLATIONS.</heading>
-      <text>It is unlawful for any person or entity to violate the provisions of <cite path="10.80">this chapter</cite>.</text>
+      <heading>Violations.</heading>
+      <text>It is unlawful for any person or entity to violate the provisions of <cite path="10.80">this chapter</cite>. Enforcement of <cite path="10.80">this chapter</cite> shall be subject to enforcement pursuant to <cite path="1">Title 1 of the San Mateo Municipal Code</cite> or any legal remedy available by law. Violations of <cite path="10.80">this chapter</cite> may be enforced against the leaf blower operator and/or property owner who has hired, employed or engaged the services of a person or business utilizing leaf blowers.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History"/>
+        <annotation app="2027-01-01" doc="City of San Mateo, Cal., Ord. No. 2026-03" eff="2027-01-01" path="§5" type="History"/>
       </annotations>
     </section>
     <section>

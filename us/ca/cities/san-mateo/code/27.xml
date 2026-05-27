@@ -289,11 +289,12 @@
     </section>
     <section>
       <num>27.02.170</num>
-      <heading>CONSISTENCY WITH GENERAL PLAN.</heading>
-      <text>In their review of planning applications, each approval body involved shall consider whether the planning application is in conformance with the San Mateo City General Plan. This shall specifically include those areas where the general plan does not permit high-rise structures, regardless of the underlying zoning.</text>
+      <heading>Consistency with General Plan.</heading>
+      <text>In their review of planning applications, each approval body involved shall consider whether the planning application is in conformance with the San Mateo City General Plan.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-14" path="§2" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-04" eff="2025-05-07" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -386,10 +387,54 @@
     </section>
     <section>
       <num>27.02.220</num>
-      <heading>CONSISTENCY WITH GENERAL PLAN INITIATIVE, MEASURE H (NOVEMBER 1991 ELECTION).</heading>
-      <text>The provisions of Ordinance No. 1992-2, adopted on January 22, 1992, are promulgated to implement Measure H, the General Plan Initiative. The interpretation of such ordinance and subsequent ordinances implementing Measure H shall be governed by Measure H in the event of ambiguity or clerical errors in such ordinances.</text>
+      <heading>Consistency With Measure T, General Plan Ballot Measure (November 2024 Election).</heading>
+      <text>The provisions of Ordinance No. 2024-10, approved by the voters on November 5, 2024, as Measure T, and effective on December 19, 2024, allows for the full implementation of the Land Use Element in General Plan 2040. In case of conflict or inconsistency between <cite path="27">Title 27</cite> of the Municipal Code (Zoning Code) and the General Plan 2040, the uses, densities, intensities and heights specified in Table LU-1 (Land Use Designations) in the Land Use Element and associated with the Land Use Map shall control.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-2" path="§35" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-04" eff="2025-05-07" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>27.02.230</num>
+      <heading>RESIDENTIAL MIXED-USE DEVELOPMENT PROJECTS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Within a 1/2 mile radius of a Caltrain Station as shown on the General Plan Land Use Map, a mixed-use development project with a residential component that includes five or more residential units shall comply with the following minimum residential densities if the development project is within one of the following General Plan Land Use Designations. If the project area is within more than one General Plan Land Use Designations, the lowest density requirement applies.</text>
+        <para>
+          <num>(1)</num>
+          <text>Mixed-Use Low and Mixed-Use Medium I – 30 dwelling units per acre</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Mixed-Use Medium II and Mixed-Use High – 50 dwelling units per acre</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A mixed-use development project with a residential component that includes five or more residential units outside of a TOD area are required to comply with minimum residential densities when the development project is within one of the following General Plan Land Use Designations. If the project area is within more than one General Plan Land Use Designations, the lowest density requirement applies.</text>
+        <para>
+          <num>(1)</num>
+          <text>Mixed-Use Low – 10 dwelling units per acre</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Mixed-Use Medium I – 15 dwelling units per acre</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Mixed-Use Medium II – 30 dwelling units per acre</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Mixed-Use High – 50 dwelling units per acre</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The City Council may consider a request to reduce the required minimum residential density in a mixed-use development project with a residential component for a project that provides a greater percentage of affordable housing units than required by <cite path="27.16.050">Section 27.16.050</cite> Affordable Housing or by providing public community benefits.</text>
+      </para>
+      <annotations>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§2" type="History"/>
       </annotations>
     </section>
   </container>
@@ -839,19 +884,38 @@
     </section>
     <section>
       <num>27.04.130</num>
-      <heading>COMMUNITY CARE FACILITY.</heading>
-      <text>A "community care facility" means any place or building which is maintained and operated to provide 24-hour non-medical residential care, or day care services for children, adults, or both, limited to the following:</text>
+      <heading>SITE PLAN AND ARCHITECTURAL REVIEW (SPAR).</heading>
       <para>
         <num>(a)</num>
-        <text>Residential Care Facility. A residential care facility means a family home, group care facility, residential care facility for the elderly, foster home, alcohol and/or drug recovery facility, intermediate care facility or similar facility, for 24-hour non-medical care of persons in need of personal services, supervision, or assistance essential for sustaining the activities of daily living or for the protection of the individual;</text>
+        <text>The following projects, as well as other projects that may be designated in this code, require a site plan and architectural review and no such project shall commence until the approval body has approved a planning application for site plan and architectural review: any building, new parking lot, fence over seven (7) feet in height, or an extension, alteration, or addition of or to an existing building or parking lot; historic buildings within the Downtown Specific Plan area as specified in <cite path="27.66">Chapter 27.66</cite>. Single family and accessory buildings that conform to the standards contained in <cite path="27.18">Chapter 27.18</cite>, or minor facade modifications as defined in <cite path="27.04.313">Section 27.04.313</cite>, and which conform with <cite path="27.08.031">Section 27.08.031</cite>, are exempt from this requirement, unless they are specifically designated by this section as requiring review. In making its review, the Zoning Administrator, Development Review Board, and Planning Commission shall be guided by the standards adopted by the Planning Commission and City Council. The application shall be approved if the Zoning Administrator or Commission finds all of the following to exist:</text>
+        <para>
+          <num>(1)</num>
+          <text>The structures, site plan, and landscaping are in scale and harmonious with the character of the neighborhood;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The development will not be detrimental to the harmonious and orderly growth of the City;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The development will not impair the desirability of investment or occupation in the vicinity, and otherwise is in the best interests of the public health, safety, or welfare;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The development meets all applicable standards as adopted by the Planning Commission and City Council, conforms with the General Plan, and will correct any violations of the zoning ordinance, building code, or other municipal codes that exist on the site;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The development will not adversely affect matters regarding police protection, crime prevention, and security.</text>
+        </para>
       </para>
       <para>
         <num>(b)</num>
-        <text>Day Care Center. A day care facility means any facility which provides non-medical care to persons in need of personal services, supervision, or assistance essential for sustaining the activities of daily living or for the protection of the individual on less than a 24-hour basis;</text>
+        <text>All buildings, structures, landscaping, and other establishments shall be constructed in accordance with the approved drawings.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Family Day Care Home. A family day care home means a facility which provides care, protection, and supervision of no more than 14 children in the caregiver's own home, for periods of less than 24 hours per day, while the parents or guardians are away.</text>
+        <text>The City Council shall review and make the final determination on all buildings that exceed the height limit in the General Plan.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1975-23" path="§2" type="History"/>
@@ -862,6 +926,8 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-18" path="§12" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1994-2" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§4" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§2" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1023,14 +1089,14 @@
     <section>
       <num>27.04.165</num>
       <heading>DWELLING.</heading>
-      <text>"Dwelling" means a building or portion thereof, designed or used exclusively for residential occupancy, including a one-family dwelling unit, an accessory dwelling unit, a junior accessory unit, a two-family dwelling unit, and a multiple-family dwelling unit but does not include a hotel, motel, boarding or lodging houses or other lodging facilities, or a vessel or boat, or a house trailer.</text>
+      <text>"Dwelling" means a building or portion thereof, designed or used exclusively for residential occupancy, including a one-family dwelling unit, an accessory dwelling unit, a junior accessory dwelling unit, a two-family dwelling unit, a multiple-family dwelling unit, or a single room occupancy but does not include a hotel, motel, boarding or lodging houses or other lodging facilities, or a vessel or boat, or a house trailer.</text>
       <para>
         <num>(a)</num>
-        <text>"Accessory dwelling unit" means an attached or detached residential dwelling unit which provides complete independent living facilities for one or more persons, is accessory to the primary single-family residential dwelling unit, and includes permanent provisions for living, sleeping, eating, cooking facilities and sanitation on the same parcel as the primary residential dwelling unit.</text>
+        <text>"Accessory dwelling unit" means an attached or detached residential dwelling unit which provides complete independent living facilities for one or more persons, is accessory to the primary residential dwelling unit or units, and includes permanent provisions for living, sleeping, eating, cooking facilities and sanitation on the same parcel as the primary residential dwelling unit.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>"Bachelor, efficiency or studio unit" means a dwelling unit consisting of one principal room used for living and sleeping purposes, plus cooking facilities, a bathroom, and closets.</text>
+        <text>"Studio unit" means a dwelling unit consisting of one principal room used for living and sleeping purposes, plus cooking facilities, and a bathroom.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -1046,6 +1112,14 @@
       </para>
       <para>
         <num>(f)</num>
+        <text>"Primary residential dwelling unit" means a building or separate portion thereof designated and/or customarily used as a residence by not more than one family and typically situated on a parcel or lot on which no other primary dwelling is located. Each dwelling unit within a multiple-family or two-family dwelling is also considered a primary residential dwelling unit (does not apply to junior accessory dwelling units or attached accessory dwelling units). The primary residential dwelling unit shall be larger, in terms of floor area, than any other residential unit situated on the same parcel or lot.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Single Room Occupancy" (SRO) means housing composed of individual efficiency dwelling units, where each unit has a minimum floor area of 150 square feet and a maximum size of 500 square feet. To qualify as an SRO development, no more than 10% of the units in a development may contain individual kitchens and bathrooms. Any unit not developed with an individual kitchen or bathroom must have access to common areas containing kitchen and bathroom facilities. SROs must be leased for a minimum of 30 consecutive days and also include apartment hotels. SROs are not required to provide any residential care or supportive services.</text>
+      </para>
+      <para>
+        <num>(h)</num>
         <text>"Two-family dwelling" means a building(s) designed or altered to provide attached (duplex) or detached dwelling units for occupancy by two families living independently of each other.</text>
       </para>
       <annotations>
@@ -1056,16 +1130,18 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-1" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§1" type="History"/>
         <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§2" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.04.170</num>
-      <heading>DWELLING UNIT.</heading>
-      <text>"Dwelling unit" means one or more rooms in a residential structure which are arranged or designed for use by one family, plus not more than two paying guests, which includes provisions for living, sleeping, eating, cooking and sanitation, and if located on multiple levels/stories, the unit provides interior connections from a common living area (including the living room, family room, dining room, kitchen, and other common living areas as determined by the Zoning Administrator). In addition, a "primary residential dwelling unit" means a building or separate portion thereof designated and/or customarily used as a residence by not more than one family and situated on a parcel or lot on which no other primary dwelling is located. The primary residential dwelling unit shall be larger, in terms of floor area, than any other residential structure situated on the same parcel or lot.</text>
+      <heading>DWELLING UNIT</heading>
+      <text>"Dwelling unit" means one or more rooms in a structure which are arranged or designed for use by one family, which includes provisions for living, sleeping, eating, cooking and sanitation, and if located on multiple levels/stories, the unit provides interior connections from a common living area (including but not limited to a living room, family room, dining room, kitchen, or other common living areas as determined by the Zoning Administrator).</text>
       <annotations>
         <annotation type="History">prior code § 142.01(60)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§21" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§7" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1088,11 +1164,12 @@
     <section>
       <num>27.04.177</num>
       <heading>EMERGENCY SHELTER.</heading>
-      <text>"Emergency shelter" means overnight emergency housing, typically operated by a governmental or nonprofit agency, which is the principal shelter of the inhabitant for a temporary, emergency period. An "emergency shelter" is defined as one that is open for nighttime periods only, that is from 4:00 p.m. to 8:00 a.m. on the next day; it does not function as a common household for a family, although common bath and/or kitchen facilities are typically shared by inhabitants.</text>
-      <text>Where authorized as a special use in <cite path="27.18">Chapter 27.18</cite>, the emergency shelter is subject to the following: (a) limited to up to 14 persons who have been evaluated by persons experienced in shelter placement; (b) limited to not more than 14 consecutive days and not more that seven weeks in a year; (c) limited to housing only and shall not provide on-site medical care, laundry, day care, and/or employment assistance or counseling; (d) required to provide transportation for the inhabitants; (e) required to designate one person as a community liaison to receive and resolve community complaints. Pursuant to a special use permit designating different limitations and allowances the number of persons to be housed and/or the time limits for housing may be increased.</text>
+      <text>"Emergency shelter" means overnight emergency housing typically operated by a governmental or nonprofit agency. It serves as the principal shelter of the inhabitants for a temporary period and may include services like food, sanitation, laundry, health and childcare, transportation, and social services. Emergency shelters include other interim interventions, including, but not limited to, a navigation center, bridge housing, and respite or recuperative care.</text>
+      <text>Emergency shelters are subject to the following: (a) The shelter must maintain a documented management plan that outlines strategies for staff training, community outreach, security measures, resident intake, and, when relevant, programs like job training or counseling; (b) each emergency shelter is restricted to a maximum of one hundred (100) beds, serving no more than one hundred (100) people at one time; (c) individuals or families may reside at the shelter for up to 180 days consecutively, except when longer stays are part of ongoing training or rehabilitation efforts outlined in the management plan; (d) the shelter may provide one or more common facilities, such as central cooking and dining rooms, recreation rooms, counseling centers, childcare centers, or other support services, exclusively for residents; (e) the shelter must have designated staff on-premises during all operational hours;(f) no more than one (1) emergency shelter shall be allowed within a radius of three hundred (300) feet from another such facility, measured from the nearest property lines; (g) the interior on-site waiting and intake area must be at least two hundred (200) square feet; and (h) minimum on-site parking requirement of two off-street parking spaces plus one additional off-street parking space for each 10 beds and one additional parking space per each employee on site.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2000-11" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2000-13" path="§1" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1358,6 +1435,14 @@
       </annotations>
     </section>
     <section>
+      <num>27.04.203</num>
+      <heading>FOUNDATION</heading>
+      <text>"Permanent foundation" shall mean assembly of materials constructed below, or partially below grade, not intended to be removed from its installation site, which is designed to support a manufactured home structure and engineered to resist the imposition of external natural forces, as defined by the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> or the Building Code, whichever is more restrictive.</text>
+      <annotations>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§11" type="History"/>
+      </annotations>
+    </section>
+    <section>
       <num>27.04.205</num>
       <heading>FRONTAGE.</heading>
       <text>"Frontage" means all the property fronting on one side of a street between the nearest intersecting streets, or between a street and right-of-way, waterway, or some other similar barrier.</text>
@@ -1422,6 +1507,14 @@
       </annotations>
     </section>
     <section>
+      <num>27.04.222</num>
+      <heading>GROUP HOME</heading>
+      <text>"Group home" means a one-family dwelling providing 24-hour residential care for a wide variety of persons with special needs, including but not limited to licensed group homes, unlicensed group homes, and recovery residences or sober living homes. Residents may share cooking, dining, and living areas, and may, in some group homes, participate in cooking, housekeeping, and other communal living activities.</text>
+      <annotations>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§6" type="History"/>
+      </annotations>
+    </section>
+    <section>
       <num>27.04.225</num>
       <heading>GUEST HOUSE.</heading>
       <text>"Guest house" means a detached accessory building located on the same premises with the principal building, containing living quarters for use by nonpaying guests of the occupants of the premises.</text>
@@ -1471,13 +1564,15 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§32" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>27.04.250</num>
       <heading>HOTEL, APARTMENT.</heading>
-      <text>"Apartment hotel" means a building containing dwelling units or individual guest rooms, the majority of which are for permanent guests. Maid and janitor service may be provided but kitchen facilities are not necessarily included.</text>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation type="History">prior code § 142.01(84)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§32" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§7" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1651,6 +1746,25 @@
       </annotations>
     </section>
     <section>
+      <num>27.04.306</num>
+      <heading>LOW-BARRIER NAVIGATION CENTER</heading>
+      <text>"Low-barrier navigation center" means a temporary shelter that provides services for individuals experiencing homelessness, as defined by <cite doc="Cal. Gov't Code" path="§65660">California Government Code Section 65660</cite>. Low-barrier navigation centers are subject to the following: (a) It offers services to connect people to permanent housing through a services plan that identifies services staffing; (b) It is linked to a coordinated entry system, so that staff in the interim facility or staff who co-locate in the facility may conduct assessments and provide services to connect people to permanent housing. "Coordinated entry system" means a centralized or coordinated assessment system developed pursuant to Section 576.400(d) or Section 578.7(a)(8), as applicable, of <cite path="24">Title 24</cite> of the Code of Federal Regulations, as those sections read on January 1, 2020, and any related requirements, designed to coordinate program participant intake, assessment, and referrals; (c) It complies with <cite doc="Cal. Welf. &amp; Inst. Code" path="§8255">Welfare and Institutions Code Section 8255</cite> et seq; and (d) It has a system for entering information regarding client stays, client demographics, client income, and exit destination through the local Homeless Management Information System, as defined by Section 578.3 of <cite path="24">Title 24</cite> of the Code of Federal Regulations.</text>
+      <annotations>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§8" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>27.04.308</num>
+      <heading>MANUFACTURED HOME</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Manufactured home" shall mean a structure, transportable in one or more sections, which, in the traveling mode, is eight body feet or more in width, or forty (40) feet or more in length, or when erected on site, is 320 or more square feet, and which is built on a permanent chassis and designed to be used as a dwelling installed on a permanent foundation when connected to the required utilities, and the plumbing, heating, air conditioning, and electrical systems are contained within the structure. "Manufactured home" shall also include any structure which meets all the requirements of this subsection except the size requirements and to which the manufacturer voluntarily has filed a certification and complies with the standards established by the <cite doc="Cal. Health &amp; Safety Code" proof="needed">Health and Safety Code</cite>. "Manufactured home" shall also include a mobilehome subject to the National Manufactured Housing Construction and Safety Act of 1974. "Manufactured home" shall include only those structures that contain two or less dwelling units, and that conform to the applicable requirements of the laws of the State of California or United States.</text>
+      </para>
+      <annotations>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§9" type="History"/>
+      </annotations>
+    </section>
+    <section>
       <num>27.04.310</num>
       <heading>MARQUEE—CANOPY.</heading>
       <text>"Marquee" or "canopy" means a rooflike structure of a permanent nature which projects from the wall of a building and overhangs the public way, and is designed and intended to protect pedestrians from adverse weather conditions.</text>
@@ -1673,6 +1787,14 @@
       <text>"Minor façade modification" means changes or alterations to the exterior of an existing building where no increase in the square footage of the building will occur. This includes, but is not limited to, changes in building materials, alterations, additions or elimination of existing doors, windows, awnings and other building elements, and changes to architectural features, such as the building cornice, roof or parapet.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-41" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section name="27.04.313-1">
+      <num>27.04.313.1</num>
+      <heading>MOBILEHOME PARK</heading>
+      <text>"Mobilehome park" means any area or tract of land where two or more lots are rented or leased, held out for rent or lease, or were formerly held out for rent or lease and later converted to a subdivision, cooperative, condominium, or other form of resident ownership, to accommodate manufactured homes, mobilehomes, or recreational vehicles used for human habitation as defined in <cite doc="Cal. Health &amp; Safety Code" path="§18214">Section 18214 of the Health and Safety Code</cite>, as amended from time to time. The rent paid for a manufactured home, a mobilehome, or a recreational vehicle shall be deemed to include rent for the lot it occupies. "Mobilehome park" also means a mobilehome development constructed according to the requirements of Part 2.1 (commencing with Section 18200) of Division <cite doc="Cal. Health &amp; Safety Code" path="§13">13 of the Health and Safety Code</cite>, and intended for use and sale as a mobilehome condominium or cooperative park, or as a mobilehome planned unit development.</text>
+      <annotations>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§10" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2222,6 +2344,21 @@
       </annotations>
     </section>
     <section>
+      <num>27.04.467</num>
+      <heading>SUPPORTIVE HOUSING</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Supportive Housing" means housing with no limit on length of stay, that is occupied by the target population, and that is linked to onsite or offsite services that assist the supportive housing resident in retaining the housing, improving their health status, and maximizing their ability to live and, when possible, work in the community. Supportive housing shall only be subject to those restrictions that apply to other residential dwellings of the same type in the same zone</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Target Population" means persons, including persons with disabilities, and families who are "homeless," as that term is defined by Section 11302 of Title 42 of the United States Code, or who are "homeless youth," as that term is defined by paragraph (2) of subdivision (e) of <cite doc="Cal. Gov't Code" path="§12957">Section 12957 of the Government Code</cite> as may be amended from time to time.</text>
+      </para>
+      <annotations>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§12" type="History"/>
+      </annotations>
+    </section>
+    <section>
       <num>27.04.470</num>
       <heading>SWIMMING POOL.</heading>
       <text>"Swimming pool" means any pool over 24 inches in depth, or with a surface area exceeding 100 square feet, used or intended to be used for swimming or bathing.</text>
@@ -2256,6 +2393,14 @@
       <annotations>
         <annotation type="History">prior code § 142.01(166)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§55" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>27.04.486</num>
+      <heading>TRANSITIONAL HOUSING</heading>
+      <text>"Transitional housing" and "transitional housing development" means buildings configured as rental housing developments but operated under program requirements that call for the termination of assistance and recirculation of the assisted unit to another eligible program recipient at some predetermined future point in time, which shall be no less than six months. Transitional housing shall only be subject to those restrictions that apply to other residential dwellings of the same type in the same zone.</text>
+      <annotations>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2402,7 +2547,7 @@
           <text>Site plan and architectural review for projects that incorporate:</text>
           <para>
             <num>(A)</num>
-            <text>Up to twenty-five (25) residential dwelling units that meet objective design standards as adopted by resolution of the City Council; or</text>
+            <text>Up to ninety-nine (99) residential dwelling units that meet objective design standards as adopted by resolution of the City Council; or</text>
           </para>
           <para>
             <num>(B)</num>
@@ -2521,6 +2666,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§2" type="History"/>
         <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§4" type="History"/>
         <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§2" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§14" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2567,7 +2713,7 @@
           <text>Site Plan and Architectural Review for projects that incorporate:</text>
           <para>
             <num>(A)</num>
-            <text>Twenty-six (26) or more residential dwelling units that meet objective design standards as adopted by resolution of the City Council; or</text>
+            <text>One hundred (100) or more residential dwelling units that meet objective design standards as adopted by resolution of the City Council; or</text>
           </para>
           <para>
             <num>(B)</num>
@@ -2631,6 +2777,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-33" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§6" type="History"/>
         <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§3" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§15" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2651,7 +2798,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Site Plan and Architectural Review for buildings exceeding 55 feet in height;</text>
+        <text>Site Plan and Architectural Review for buildings that exceed the height limit in the General Plan;</text>
       </para>
       <para>
         <num>(e)</num>
@@ -2693,6 +2840,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-19" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§7" type="History"/>
         <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§5" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3074,24 +3222,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The Zoning Administrator may require a new planning application for a project initially determined to be complete if one or more of the following occurs:</text>
-        <para>
-          <num>(1)</num>
-          <text>The project is significantly revised;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>New information or material germane to the project is brought to light, or becomes available, or is required to assess a change, or revision in the proposed project and the information affects the ability of the approval body to make the required findings.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>City policies, or standards are adopted which require substantial revisions in the project.</text>
-        </para>
-        <aftertext>If the Zoning Administrator finds that a new planning application is required, and no public hearing has been held on the project, then the application shall be considered withdrawn without prejudice. If a public hearing has been held, the approval body may accept the withdrawal with or without prejudice. Any unspent fees from the original application shall be applied to any new application or refunded, at the applicant's request.</aftertext>
+        <text>For any application determined to be incomplete, an applicant may appeal the incompleteness determination to the Planning Commission within 14 days of the date of the incomplete letter. Any appeal shall be submitted in writing, and be accompanied by payment of the filing fee. Pursuant to <cite doc="Cal. Gov't Code" path="§65943">California Government Code Section 65943</cite>, the Planning Commission shall make a final written determination on the appeal not later than 60 calendar days after receipt of the applicant's written appeal. The appeal process shall toll any timing requirements to resubmit incomplete application materials.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>The Zoning Administrator may close out an application, if information is requested in writing by the Zoning Administrator, and the information has not been submitted to the Zoning Administrator or the action has not occurred within 120 days. Files which are closed out are considered to be actions without prejudice, thereby enabling an immediate re-application for a project of the same, or similar nature by any applicant. The re-application shall be subject to all current fees and codes.</text>
+        <text>The Zoning Administrator may close out an application, if information is requested in writing by the Zoning Administrator, and the information has not been submitted to the Zoning Administrator or the action has not occurred within 120 days. Applications which are closed out are considered to be withdrawn and any unspent fees from the application will be refunded. An applicant for a housing development project, as defined in <cite doc="Cal. Gov't Code" path="§65905.5|(b)|(3)">California Government Code Section 65905.5(b)(3)</cite> shall follow timelines and provisions outlined in <cite doc="Cal. Gov't Code" path="§65941.1">California Government Code Section 65941.1</cite> to maintain preliminary application eligibility.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -3101,6 +3236,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§19" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-11" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§49" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3377,18 +3513,15 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Approvals granted to the City of San Mateo or the Redevelopment Agency of San Mateo shall be in force and effect for such time period as funds are budgeted in whole or in part for the project by the City or Agency.</text>
+        <text>Approvals granted to the City of San Mateo shall be in force and effect for such time period as funds are budgeted in whole or in part for the project by the City or Agency.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Projects with associated subdivision maps that remain in effect or have been extended by mandate of the state Subdivision Map Act or <cite path="26.48.135">San Mateo Municipal Code section 26.48.135</cite>, <cite path="26.48.140">26.48.140</cite>, or <cite path="26.56.087">26.56.087</cite>. Those planning approvals remain effective for the term of the subdivision map approval, if required by State law.</text>
-      </para>
-      <para>
-        <num>(e)</num>
         <text>Projects for which an extension has been obtained in accordance with <cite path="27.08.087">Section 27.08.087</cite> below.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-9" path="§7" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§6" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3401,7 +3534,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>City extensions. The Zoning Administrator may approve one extension of a planning approval for up to two years, subject to the following provisions:</text>
+        <text>City extensions. The Zoning Administrator may approve up to two extensions of a planning approval, each for up to two years, subject to the following provisions:</text>
         <para>
           <num>(1)</num>
           <text>Application required. To apply for a planning approval extension, an applicant must submit the application prior to the expiration date of the planning approval, pay the application fee and provide the reason(s) for the extension request.</text>
@@ -3434,6 +3567,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-9" path="§8" type="History"/>
         <annotation app="2023-10-18" doc="City of San Mateo, Cal., Ord. No. 2023-8" eff="2023-10-18" path="§2" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§7" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4391,7 +4525,7 @@
     <section>
       <num>27.16.050</num>
       <heading>AFFORDABLE HOUSING.</heading>
-      <text>To implement the affordable housing goals and policies in the General Plan, the City Council adopted the Below Market Rate (BMR) Program. Specific requirements for the development of affordable units are regulated by resolution adopted by the City Council.</text>
+      <text>To implement the affordable housing goals and policies in the General Plan, the City Council adopted the Below Market Rate (BMR) Program. Specific requirements for the development of affordable units under the BMR Program, including the alternative compliance option of providing offsite affordable units and other proposed alternatives, are regulated by resolution adopted by the City Council.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§1" type="History"/>
@@ -4399,6 +4533,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2018-2" path="" type="Editor's Notes" history="false" app="2018-03-05" eff="2018-03-05">See <cite doc="City of San Mateo, Cal., Ord. No. 2018-2">Ord. No. 2018-2</cite> for a moratorium on the development of residential rental units, with exceptions.</annotation>
         <annotation app="2018-03-05" doc="City of San Mateo, Cal., Ord. No. 2018-2" eff="2018-03-05" path="" type="History" display="false"/>
         <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§8" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4436,173 +4571,110 @@
     <prefix>Chapter</prefix>
     <num>27.17</num>
     <heading>MANUFACTURED HOMES</heading>
-    <section>
+    <reason>Repealed</reason>
+    <section placeholder="Repealed">
       <num>27.17.010</num>
       <heading>MANUFACTURED HOMES.</heading>
-      <text>Manufactured homes shall conform to the minimum lot size, yard areas, access, vehicular parking, and setbacks for the zone in which they are to be installed in addition to meeting the standards set forth in this ordinance.</text>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>27.17.020</num>
       <heading>DEFINITIONS.</heading>
-      <para>
-        <num>(1)</num>
-        <text>For purposes of permitting manufactured homes in residential zones, the following definitions shall apply:</text>
-        <para>
-          <num>(a)</num>
-          <text>"Architectural features" shall mean an architectural feature that occurs or appears frequently on conventionally-built homes within three hundred (300) feet from the boundaries of a parcel on which a manufactured home is proposed.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>"Manufactured home" shall mean a structure, transportable in one or more sections, which, in the traveling mode, is eight body feet or more in width, or forty (40) feet or more in length, or when erected on site, is 320 or more square feet, and which is built on a permanent chassis and designed to be used as a dwelling with or without a permanent foundation when connected to the required utilities, and the plumbing, heating, air conditioning, and electrical systems are contained within the structure. "Manufactured home" shall also include any structure which meets all the requirements of this subsection except the size requirements and to which the manufacturer voluntarily has filed a certification and complies with the standards established by the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>. "Manufactured home" shall also include a mobilehome subject to the National Manufactured Housing Construction and Safety Act of 1974. "Manufactured home" shall include only those structures that contain two or less dwelling units, and that conform to the applicable requirements of the laws of the State of California or United States.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>"Manufactured home" shall mean a dwelling manufactured off-site, conforming to state or federal standards, (bearing a state, or federal label) and transportable in one or more sections, designed to be installed on a permanent foundation.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>"Permanent foundation" shall mean assembly of materials constructed below, or partially below grade, not intended to be removed from its installation site, which is designed to support a manufactured home structure and engineered to resist the imposition of external natural forces, as defined by the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> or the Building Code, whichever is more restrictive.</text>
-        </para>
-      </para>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
         <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>27.17.030</num>
       <heading>MANUFACTURED HOME TAXATION.</heading>
-      <text>The initial installation of a manufactured home on a parcel which has been installed on a permanent foundation pursuant to this ordinance shall be deemed to be a manufactured home subject to local property taxation pursuant to the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> and the <cite doc="Cal. Rev. &amp; Tax. Code">Revenue and Taxation Code</cite>. Upon issuance of a certificate of occupancy, the City shall record with the County Recorder the specifics of such permanent installation and, also, advise the State Department of Housing and Community Development.</text>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>27.17.040</num>
       <heading>SPAR.</heading>
-      <text>A manufactured home unit on a permanent foundation on a private lot may be permitted subject to the approval of a site plan and architectural review (SPAR) application by the Zoning Administrator. The applicant/owner shall also provide the information required on the MH Form. Subsequent modifications, such as, room additions, shall be subject to issuance of a building permit.</text>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§19" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-15" path="§11" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>27.17.050</num>
       <heading>ELIGIBILITY.</heading>
-      <text>A manufactured home shall not be installed on a permanent foundation on a private parcel unless it:</text>
-      <para>
-        <num>(a)</num>
-        <text>Was constructed after September 15, 1971, and was issued an insignia of approval by the California Department of Housing and Community Development or was constructed after July 1, 1976, and was issued a label of approval by the United States Department of Housing and Urban Development; and</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Has not been altered in violation of applicable federal and state codes; and</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>The board, upon the findings and recommendations of its members shall determine the eligibility of each mobilehome unit to be installed.</text>
-      </para>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>27.17.060</num>
       <heading>STANDARDS.</heading>
-      <text>A manufactured home located on a permanent foundation on a private parcel shall:</text>
-      <para>
-        <num>(a)</num>
-        <text>Be occupied only as a residential use type.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Be subject to all provisions of the Municipal Code applicable to conventional residential structures.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Meet all development and design standards for the zone in which they are to be installed, including but not limited to the parking standards in <cite path="27.64">Chapter 27.64</cite> conforming to the maximum floor area ratio, and including landscape requirements, as applicable.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Be attached to a permanent foundation in compliance with all applicable building regulations, and of the <cite doc="Cal. Health &amp; Safety Code">health and Safety code</cite>.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Have a minimum width of twenty (20) feet or be a double-wide, multi-sectional unit.</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>Be covered with exterior building materials and have architectural features customarily used on conventional residential dwellings and be approved by the board. The exterior covering material shall extend to finished grade, except that when a solid concrete or masonry perimeter foundation is used, the exterior covering material need not extend below the top of the foundation.</text>
-      </para>
-      <para>
-        <num>(g)</num>
-        <text>Have a roof with a pitch of not less than two (2) inch vertical rise for each twelve (12) inch of horizontal run and consisting of shingles or other material customarily used for conventional residential dwellings.</text>
-      </para>
-      <para>
-        <num>(h)</num>
-        <text>Assure that the general appearance of the structure and property is in keeping with the character of the neighborhood. To achieve this assurance, the board shall require porches and eaves or roofs with eaves, specific roofing materials and siding when, in its opinion, it is necessary to be compatible with the dwellings in the area. The board shall assure that:</text>
-        <para>
-          <num>(1)</num>
-          <text>All windows and doors be architecturally treated in a manner complimentary to the building's overall design and shall comply to the City's security standards.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Screening be provided for all mechanical and electrical equipment, so that they are not visible from the public right-of-way. For roof and wall mounted equipment, the screening shall be an integral part of the building design.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Exterior materials shall generally consist of those permitted by the Building Code. Shiny, metallic surfaces are unacceptable.</text>
-        </para>
-      </para>
-      <para>
-        <num>(i)</num>
-        <text>Be provided with standard utility connections. The housing unit electrical, gas, water and drain connections shall be made permanent in a manner applicable to permanent buildings. Gas shutoff valves, meters and regulators shall not be located beneath the manufactured home.</text>
-      </para>
-      <para>
-        <num>(j)</num>
-        <text>Obtain a site development permit pursuant to <cite path="23.40">Chapter 23.40</cite> of this code.</text>
-      </para>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
         <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>27.17.070</num>
       <heading>MODIFICATION OF STANDARDS.</heading>
-      <text>Modification of the standards set forth in <cite path="27.17.060">section 27.17.060</cite>, paragraphs (e), (f) and (g), may be granted by the board if it finds that such modification will not be detrimental to the public interest or surrounding residents or properties.</text>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>27.17.080</num>
       <heading>SURRENDER OF REGISTRATION.</heading>
-      <text>Subsequent to applying for the required building permits, and prior to occupancy, the owner shall surrender the certificate of title or other indicia of registration to the state department of community development pursuant to <cite doc="Cal. Health &amp; Safety Code" path="§18551|(b)">section 18551(b) of the California Health and Safety Code</cite>. Thereafter, any vehicle license plate, certificate of ownership, and certificate of registration issued by a state agency is to be surrendered to the appropriate state agencies. Any manufactured home which is permanently attached to a permanent foundation must bear a California insignia or federal label, pursuant to <cite doc="Cal. Health &amp; Safety Code" path="§18550|(b)">section 18550(b) of the Health and Safety Code</cite>.</text>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>27.17.090</num>
       <heading>BUILDING PERMIT.</heading>
-      <text>Prior to installation of a mobilehome on a permanent foundation, the mobilehome owner or a licensed contractor shall obtain a building permit from the City building division. To obtain such a permit, the owner or contractor shall comply with all requirements of <cite doc="Cal. Health &amp; Safety Code" path="§18551|(a)">section 18551(a) of the State Health and Safety Code</cite>.</text>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
       </annotations>
     </section>
+    <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -4622,7 +4694,7 @@
       <text>The following uses are permitted:</text>
       <para>
         <num>(a)</num>
-        <text>One-family detached dwellings, including manufactured homes on permanent foundations subject to provisions of <cite path="27.17">Chapter 27.17</cite>;</text>
+        <text>One-family detached dwellings, including manufactured homes on permanent foundations;</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4642,19 +4714,27 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>Community care facilities licensed by the State of California for the following:</text>
+        <text>Community care facilities as follows:</text>
         <para>
           <num>(1)</num>
-          <text>Six (6) or fewer occupants, in addition to the caregiver's family, and</text>
+          <text>Unlicensed group homes subject to the objective development standards that apply to other residential uses of the same type in the same zone;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Family day care for fourteen (14) or fewer occupants, in addition to the caregiver's family, when managed in the caregiver's residence and in accordance with State law; and</text>
+          <text>Licensed residential care facilities including group homes with six (6) or fewer residents, in addition to the caregiver's family, subject to the objective development standards that apply to other residential uses of the same type in the same zone. Certain licensed group homes shall be subject to separation requirements pursuant to <cite doc="Cal. Health &amp; Safety Code" path="§1267.9">Health and Safety Code Section 1267.9</cite>, as amended from time to time; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Family day care for fourteen (14) or fewer occupants, in addition to the caregiver's family, when managed in the caregiver's residence and in accordance with State law.</text>
         </para>
       </para>
       <para>
         <num>(g)</num>
-        <text>Temporary buildings for construction purposes for a period not to exceed the duration of such construction.</text>
+        <text>Temporary buildings for construction purposes for a period not to exceed the duration of such construction;</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Transitional housing and supportive housing subject to the objective development standards that apply to other residential uses of the same type in the same zone.</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 146.02(A)</annotation>
@@ -4666,6 +4746,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§11" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§14" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§3" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§17" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4674,7 +4755,7 @@
       <text>The following uses may also be allowed if a special use permit is approved:</text>
       <para>
         <num>(a)</num>
-        <text>Detached accessory structures, other than secondary units, containing more than two (2) plumbing fixtures or waste lines;</text>
+        <text>Detached accessory structures, other than accessory dwelling units, containing more than two (2) plumbing fixtures or waste lines;</text>
       </para>
       <para>
         <num>(b)</num>
@@ -4694,22 +4775,26 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>Public and private educational facilities;</text>
+        <text>Group homes that provide licensed services to seven (7) or more residents without disabilities, in addition to the caregiver's family, subject to the objective development standards that apply to other residential uses of the same type in the same zone. Certain licensed group homes shall be subject to separation requirements pursuant to <cite doc="Cal. Health &amp; Safety Code" path="§1267.9">Health and Safety Code Section 1267.9</cite>;</text>
       </para>
       <para>
         <num>(g)</num>
-        <text>Day care centers when located within a public or quasi-public structure such as a school, recreation center, church, temple or similar facility;</text>
+        <text>Public and private educational facilities;</text>
       </para>
       <para>
         <num>(h)</num>
-        <text>Philanthropic and eleemosynary uses;</text>
+        <text>Day care centers when located within a public or quasi-public structure such as a school, recreation center, church, temple or similar facility;</text>
       </para>
       <para>
         <num>(i)</num>
-        <text>Public utility facilities; and</text>
+        <text>Philanthropic and eleemosynary uses;</text>
       </para>
       <para>
         <num>(j)</num>
+        <text>Public utility facilities; and</text>
+      </para>
+      <para>
+        <num>(k)</num>
         <text>Temporary real estate sales offices for a period not to exceed the duration of the construction and sale of homes within the subdivision wherein the sales office is to be located.</text>
       </para>
       <annotations>
@@ -4731,6 +4816,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2000-11" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2000-13" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§11" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§18" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5277,11 +5363,15 @@
   <container>
     <prefix>Chapter</prefix>
     <num>27.19</num>
-    <heading>ACCESSORY DWELLING UNIT AND JUNIOR ACCESSORY DWELLING UNIT—RESIDENTIAL ZONES</heading>
+    <heading>ACCESSORY DWELLING UNITS AND JUNIOR ACCESSORY DWELLING UNITS<annotation app="2026-03-04" dest="container" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§1" type="History"/></heading>
     <annotations>
       <annotation type="Editor's Notes">Prior ordinance history: Ord. Nos. 1983-16, 1989-18, 1991-12, 1997-20 and 2003-12.</annotation>
+      <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§2" type="History"/>
+      <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§9" type="History"/>
+      <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§13" type="History"/>
+      <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§14" type="History"/>
+      <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§15" type="History"/>
     </annotations>
-    <subheading>Article I Accessory Dwelling Unit</subheading>
     <section>
       <num>27.19.010</num>
       <heading>Purpose.</heading>
@@ -5293,10 +5383,64 @@
     </section>
     <section>
       <num>27.19.020</num>
-      <heading>Reserved.</heading>
+      <heading>Definitions.</heading>
+      <text>The definitions in this Section shall apply only to <cite path="27.19">this Chapter</cite>.</text>
+      <para>
+        <num>(a)</num>
+        <text>"Accessory dwelling unit" (ADU) means an attached or detached residential dwelling unit which provides complete independent living facilities for one or more persons, is accessory to the primary residential dwelling unit(s), and includes permanent provisions for living, sleeping, eating, cooking facilities and sanitation on the same lot as a Single-Family Dwelling Structure or Multifamily Dwelling Structure is or will be situated.</text>
+        <para>
+          <num>(1)</num>
+          <text>"Attached ADU" means an accessory dwelling unit that is attached to a primary residential dwelling unit, or portion thereof (including an attached garage or accessory structure).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Conversion ADU" means any accessory dwelling unit created by the conversion of any existing structure or portion thereof. The Conversion ADU may be created using existing structural components of the existing structure, or may be reconstructed to the same extent as the existing structure.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>"Detached ADU" means an accessory dwelling unit that is separated from a primary residential dwelling unit.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>"New Construction ADU" means any accessory dwelling unit that does not meet the definition and requirements of a Conversion ADU.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>"Nonexempt ADU" means an accessory dwelling unit that does not meet the definition of a State Exempt ADU.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>"State Exempt ADU" means an accessory dwelling unit that is created pursuant to <cite doc="Cal. Gov't Code" path="§66323">Government Code Section 66323</cite>.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>"Multifamily ADU" means an accessory dwelling unit on a lot with an existing or proposed Multifamily Dwelling Structure.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>"Single-Family ADU" means an accessory dwelling unit on a lot with an existing or proposed Single-Family Dwelling Structure.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"ADU Living Area" means the interior conditioned space within an Accessory Dwelling Unit, such as areas used for living, sleeping, eating, cooking and sanitation, and may also include attic or basement areas connected to the ADU. ADU Living Area does not include non-habitable spaces such as garages, carports, unconditioned utility rooms, enclosed storage areas not internally accessible by the ADU, or other accessory structures attached to the ADU.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Junior accessory dwelling unit" (JADU) means a unit that is no more than 500 square feet in size and contained entirely within an existing or proposed Single-Family Dwelling.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Multifamily Dwelling Structure" means a structure with two or more attached primary residential dwelling units.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Single-Family Dwelling Structure" means a one-family dwelling primary residential unit that either stands alone on a lot or is detached from other primary residential dwelling unit(s) on the same lot.</text>
+      </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
         <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§4" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5304,24 +5448,30 @@
       <heading>Prohibition on Sale and Limitation on Rental.</heading>
       <para>
         <num>(a)</num>
-        <text>An ADU shall not be sold separately from the primary residence.</text>
+        <text>An ADU shall not be sold separately from the primary residence, except as allowed by <cite doc="Cal. Gov't Code" path="§66341">Government Code Section 66341</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>If an ADU is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
+        <text>A JADU shall not be sold separately from the primary residential dwelling unit.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If an ADU or JADU is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
         <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§5" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§4" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.19.040</num>
       <heading>Ministerial Permit Approval.</heading>
-      <text>An ADU permit application for either an attached or a detached ADU is required in order to demonstrate that a unit is in compliance with the provisions of this Article. If the ADU is in full compliance with the provisions of this Article, a ministerial, non-discretionary permit will be issued.  Notwithstanding anything to the contrary in this Code, the issuance of a ministerial ADU permit is not appealable.</text>
+      <text>A permit application for an ADU and/or a JADU is required in order to demonstrate that the unit is in compliance with the provisions of <cite path="27.19">this Chapter</cite>. If the ADU is in full compliance with the provisions of this Chapter, a ministerial, non-discretionary permit will be issued. Notwithstanding anything to the contrary in this Code, the issuance of a ministerial ADU or JADU permit may not be appealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
         <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§6" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5329,70 +5479,106 @@
       <heading>Discretionary Review as Alternative to Ministerial Approval.</heading>
       <para>
         <num>(a)</num>
-        <text>As an alternative to ministerial review, an applicant may submit an application for discretionary review of an ADU proposal that is not in full compliance with the provisions of this Article.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>The application for discretionary approval shall be granted if the Zoning Administrator finds each of the following:</text>
+        <text>As an alternative to ministerial review, an applicant may submit an application for discretionary review of an ADU proposal that is not in full compliance with any objective standard of <cite path="27.19">this Chapter</cite>, including but not limited to the height, setback, or daylight plane provisions of <cite path="27.19">this Chapter</cite>, and/or for an ADU that proposes a second story deck or balcony exceeding the standards outlined in <cite path="27.19">this Chapter</cite>. The discretionary review application shall not be used to increase the maximum allowable floor area of a lot. The application for discretionary approval shall be granted if the Zoning Administrator finds all of the following:</text>
         <para>
           <num>(1)</num>
-          <text>The proposed ADU is consistent with all applicable objective design standards in the adopted R1 Single-Family Dwelling Design Guidelines;</text>
+          <text>The proposed ADU is consistent with all applicable objective design standards in the adopted R1 Single-Family Dwelling Design Guidelines.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>The proposed ADU would not result in a negative privacy impact on an abutting residential lot; and</text>
-        </para>
-        <para>
-          <num>(3)</num>
           <text>The proposed ADU would not result in a negative impact to public health, safety, or welfare.</text>
         </para>
         <para>
+          <num>(3)</num>
+          <text>If the proposed ADU does not comply with height, setback, or daylight plane standards, there are exceptional circumstances applicable to the property that would make compliance with the standard(s) an undue hardship, and the deviations from applicable standards are minimized.</text>
+        </para>
+        <para>
           <num>(4)</num>
-          <text>The proposed ADU, when detached and exceeding the height limit, should provide at least one additional off-street parking space.</text>
+          <text>If the proposed ADU includes a second story deck larger than 50 square feet, the deck or balcony is located and oriented to minimize direct views into neighboring windows or yard spaces, and screening is incorporated where necessary to minimize such views.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The proposed ADU is consistent with all applicable provisions of the General Plan.</text>
         </para>
       </para>
       <para>
-        <num>(c)</num>
-        <text>The decision of the Zoning Administrator shall not preclude the ability of an applicant to receive a ministerial permit pursuant to <cite path="27.19.040">Section 27.19.040</cite> for an ADU that is in full compliance with the provisions of this Article.</text>
+        <num>(b)</num>
+        <text>The decision of the Zoning Administrator shall not preclude the ability of an applicant to receive a ministerial permit for an ADU that is in full compliance with the provisions of <cite path="27.19">this Chapter</cite>.</text>
       </para>
       <para>
-        <num>(d)</num>
-        <text>The decision of the Zoning Administrator may be appealed to the Planning Commission, and the decision of the Planning Commission may be appealed to the City Council, in accordance with SMMC <cite path="27.08.090">27.08.090</cite>.</text>
+        <num>(c)</num>
+        <text>The decision of the Zoning Administrator may be appealed to the City Manager or designee, which may be a hearing officer.</text>
       </para>
       <annotations>
         <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§7" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§6" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.19.050</num>
-      <heading>Development Standards</heading>
-      <text>An ADU, as defined in <cite path="27.04.165">Section 27.04.165</cite>, shall comply with the following development standards:</text>
+      <heading>General Requirements.</heading>
+      <text>Applicability. The following shall apply to ADUs and JADUs in all zoning districts that allow for residential uses:</text>
       <para>
         <num>(a)</num>
-        <text>Permitted Zoning Districts. ADUs shall only be constructed on a lot zoned to allow residential uses.</text>
+        <text>The provisions of <cite path="27.19">this Chapter</cite> apply only to ADU Living Area. Accessory structures, such as garages, carports, non-habitable utility rooms, storage areas, or sheds, whether detached or attached to an ADU, shall be subject to the requirements of the underlying zoning district and other applicable provisions of the Zoning Code.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Number of Units. No more than the number of ADUs allowed by state law may be constructed on any lot.</text>
+        <text>Development Impact Fees. Development impact fees for ADUs shall be established in an amount set forth by resolution of the City Council. No impact fees shall be charged for ADUs 750 square feet in size or smaller. Any impact fees charged for an ADU over 750 square feet shall be charged proportionately in relation to the square footage of the primary residential dwelling unit.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>State Exempted "By Right" ADUs. An attached or detached ADU of at least 800 square-feet in size and of at least 16 feet in building height with four-foot side and rear setbacks may be constructed on a lot regardless of any size limitation based on the size of the proposed or existing primary dwelling, lot coverage, floor area ratio, daylight plane, open space, or minimum lot size that would otherwise preclude or limit its construction. The floor area of any new ADU in excess of 800 square feet shall be applied to the maximum floor area allowance of the subject lot as prescribed by the underlying zoning district.</text>
+        <text>Utility Service. For Conversion ADUs, a separate water connection, a sewer service connection, or power connection is not required. If an ADU is not converted from existing space, the City may require new or separate utility connections.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Maximum Unit Size. Floor area size maximums for both attached and detached ADU development in excess of 800 square feet are governed by the floor area maximum established by the underlying zoning district and remaining floor area allowance available on the lot. In instances when the existing floor area allowance of a lot has been fully utilized, only the state exempted "by right" ADU of up to 800 square feet is permitted.</text>
-        <para>
-          <num>(1)</num>
-          <text>Accessory Dwelling Unit Conversions. An ADU conversion within the walls of an existing primary residence or accessory structure is not subject to size requirements. ADU conversions may be expanded up to 150 square feet beyond the existing footprint provided the expansion is used to accommodate ingress and egress to the ADU.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Detached Accessory Dwelling Unit and Junior Accessory Dwelling Unit. Subject to the floor area requirements, one new detached ADU may be constructed on a lot with a junior accessory dwelling unit (JADU).</text>
-        </para>
+        <text>Utility Fees. For a Conversion ADU, payment of a connection fee or capacity charge is not required. For an ADU that is separate from an existing structure, the City will require payment of a connection fee or capacity charge that is proportionate to the ADU's burden. An ADU shall not be considered a new residential use for the purposes of calculating connection fees or capacity charges for utilities, including water and sewer service, except when the ADU is constructed with a new primary residential dwelling unit.</text>
       </para>
       <para>
         <num>(e)</num>
+        <text>Address Assignment. An application for a building permit for an ADU must include application for a separate address assignment.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§3" type="History"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§4" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§8" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§7" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>27.19.060</num>
+      <heading>Single-Family ADU Development Standards.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Applicability. This section applies to ADUs located on a lot with an existing or proposed Single-Family Dwelling Structure. Number of Units. A lot with an existing or proposed Single-Family Dwelling Structure may include any combination of the following three types of ADUs, provided that each meets the applicable development standards.</text>
+        <para>
+          <num>(1)</num>
+          <text>One Attached or Conversion ADU.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>One Detached New Construction ADU.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>One JADU, provided it is located within the walls of an existing or proposed Single-Family Dwelling Structure.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Maximum Unit Size and Floor Area Ratio (FAR). FAR and unit size maximums for both Attached and Detached ADUs in excess of 800 square feet are governed by the maximum FAR established by the underlying zoning district and remaining floor area allowance available on the lot. Up to 800 square feet of ADU living area, including New Construction State Exempt ADUs, is exempt from the maximum FAR for each lot with a Single-Family Dwelling Structure. This exemption does not apply to JADU living area. In addition, the following shall apply:</text>
+        <para>
+          <num>(1)</num>
+          <text>An ADU shall not be larger, in terms of living area, than the primary residential dwelling unit. However, when the primary residential dwelling unit is less than or equal to 800 square feet in size, a State Exempt ADU of up to 800 square feet is allowed.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A Conversion ADU within the walls of an existing primary dwelling unit or accessory structure is not subject to size requirements. ADU conversions may be expanded up to 150 square feet beyond the existing footprint provided the expansion is used to accommodate ingress and egress to the ADU.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
         <text>Height. The specific height maximums are applicable to all zoning districts which permit ADUs.</text>
         <para>
           <num>(1)</num>
@@ -5400,257 +5586,225 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Detached Accessory Dwelling Units. Maximum building height for a detached ADU is 16 feet to top plateline and 24 feet to roof peak as measured from existing grade.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Alternative Discretionary Review for Detached Accessory Dwelling Units.  For a detached ADU proposed to exceed the height limit, an application for discretionary review, pursuant to <cite path="27.19.045">Section 27.19.045</cite>, shall be submitted.</text>
+          <text>Detached Accessory Dwelling Units. Maximum building height for a detached ADU is 18 feet to top plateline and 24 feet to roof peak as measured from existing grade.</text>
         </para>
       </para>
       <para>
-        <num>(f)</num>
+        <num>(d)</num>
         <text>Setbacks. An ADU shall have setbacks as follows:</text>
         <para>
           <num>(1)</num>
-          <text>No setback shall be required for an existing legally permitted garage or accessory structure that is converted to an ADU which is constructed in the same location and to the same dimensions as the existing structure.</text>
+          <text>No setback shall be required for an existing garage or accessory structure that is converted to an ADU which is constructed in the same location and to the same dimensions, footprint, and height as the existing structure; or for a Detached ADU that is proposed in the rear one-third of a lot that otherwise meets all requirements of accessory buildings and structures in required yards of R1 districts pursuant to <cite path="27.70">Chapter 27.70</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>A minimum setback of four feet shall be required from the side and rear lot lines for all new ADU construction not meeting the criteria set forth in subsection (1) above, including ADUs constructed above an existing legally permitted garage.</text>
+          <text>A minimum setback of four feet shall be required from the side and rear lot lines for all new ADU construction not meeting the criteria set forth in subsection (1) above, including ADUs constructed above an existing garage.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>A minimum setback from the front lot line, as required in the lot's underlying zone district, shall be required for all new ADU construction not meeting the criteria set forth in subsection (1) above, including ADUs constructed above an existing legally permitted garage.</text>
+          <text>A minimum setback from the front lot line, as required in the lot's underlying zone district, shall be required for all New Construction ADUs not meeting the criteria set forth in subsection (1) above, including ADUs constructed above an existing garage. No setback is required for a State Exempt ADU.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Unit Access. An ADU must include a separate exterior entrance from the primary residential dwelling unit. An interior access may be provided between the two units, but is not required.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>ADU and JADU Parking Standards.</text>
+        <para>
+          <num>(1)</num>
+          <text>General Requirements. No off-street parking shall be required for any ADU or JADU. The required parking for the primary residential dwelling unit(s) must comply with the underlying zoning district's current standards, except when an existing garage, carport, covered parking structure, or uncovered parking space is converted to an ADU or JADU or demolished in conjunction with construction of an ADU. When this occurs, no replacement off-street parking is required for the primary residential dwelling unit.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Voluntary Parking. Off street parking for an ADU or JADU may be provided voluntarily. Voluntarily provided parking associated with ADU or JADU development must be located entirely on the same lot, and may be provided in a garage, carport, uncovered, or in tandem orientation. Additionally, the following provisions may be applied to create voluntary parking for an ADU or JADU.</text>
+          <para>
+            <num>(A)</num>
+            <text>When a garage or carport is converted to an ADU or JADU, or demolished in conjunction with construction of an ADU, the existing driveway and curb cut are not required to be removed, and may be maintained as parking area.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>A maximum of up to two voluntarily provided parking stalls may be provided for each ADU or JADU.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The maximum driveway width for single-car garages may be up to 20 feet to accommodate additional off-street parking.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Uncovered parking for an ADU or JADU may be located in the required front, side, and rear yard setback areas. If a covered parking structure is proposed to provide voluntary parking below a second-story ADU, the parking structure may be located within the footprint of the proposed ADU, provided that it is outside of the front yard setback of the underlying zoning district. When a parking structure is proposed within a required side or rear setback of the underlying zoning district, the plate height of the parking structure shall not exceed 9 feet in height.</text>
+          </para>
         </para>
       </para>
       <para>
         <num>(g)</num>
-        <text>The ADU, whether attached or detached, shall provide a separate exterior entrance, and permanent provisions for living, sleeping, eating, cooking, and sanitation.</text>
-      </para>
-      <para>
-        <num>(h)</num>
-        <text>Location of Accessory Dwelling Unit. The ADU may be within, attached to, or detached from the primary dwelling unit. ADUs shall be accessory to the primary residence and are permitted in the same locations on the parcel as the primary residence as specified in the underlying zoning district.</text>
-      </para>
-      <para>
-        <num>(i)</num>
-        <text>Number and Type of Required Parking Spaces.</text>
+        <text>Architectural Standards. Nonexempt ADUs shall be designed to comply with the following standards, as applicable:</text>
         <para>
           <num>(1)</num>
-          <text>General Requirements. There shall be a minimum of one standard size off-street parking space for each ADU. All required parking spaces shall be a minimum of 10 feet wide by 18 feet long without any obstructions. Parking associated with ADU or JADU development, whether required or voluntary, must be located entirely on the same lot, and may be provided in a garage, carport, uncovered, or in tandem orientation. Additionally, maximum driveway width for single-car garages may be up to 20 feet to accommodate additional off-street parking. The required parking for the primary residential dwelling unit must comply with current standards, as specified by the underlying zoning district.</text>
+          <text>Be designed to meet the daylight plane requirements of the R-1 zoning district as applied to the nearest adjacent side and rear lot lines.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Location of Parking for Accessory Dwelling Units.  Parking for the accessory dwelling unit may be located in the required front, side, and rear yard setback areas.</text>
+          <text>Provide and maintain obscured glazing on second-story windows up to five feet from the finished floor when the windows are located within five feet of a lot line with an abutting residential lot.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Replacement off-street parking is not required when a garage, carport, or covered parking structure is demolished in conjunction with the construction of an ADU or converted to an ADU.</text>
+          <text>When an exterior staircase is proposed, it shall have a setback of at least five feet from the nearest lot line and the size of the second story landing shall be limited to the minimum area required to allow ingress and egress as specified by the California Building Code.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Parking Exemptions.  No additional off-street parking shall be required for an ADU in the following instances:</text>
-          <para>
-            <num>(A)</num>
-            <text>The ADU is located within one-half (1/2) mile walking distance of public transit; or</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>The ADU is located within an architecturally and historically significant historic district; or</text>
-          </para>
-          <para>
-            <num>(C)</num>
-            <text>The ADU is in part of the proposed or existing legally permitted primary residence or an existing legally permitted accessory structure; or</text>
-          </para>
-          <para>
-            <num>(D)</num>
-            <text>In an area requiring on-street parking, permits are required but not offered to the occupant of the ADU; or</text>
-          </para>
-          <para>
-            <num>(E)</num>
-            <text>When the ADU is located within one block of a car share location.</text>
-          </para>
+          <text>Rooftop decks or terraces above any portion of an ADU are prohibited.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>Voluntary Parking. If no parking space is required, a maximum of one off-street parking space per ADU or JADU may be voluntarily provided.</text>
-        </para>
-      </para>
-      <para>
-        <num>(j)</num>
-        <text>Architectural Standards. New ADUs and conversions of an existing legally permitted structure shall be designed to comply with the following standards:</text>
-        <para>
-          <num>(1)</num>
-          <text>Attached Accessory Dwelling Units. ADUs that are attached to the primary dwelling unit shall:</text>
+          <text>When a second-story deck or balcony is proposed within a two-story ADU, the following shall apply:</text>
           <para>
             <num>(A)</num>
-            <text>Be of the same architectural style as the primary dwelling unit;</text>
+            <text>Second story decks or balconies shall not be larger than 50 square feet in size; and</text>
           </para>
           <para>
             <num>(B)</num>
-            <text>Be constructed of similar exterior materials, finishes, and family of colors as the primary dwelling unit;</text>
+            <text>No portion of a second story deck or balcony shall be located within the setbacks of the underlying zoning, regardless of the ADU setbacks; and</text>
           </para>
           <para>
             <num>(C)</num>
-            <text>Offset windows from neighbor's windows to maximize privacy; and</text>
-          </para>
-          <para>
-            <num>(D)</num>
-            <text>Be designed to meet the daylight plane requirements of the R-1 zoning district as applied to the nearest adjacent side and rear lot lines.</text>
-            <para>
-              <num>(i)</num>
-              <text>Application of the daylight plane requirement shall not preclude a State Exempted "By Right" ADU as defined in <cite path="27.19">this Chapter</cite>.</text>
-            </para>
-          </para>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Detached Accessory Dwelling Unit. An ADU that is detached from the primary dwelling unit shall:</text>
-          <para>
-            <num>(A)</num>
-            <text>In instances when an ADU is attached to an accessory structure, provide a uniform and integrated design with that accessory structure;</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>Offset windows from neighbor's windows to maximize privacy;</text>
-          </para>
-          <para>
-            <num>(C)</num>
-            <text>Provide and maintain obscured glazing on second-story windows up to five feet from the finished floor when the windows are located within five feet of a lot line with an abutting residential lot;</text>
-          </para>
-          <para>
-            <num>(D)</num>
-            <text>When an exterior staircase is proposed, it shall have a setback of at least five feet from the nearest lot line and the size of the second story landing shall be limited to the minimum area required to allow ingress and egress as specified by the California Building Code;</text>
-            <para>
-              <num>(i)</num>
-              <text>For an ADU that seeks to have a larger second story deck, an application for discretionary review, pursuant to <cite path="27.19.045">Section 27.19.045</cite>, shall be submitted.</text>
-            </para>
-          </para>
-          <para>
-            <num>(E)</num>
-            <text>Be designed to meet the daylight plane requirements of the R-1 zoning district as applied to the nearest adjacent side and rear lot lines.</text>
+            <text>Decks shall not face adjacent residential properties.</text>
           </para>
         </para>
       </para>
-      <para>
-        <num>(k)</num>
-        <text>Development Impact Fees. Development impact fees for ADUs shall be established in an amount set forth by resolution of the City Council.</text>
-      </para>
-      <para>
-        <num>(l)</num>
-        <text>Utility Service. If an ADU is constructed within existing space, a separate water connection, a sewer service connection, or power connection is not required for an ADU. If an ADU is not constructed within existing space, the City may require new or separate utility connections.</text>
-      </para>
-      <para>
-        <num>(m)</num>
-        <text>Utility Fees. For an ADU located within an existing structure, payment of a connection fee or capacity charge is not required. For an ADU that is separate from an existing structure, the City will require payment of a connection fee or capacity charge that is proportionate to the ADU's burden.</text>
-      </para>
-      <para>
-        <num>(n)</num>
-        <text>Address Assignment.  An application for a building permit for an ADU must include application for a separate address assignment.</text>
-      </para>
-      <para>
-        <num>(o)</num>
-        <text>Other Requirements. All other zoning requirements shall be complied with unless an authorized variance is approved.</text>
-      </para>
-      <para>
-        <num>(p)</num>
-        <text>For ADUs proposed within an existing multi-family structure or on a lot with an existing multi-family dwelling, the provisions of <cite doc="Cal. Gov't Code" path="§65852.2|(e)|(1)">Government Code Section 65852.2(e)(1)</cite> apply.</text>
-      </para>
-      <annotations>
-        <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§3" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§4" type="History"/>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§8" type="History"/>
-      </annotations>
-    </section>
-    <section>
-      <num>27.19.060</num>
-      <heading>Reserved.</heading>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
         <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§9" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§8" type="History"/>
       </annotations>
     </section>
-    <subheading>Article II Junior Accessory Dwelling Unit</subheading>
     <section>
       <num>27.19.070</num>
-      <heading>Purpose.</heading>
-      <text>The purpose of this Article is to set forth regulations to permit junior accessory dwelling units (JADUs).</text>
+      <heading>Multifamily ADU Development Standards.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Applicability. This section applies to all ADUs located on lots with existing or proposed Multifamily Dwelling Structure(s).</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Number of Units Allowed.</text>
+        <para>
+          <num>(1)</num>
+          <text>On a lot with a proposed Multifamily Dwelling Structure, up two new Detached ADUs may be allowed.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>On a lot with an existing Multifamily Dwelling Structure, the following ADUs may be permitted in combination:</text>
+          <para>
+            <num>(A)</num>
+            <text>Up to eight New Construction Detached ADUs may be allowed, provided that the number of ADUs shall not exceed the number of existing primary residential dwelling units on the lot.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Conversion ADUs created by converting non-living space within an existing Multifamily Dwelling Structure. The number of non-living space Conversion ADUs may be at least one, and not more than 25 percent of the number of existing primary residential dwelling units.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Any additional ADUs as allowed pursuant to State law.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Maximum Unit Size.</text>
+        <para>
+          <num>(1)</num>
+          <text>An ADU shall not have a larger living area than the smallest primary residential dwelling unit on a lot. When the smallest primary residential dwelling unit is less than 800 square feet, then a State Exempt ADU of up to 800 square feet is allowed.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A Conversion ADU within the existing space of a Multifamily Dwelling Structure is not subject to size requirements.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Floor Area Ratio (FAR). Floor area size maximums for both Attached and Detached ADUs are governed by the floor area maximum established by the underlying zoning district and remaining floor area allowance available on the lot. Up to 800 square feet of ADU Living Area is exempt from total FAR for the lot. The exemption for ADU floor area up to 800 square feet shall be applied individually to each new Detached ADU proposed on a lot with an existing or proposed Multifamily Dwelling Structure.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>In instances when the existing floor area allowance of a lot has been fully utilized, only New Construction State Exempt ADUs of up to 800 square feet are allowed.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Height. Maximum building height for a new Detached Multifamily ADU is 18 feet to top plateline and 24 feet to roof peak as measured from existing grade.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Setbacks.</text>
+        <para>
+          <num>(1)</num>
+          <text>For new Detached Multifamily ADUs, a minimum setback of four feet from side and rear property lines is required.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A minimum setback from the front lot line, as required in the lot's underlying zone district, shall be required for all new Multifamily ADUs. No front setback is required for a New Construction Detached State Exempt ADU.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Parking. The single-family ADU development parking standards of <cite path="27.19">this Chapter</cite> shall apply to Multifamily ADUs.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Architectural standards. The single-family ADU development architectural standards of <cite path="27.19">this Chapter</cite> shall apply to Nonexempt ADUs on lots with an existing or proposed Multifamily Dwelling Structure.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Separation between structures. New Detached Multifamily ADUs shall be separated from the primary structure by a minimum of four feet, open to the sky. Where multiple new Detached ADUs are proposed, the ADUs may be attached to each other, but must be detached from the primary structure.</text>
+      </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
         <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§10" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§10" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.19.080</num>
-      <heading>Reserved.</heading>
-      <annotations>
-        <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§11" type="History"/>
-      </annotations>
-    </section>
-    <section>
-      <num>27.19.090</num>
-      <heading>Prohibition on Sale and Limitation on Rental.</heading>
+      <heading>JADU Development Standards.</heading>
       <para>
         <num>(a)</num>
-        <text>A JADU shall not be sold separately from the primary residence.</text>
+        <text>Applicability. The development standards in this section shall apply to all JADUs.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>If a JADU is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
-      </para>
-      <annotations>
-        <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§12" type="History"/>
-      </annotations>
-    </section>
-    <section>
-      <num>27.19.100</num>
-      <heading>Ministerial Permit Required.</heading>
-      <text>A JADU permit application is required in order to demonstrate that the unit is in compliance with the provisions of this Article. If the JADU is in full compliance with the provisions of this Article, a ministerial, non-discretionary permit shall be issued.</text>
-      <annotations>
-        <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§13" type="History"/>
-      </annotations>
-    </section>
-    <section>
-      <num>27.19.110</num>
-      <heading>Development Standards.</heading>
-      <text>A "junior accessory dwelling unit," as defined in <cite path="27.04.165">Section 27.04.165</cite>, must comply with the following development standards:</text>
-      <para>
-        <num>(a)</num>
-        <text>Permitted Zoning Districts. JADUs shall only be constructed on lots zoned to allow single-family residential use, or for which a single-family residence exists or is proposed to be built. The residential lot shall not be part of a condominium, townhouse, or other multi-family development.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Limit to the Number of Junior Accessory Dwelling Units. The number of JADUs is limited to one per residential lot with a single-family residence. Lots with multi-family housing or more than one detached single-family dwelling are not eligible for JADUs.</text>
+        <text>Permitted Zoning Districts. JADUs shall only be constructed on lots zoned to allow single-family residential use, or for which a Single-Family Dwelling Structure exists or is proposed to be built. The residential lot shall not be part of a condominium, townhouse, or other Multi-Family Dwelling Structure.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Setback and Other Zoning Regulations. For purposes of setbacks and other zoning regulations, the JADU shall be considered to be a part of the principal use of subject site and shall be subject to the same requirements of the underlying zoning district.</text>
+        <text>Limit to the Number of JADUs permitted. The number of JADUs is limited to one per residential lot with a Single-Family Residential Dwelling Structure. Lots with Multi-Family Dwelling Structures are not eligible for JADUs.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Maximum Unit Size. The floor area of a JADU shall not exceed 650 square feet, including attic and basement areas as defined in <cite path="27.04.200">Section 27.04.200</cite> for the applicable zoning district.</text>
+        <text>Setback and Other Zoning Regulations. For purposes of setbacks and other zoning regulations, the JADU shall be considered to be a part of the principal use of subject site and shall be subject to the same requirements of the underlying zoning district.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Construct within Existing Structure. The JADU shall be constructed within the walls of the proposed or legally existing single-family dwelling unit, including an attached garage. Detached accessory structures, including detached garages or carports, are not permitted to be converted into JADUs.</text>
+        <text>Maximum Unit Size. The living area of a JADU shall not exceed 500 square feet, including attic and basement areas as defined in <cite path="27.04.200">Section 27.04.200</cite> for the applicable zoning district.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>Unit Access. A JADU must include:</text>
-        <para>
-          <num>(1)</num>
-          <text>A separate exterior entry from the main entrance to the single-family dwelling, which shall be provided to serve the JADU only; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>An interior entry access between the JADU and the single-family dwelling. This interior entry access may be a door equipped with a double lock. A permitted JADU may include a second interior door for sound attenuation.</text>
-        </para>
+        <text>Construct within Existing Structure. The JADU shall be constructed within the walls of the proposed or legally existing Single-Family Dwelling Structure, including an attached garage. Detached accessory structures, including detached garages or carports, are not permitted to be converted into a JADU.</text>
       </para>
       <para>
         <num>(g)</num>
+        <text>Unit Access. A JADU must include:</text>
+        <para>
+          <num>(1)</num>
+          <text>A separate exterior to serve the JADU only; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When a JADU shares sanitation facilities or utility controls (such as a thermostat for heating and cooling), an interior entry access between the JADU and the Single-Family Dwelling Structure is required. For a JADU with its own sanitation facilities and utility controls, interior access is not required, but may be provided voluntarily.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
         <text>Efficiency Food Preparation Area. A JADU shall include an efficiency kitchen that includes the following components:</text>
         <para>
           <num>(1)</num>
@@ -5662,11 +5816,11 @@
         </para>
       </para>
       <para>
-        <num>(h)</num>
+        <num>(i)</num>
         <text>Sanitation Facilities. A JADU may include its own separate sanitation facilities or may share sanitation facilities with the primary dwelling unit.</text>
       </para>
       <para>
-        <num>(i)</num>
+        <num>(j)</num>
         <text>Building and Fire Requirements.</text>
         <para>
           <num>(1)</num>
@@ -5678,42 +5832,39 @@
         </para>
       </para>
       <para>
-        <num>(j)</num>
-        <text>Utility Service. A separate water connection, a separate sewer service connection, and power connection as water, sewer, and power service is not required for a JADU.</text>
-      </para>
-      <para>
         <num>(k)</num>
-        <text>Parking. No additional off-street parking is required for a JADU.</text>
+        <text>Utility Service. Separate water connection, a separate sewer service connection, and power connection as water, sewer, and power service are not required for a JADU.</text>
       </para>
       <para>
         <num>(l)</num>
+        <text>Parking. No additional off-street parking is required for a JADU.</text>
+      </para>
+      <para>
+        <num>(m)</num>
         <text>Address Assignment. An application for a building permit for a JADU must include application for a separate address assignment.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>Owner Occupancy. If the JADU has shared sanitation facilities with the existing structure, owner-occupancy shall be required. The owner may reside in either the remaining portion of the structure or the newly created JADU. Owner-occupancy shall not be required if the JADU has its own sanitation facilities, or if the owner is another governmental agency, land trust, or housing organization.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§14" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§11" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§11" type="History"/>
       </annotations>
     </section>
     <section>
-      <num>27.19.120</num>
-      <heading>Recordation of Deed Restriction.</heading>
+      <num>27.19.090</num>
+      <heading>JADU Deed Restriction.</heading>
       <para>
         <num>(a)</num>
-        <text>A deed restriction shall be recorded to run with the land and submitted to the City prior to building permit issuance which indicates the following:</text>
+        <text>Prior to building permit issuance for a JADU, a deed restriction shall be recorded to indicate the following:</text>
         <para>
           <num>(1)</num>
-          <text>The property owner must occupy either the single-family residence or the JADU.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>If the JADU is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
-        </para>
-        <para>
-          <num>(3)</num>
           <text>Sale of the JADU separately from the single-family residence is prohibited.</text>
         </para>
         <para>
-          <num>(4)</num>
+          <num>(2)</num>
           <text>The approved size and attributes of the JADU.</text>
         </para>
       </para>
@@ -5723,7 +5874,8 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§15" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§12" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§12" type="History"/>
       </annotations>
     </section>
   </container>
@@ -5751,14 +5903,23 @@
         <annotation type="History">prior code § 146.03(A)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1971-17" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§1" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§19" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.20.020</num>
       <heading>SPECIAL USES.</heading>
-      <text>Special uses in the R2 districts shall be any special uses permitted in the R1 district, the subject to the same regulations and exceptions.</text>
+      <para>
+        <num>(a)</num>
+        <text>Special uses in the R2 districts shall be any special uses permitted in the R1 district, subject to the same regulations and exceptions;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Mobilehome parks.</text>
+      </para>
       <annotations>
         <annotation type="History">Prior code § 146.03(B)</annotation>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§20" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5881,11 +6042,11 @@
   <container>
     <prefix>Chapter</prefix>
     <num>27.21</num>
-    <heading>Two-Unit Development Residential Overlay District – R1 Districts</heading>
+    <heading>TWO-UNIT DEVELOPMENT RESIDENTIAL OVERLAY DISTRICT – R1 DISTRICTS<annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="" type="History" display="false"/></heading>
     <container>
       <prefix>Article</prefix>
       <num path-omit="true">I</num>
-      <heading>Two-Unit Development</heading>
+      <heading>TWO-UNIT DEVELOPMENT<annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="" type="History" display="false"/></heading>
       <section>
         <num>27.21.010</num>
         <heading>Purpose</heading>
@@ -6279,7 +6440,7 @@
     <container>
       <prefix>Article</prefix>
       <num path-omit="true">II</num>
-      <heading>Urban Lot Splits</heading>
+      <heading>URBAN LOT SPLITS<annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="" type="History" display="false"/></heading>
       <section>
         <num>27.21.100</num>
         <heading>Purpose</heading>
@@ -6473,6 +6634,10 @@
       </para>
       <para>
         <num>(d)</num>
+        <text>Supportive housing in compliance with <cite doc="Cal. Gov't Code">Government Code</cite> Sections 65650 - 65656, shall be considered a use by-right use. "Use by right" shall have the same meaning as defined in <cite doc="Cal. Gov't Code" path="§65583.2|(i)">Government Code Section 65583.2(i)</cite>.  Supportive housing shall also be in compliance with <cite path="27.94.020">Section 27.94.020</cite> By-Right Residential Use Requirements and subject only to those objective development standards and policies that apply to other multifamily development within the same zone.</text>
+      </para>
+      <para>
+        <num>(e)</num>
         <text>Accessory uses which are necessary to the above-mentioned buildings and uses.</text>
       </para>
       <annotations>
@@ -6480,6 +6645,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-22" path="§25" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-3" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§3" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§21" type="History"/>
       </annotations>
     </section>
     <section>
@@ -6496,18 +6662,14 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Boarding and lodging houses with a five person limitation;</text>
+        <text>Boarding and lodging houses with a five (5) resident limitation;</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Convalescent homes, rest homes, nursing homes; limited to the housing of not more than six (6) persons in addition to the owner or manager and family;</text>
+        <text>Residential care facility (excluding group homes) with seven (7) or more residents in addition to the caregiver. Certain licensed care facilities shall be subject to separation requirements pursuant to <cite doc="Cal. Health &amp; Safety Code" path="§1267.9">Health and Safety Code Section 1267.9</cite>;</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Residential care facility serving seven (7) or more persons in addition to the caregiver, and conforming with the provisions of <cite path="27.27">Chapter 27.27</cite>;</text>
-      </para>
-      <para>
-        <num>(f)</num>
         <text>Day care centers.</text>
       </para>
       <annotations>
@@ -6520,6 +6682,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§4" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-15" path="§14" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1994-2" type="History">Ord. 1994-2 §§ 6 &amp; 7, 1994</annotation>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§22" type="History"/>
       </annotations>
     </section>
     <section>
@@ -6885,12 +7048,17 @@
       </para>
       <para>
         <num>(b)</num>
+        <text>Single Room Occupancy Units;</text>
+      </para>
+      <para>
+        <num>(c)</num>
         <text>Accessory uses which are necessary to the above-mentioned buildings and uses.</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 146.05(A)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-3" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§9" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§23" type="History"/>
       </annotations>
     </section>
     <section>
@@ -7288,116 +7456,76 @@
     <prefix>Chapter</prefix>
     <num>27.27</num>
     <heading>RESIDENTIAL CARE FACILITIES</heading>
-    <section>
+    <reason>Repealed</reason>
+    <section placeholder="Repealed">
       <num>27.27.010</num>
       <heading>PURPOSE AND EFFECT OF DEVELOPMENT AND/OR USE PURSUANT TO THIS CHAPTER.</heading>
-      <text><cite path="27.27">This chapter</cite> is intended to regulate residential care facilities with seven (7) or more residents in addition to the caregiver. Residential care facilities serving six or fewer residents, in addition to the caregiver, are permitted in all zoning districts that permit single family residences and shall not be required to meet any requirement of <cite path="27.27">this chapter</cite>. Any zoning plot developed or used pursuant to <cite path="27.27">this chapter</cite> shall not thereafter be used for any purpose other than a residential care facility unless and until the Zoning Administrator has certified in writing that the alternate use satisfies all applicable and then existing land use regulations pertaining to the classification of the zoning plot.</text>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-33" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-18" path="§11" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>27.27.020</num>
       <heading>RESIDENTIAL CARE FACILITIES SPECIAL USE CRITERIA.</heading>
-      <text>When the proposed use meets the requirements of <cite path="27.27">this chapter</cite> and all the following criteria, residential care facilities serving 7 or more residents in addition to the caregiver may be permitted by approval of a special use permit and a site plan and architectural review by the Planning Commission in any zoning district that permits multiple family dwellings, but in no event in an R-1 or R-2 zoning district.</text>
-      <para>
-        <num>(1)</num>
-        <text>There are no other residential care facilities of any size within 300 radial feet of the perimeter of the subject property.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Residential occupancy of residential care facilities for the elderly, other than by the caregiver and his or her immediate family, shall be limited to persons over sixty (60) years old or to "qualified permanent residents", as defined in <cite doc="Cal. Gov't Code">California Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§51.2">51.2</cite>-<cite doc="Cal. Gov't Code" path="§51.4">51.4</cite>, or any successor legislation, who are provided varying levels and intensities of care and supervision and personal care, and who have voluntarily chosen to reside in this type of group housing arrangement<strong>.</strong></text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>The proposed use shall be licensed by the State or County and shall be conducted in a manner and with facilities that comply with <cite path="23">Title 23</cite> for this kind of occupancy. If the State or County license is suspended or revoked, the special use permit shall automatically also be suspended or revoked.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Facilities having persons in excess of 60 years of age or having physical handicaps shall be specifically designed and adapted to include safety bars and rails in bedrooms and bathrooms, ramps, and other provisions required for elderly or handicapped persons by State law or Federal regulations. In addition, such facilities shall include a common dining area as well as adequate common living areas and amenities to facilitate program activities.</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>The use shall be specifically designed and/or maintained to have a residential appearance as determined by review of the Zoning Administrator and be compatible with the architectural character of the zoning district. In residential zoning districts, signs and ramps and any other "non-residential" feature visible from the public right-of-way shall not be permitted.</text>
-      </para>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-33" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-18" path="§11" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§64" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§19" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>27.27.030</num>
       <heading>SPECIAL DENSITY STANDARDS FOR RESIDENTIAL CARE FACILITIES.</heading>
-      <text>Notwithstanding any other provisions of this Code, residential care facilities located in any zoning district that permits community care facilities shall have a total floor area that averages at least 350 square feet of floor area per resident, excluding parking. Where existing structural constraints preclude meeting this requirement, additional floor area to meet this requirement may be achieved through covered patios and decks.</text>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-33" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-18" path="§11" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>27.27.040</num>
       <heading>OPEN SPACE REQUIREMENTS.</heading>
-      <para>
-        <num>(a)</num>
-        <text>For residential care facilities located outside of the central business district, there shall be a minimum of 100 square feet of common usable open space area per resident and live-in caregiver.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>For residential care facilities located within the central business district there shall be provided a minimum of 100 square feet of common usable open space area per resident and live-in caregiver. Indoor common living areas and amenities to facilitate program activities may be counted towards this requirement up to a maximum of 75% of the total open space area required.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Any open space area to be counted toward the requirements of this Section shall have a minimum dimension of not less than six feet (6') in any direction and be easily accessible to all residents.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Outdoor areas shall be designed to provide amenities and recreational areas compatible with the needs of the residents, such as pathways and sitting areas, flower and vegetable gardens, shuffleboard courts, putting greens and similar active recreation areas.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Where additional stories prohibit easy access to open space areas on the ground floor, open roof decks, balconies, or lanais shall be provided in an amount, dimension, area, and location as determined to be adequate by the Zoning Administrator.</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>The proposed improvement of all required open space shall be designated on the plans submitted with the planning application, and upon the approval of such plans, be considered a required part of the use permit, site, and structural improvements.</text>
-      </para>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-33" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-18" path="§11" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>27.27.050</num>
       <heading>OFF-STREET PARKING.</heading>
-      <para>
-        <num>(a)</num>
-        <text>Buildings constructed as residential care facilities serving from seven (7) to fifteen (15) residents shall be required to provide one parking space for each five (5) residents, in addition to one parking space for each live-in caregiver. At least two of the parking spaces shall be enclosed.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Buildings constructed as residential care facilities serving more than (15) residents shall be required to provide one parking space for each (5) residents in addition to one parking space for each caregiver, employee, and doctor to be on-site at any one time.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Existing single-family residences to be converted into residential care facilities shall maintain existing covered parking; additional parking to meet the requirement of Subsection (a) or (b) above, as applicable, may be enclosed or uncovered.</text>
-      </para>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-33" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-18" path="§11" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>27.27.060</num>
       <heading>OTHER LAND USE STANDARDS.</heading>
-      <text>Except as expressly provided in <cite path="27.27">this chapter</cite>, the land use standards for residential care facilities, such as yard areas and floor area, shall be governed by the land use standards of the applicable zoning district.</text>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-33" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-18" path="§11" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" type="History"/>
       </annotations>
     </section>
+    <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -8272,43 +8400,43 @@
       <text>The following uses are permitted provided that the use limitations contained in <cite path="27.30.025">Section 27.30.025</cite>, "Permitted and special uses—Twenty-Fifth Avenue Improvement Area," shall apply to properties in the Twenty-Fifth Avenue Improvement Area and the use limitations contained in <cite path="27.30.027">Section 27.30.027</cite>, "Permitted and special uses—Hillsdale Station Area Plan Active Zone," shall apply to properties in the Hillsdale Station Area Plan Active Zone:</text>
       <para>
         <num>(a)</num>
-        <text>Permitted Uses in Residential Districts. Residential units only on parcels designated with a residential overlay district classification subject to R3 district "Minimum Development Standards" in <cite path="27.22.040">Section 27.22.040</cite> and affordable housing requirements as adopted by City Council resolution, unless otherwise specified in <cite path="27.29">Chapter 27.29</cite>; however, secondary units are prohibited;</text>
-      </para>
-      <para>
-        <num>(b)</num>
         <text>Animal grooming, provided no overnight boarding occurs on the site;</text>
       </para>
       <para>
-        <num>(c)</num>
+        <num>(b)</num>
         <text>Bakeries;</text>
       </para>
       <para>
-        <num>(d)</num>
+        <num>(c)</num>
         <text>Barber shops and hair salons;</text>
       </para>
       <para>
-        <num>(e)</num>
+        <num>(d)</num>
         <text>Delicatessens;</text>
       </para>
       <para>
-        <num>(f)</num>
+        <num>(e)</num>
         <text>Dry cleaners, with customer service areas;</text>
       </para>
       <para>
-        <num>(g)</num>
+        <num>(f)</num>
         <text>Financial institutions, provided the ground floor area devoted to this use does not exceed 2,500 square feet per establishment;</text>
       </para>
       <para>
-        <num>(h)</num>
+        <num>(g)</num>
         <text>Health studios and spas;</text>
       </para>
       <para>
-        <num>(i)</num>
+        <num>(h)</num>
         <text>Laundromats;</text>
       </para>
       <para>
-        <num>(j)</num>
+        <num>(i)</num>
         <text>Libraries;</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Low Barrier Navigation Center above the ground floor in compliance with <cite doc="Cal. Gov't Code">Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§65660">65660</cite>-<cite doc="Cal. Gov't Code" path="§65668">65668</cite> shall be considered a use by-right. "Use by right" shall have the same meaning as defined in subdivision (i) of Section 65583.2.  Supportive housing shall also be in compliance with <cite path="27.94.020">Section 27.94.020</cite> By-Right Residential Use Requirements and subject only to those objective development standards and policies that apply to other multifamily development within the same zone.</text>
       </para>
       <para>
         <num>(k)</num>
@@ -8332,10 +8460,14 @@
       </para>
       <para>
         <num>(p)</num>
-        <text>Restaurants and accessory outdoor dining areas, without drive-through facilities;</text>
+        <text>Residential units above the ground floor, subject to R3 district "Minimum Development Standards" in <cite path="27.22.040">Section 27.22.040</cite> and affordable housing requirements as adopted by City Council resolution, unless otherwise specified in <cite path="27.29">Chapter 27.29</cite>;</text>
       </para>
       <para>
         <num>(q)</num>
+        <text>Restaurants and accessory outdoor dining areas, without drive-through facilities;</text>
+      </para>
+      <para>
+        <num>(r)</num>
         <text>Retail uses, such as, but not limited to, the following uses, subject to a maximum of 15,000 square feet of floor area per establishment except for supermarkets and drug stores:</text>
         <para>
           <num>(1)</num>
@@ -8367,23 +8499,23 @@
         </para>
       </para>
       <para>
-        <num>(r)</num>
+        <num>(s)</num>
         <text>Reverse vending machines, subject to regulations established in <cite path="27.69">Chapter 27.69</cite>;</text>
       </para>
       <para>
-        <num>(s)</num>
+        <num>(t)</num>
         <text>Schools and day care facilities;</text>
       </para>
       <para>
-        <num>(t)</num>
+        <num>(u)</num>
         <text>Travel agencies;</text>
       </para>
       <para>
-        <num>(u)</num>
+        <num>(v)</num>
         <text>Accessory uses to principle uses permitted; and</text>
       </para>
       <para>
-        <num>(v)</num>
+        <num>(w)</num>
         <text>Other compatible uses as determined by the zoning administrator.</text>
       </para>
       <annotations>
@@ -8393,6 +8525,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§20" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-5" path="§1" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§25" type="History"/>
       </annotations>
     </section>
     <section>
@@ -8418,19 +8551,19 @@
           <num>(3)</num>
           <text>Any alternative financial service seeking to begin operations after the effective date of the ordinance codified in this section shall meet the following minimum standards of performance, which shall be included as conditions of approval for such uses:</text>
           <para>
-            <num>(i)</num>
+            <num>(A)</num>
             <text>A lighting plan shall be reviewed and approved by the Police Department and the Building Division for conformance with the City's security ordinance prior to the issuance of building permits.</text>
           </para>
           <para>
-            <num>(ii)</num>
+            <num>(B)</num>
             <text>Storefronts shall have glass or transparent glazing in the windows and doors. No more than 10% of any window or door area shall be covered by signs, banners, or opaque coverings of any kind.</text>
           </para>
           <para>
-            <num>(iii)</num>
+            <num>(C)</num>
             <text>Hours of operation shall be limited to 7:00 a.m. to 7:00 p.m.</text>
           </para>
           <para>
-            <num>(iv)</num>
+            <num>(D)</num>
             <text>At least one uniformed security guard will be on duty at all times the business is open. The security guard shall patrol the interior and all exterior portions of the property under the control of the owner or operator of the alternative financial service, including, but not limited to, parking lots and any open public spaces such as lobbies.</text>
           </para>
         </para>
@@ -8445,7 +8578,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Community care facilities serving seven or more persons in addition to the caregiver, and conforming with the provisions of <cite path="27.27">Chapter 27.27</cite>;</text>
+        <text>Community care facilities serving seven or more persons in addition to the caregiver. Certain licensed care facilities shall be subject to separation requirements pursuant to <cite doc="Cal. Health &amp; Safety Code" path="§1267.9">Health and Safety Code Section 1267.9</cite> ;</text>
       </para>
       <para>
         <num>(f)</num>
@@ -8453,7 +8586,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>Drive-through facilities for financial institutions and for pharmacies dispensing only prescriptions or medicinal goods at the drive-through facility. Drive-through facilities for pharmacies shall be subject to the parking requirements for financial institution drive-through uses, as enumerated in <cite path="27.64.160|(7)|(a)" proof="needed">Section 27.64.160(7)(a)</cite>.</text>
+        <text>Drive-through facilities for financial institutions and for pharmacies dispensing only prescriptions or medicinal goods at the drive-through facility. Drive-through facilities for pharmacies shall be subject to the parking requirements for financial institution drive-through uses, as enumerated in <cite path="27.64.160|(7)|(a)">Section 27.64.160(7)(a)</cite>.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -8489,14 +8622,10 @@
       </para>
       <para>
         <num>(p)</num>
-        <text>Residential units on parcels without a residential overlay district classification subject to R3 district "Minimum Development Standards" in <cite path="27.22.040">Section 27.22.040</cite> and affordable housing requirements as adopted by City Council resolution, unless otherwise specified in <cite path="27.29">Chapter 27.29</cite>; however, secondary units are prohibited;</text>
-      </para>
-      <para>
-        <num>(q)</num>
         <text>Businesses selling or renting firearms as defined by <cite doc="Cal. Penal Code" path="§12001|(b)">Penal Code Section 12001(b)</cite>; and</text>
       </para>
       <para>
-        <num>(r)</num>
+        <num>(q)</num>
         <text>Other compatible uses as determined by the zoning administrator subject to the granting of a special use permit.</text>
       </para>
       <annotations>
@@ -8521,6 +8650,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-5" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-6" path="§2" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§26" type="History"/>
       </annotations>
     </section>
     <section>
@@ -8869,7 +8999,7 @@
       </para>
       <para>
         <num>(n)</num>
-        <text>Residential units, only on parcels designated with a Q5 overlay classification or a residential overlay district classification, subject to R4 district "Minimum Development Standards" in <cite path="27.24.040">Section 27.24.040</cite> and affordable housing requirements as adopted by City Council resolution, except as otherwise specified in <cite path="27.29">Chapter 27.29</cite>; however, secondary units are prohibited;</text>
+        <text>Residential units, subject to R4 district "Minimum Development Standards" in <cite path="27.24.040">Section 27.24.040</cite> and affordable housing requirements as adopted by City Council resolution, except as otherwise specified in <cite path="27.29">Chapter 27.29</cite>;</text>
       </para>
       <para>
         <num>(o)</num>
@@ -8877,7 +9007,7 @@
       </para>
       <para>
         <num>(p)</num>
-        <text>Emergency Shelters, located more than 300 feet from single family zoning districts;</text>
+        <text>Emergency Shelters ;</text>
       </para>
       <para>
         <num>(q)</num>
@@ -8899,6 +9029,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§4" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-5" path="§4" type="History"/>
         <annotation app="2021-04-14" doc="City of San Mateo, Cal., Ord. No. 2021-9" eff="2021-04-14" path="§7" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§27" type="History"/>
       </annotations>
     </section>
     <section>
@@ -8927,23 +9058,18 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>Public transportation facilities and terminals;</text>
+        <text>Public transportation facilities and terminals; and other similar uses;</text>
       </para>
-      <aftertext>and other similar uses;</aftertext>
       <para>
         <num>(g)</num>
-        <text>Residential units on parcels without a residential overlay district classification subject to R4 district "Minimum Development Standards" in <cite path="27.24.040">Section 27.24.040</cite> and affordable housing requirements as adopted by City Council resolution, unless otherwise specified in <cite path="27.29">Chapter 27.29</cite>; however, secondary units are prohibited;</text>
-      </para>
-      <para>
-        <num>(h)</num>
         <text>Recreational vehicle storage, subject to the provisions of <cite path="27.64.267">Section 27.64.267</cite> of <cite path="27">this Title</cite>;</text>
       </para>
       <para>
-        <num>(i)</num>
+        <num>(h)</num>
         <text>Theaters, excluding drive-in theaters; and</text>
       </para>
       <para>
-        <num>(j)</num>
+        <num>(i)</num>
         <text>Other compatible uses as determined by the zoning administrator subject to the granting of a special permit.</text>
       </para>
       <annotations>
@@ -8951,6 +9077,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§21" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§22" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§5" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§28" type="History"/>
       </annotations>
     </section>
     <section>
@@ -9063,7 +9190,7 @@
       <text>The following uses are permitted:</text>
       <para>
         <num>(a)</num>
-        <text>Permitted uses in the C1 and C2 districts; however, secondary units are prohibited;</text>
+        <text>Permitted uses in the C1 and C2 districts provided that residential uses are subject to R4 district "Minimum Development Standards" in <cite path="27.24">Chapter 27.24</cite> and affordable housing requirements as adopted by City Council resolution, except as otherwise specified in <cite path="27.29">Chapter 27.29</cite>;</text>
       </para>
       <para>
         <num>(b)</num>
@@ -9099,6 +9226,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§35" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§22" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§4" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§29" type="History"/>
       </annotations>
     </section>
     <section>
@@ -9224,71 +9352,7 @@
       <text>The following uses are permitted:</text>
       <para>
         <num>(a)</num>
-        <text>Permitted uses in the C1, C2, and C3 districts, except that residential uses, office uses on the properties along Palm Avenue between Twentieth and Twenty-fifth Avenues, secondary units, and emergency shelters are prohibited;</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Air conditioning and heating sales and service;</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Animal hospitals, which may include outdoor kennels;</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Automobile parts, service, and repair classified as major motor vehicle repair in <cite path="27.04.320">Section 27.04.320</cite>;</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Construction materials sales and lumber yards;</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>Dry cleaning establishments, without customer service area;</text>
-      </para>
-      <para>
-        <num>(g)</num>
-        <text>Linen, towel, diaper, and other similar supply services;</text>
-      </para>
-      <para>
-        <num>(h)</num>
-        <text>Machinery sales, rental, and service, when conducted within an enclosed building;</text>
-      </para>
-      <para>
-        <num>(i)</num>
-        <text>Parcel delivery and receiving stations;</text>
-      </para>
-      <para>
-        <num>(j)</num>
-        <text>Processing and assembly of goods determined by the Zoning Administrator to be compatible with adjacent uses, provided that space in a building does not exceed six thousand square feet of total floor and basement space, not including stairwells or elevator shafts; and provided such processing or assembly can be conducted without noise, vibration, odor, dust, or any other condition which might be disturbing to occupants of adjacent buildings. When manufacturing operations of the same or similar products demand space exceeding six thousand square feet, they shall be located in the M1 district.</text>
-      </para>
-      <para>
-        <num>(k)</num>
-        <text>Sheet metal shops;</text>
-      </para>
-      <para>
-        <num>(l)</num>
-        <text>Storage and warehousing;</text>
-      </para>
-      <para>
-        <num>(m)</num>
-        <text>Tool, die, and pattern making;</text>
-      </para>
-      <para>
-        <num>(n)</num>
-        <text>Welding and iron work;</text>
-      </para>
-      <para>
-        <num>(o)</num>
-        <text>Wholesale establishments;</text>
-      </para>
-      <para>
-        <num>(p)</num>
-        <text>Accessory uses to principle uses; and</text>
-      </para>
-      <para>
-        <num>(q)</num>
-        <text>Other compatible uses as determined by the Zoning Administrator.</text>
+        <text>Permitted uses in the C1, C2, and C3 districts, except that residential uses, low barrier navigation centers, office uses on the properties along Palm Avenue between Twentieth and Twenty-fifth Avenues, and emergency shelters are prohibited;</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 147.05(A)</annotation>
@@ -9300,6 +9364,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§23" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-10" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§6" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§30" type="History"/>
       </annotations>
     </section>
     <section>
@@ -9463,23 +9528,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Multiple-family dwellings, when part of a mixed use development, subject to CBD residential development standards and affordable housing requirements as adopted by City Council resolution; however, secondary units are prohibited.</text>
+        <text>Multiple-family dwellings, when part of a mixed use development, subject to CBD residential development standards and affordable housing requirements as adopted by City Council resolution;</text>
       </para>
       <para>
         <num>(c)</num>
         <text>Name plates and signs, as classified and regulated in <cite path="25">Title 25</cite>.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Temporary buildings for construction purposes for a period not to exceed the duration of such construction.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Accessory uses which are necessary to the above-mentioned buildings and uses; including a maximum of 15% of floor area for ancillary office uses related to retail establishments located in the ground floor area of the district, and which are not visible from the street nor located within the retail storefront area.</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>Any other use deemed similar in nature and operation that is determined by the zoning administrator to be compatible with existing and permitted uses allowable under the CBD-Central Business District zoning, and is deemed desirable in serving the downtown core area and the community at large.</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 147.06(A)</annotation>
@@ -9493,6 +9546,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-10" path="§4" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§8" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2012-8" path="§1" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§31" type="History"/>
       </annotations>
     </section>
     <section>
@@ -10347,7 +10401,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>Residential units, only on parcels designated with a residential overlay district classification subject to R3 district "Minimum Development Standards" in <cite path="27.22.040">Section 27.22.040</cite> and affordable housing requirements as adopted by City Council resolution, unless otherwise specified in <cite path="27.29">Chapter 27.29</cite>; however, secondary units are prohibited.</text>
+        <text>Residential units, subject to R3 district "Minimum Development Standards" in <cite path="27.22.040">Section 27.22.040</cite> and affordable housing requirements as adopted by City Council resolution, unless otherwise specified in <cite path="27.29">Chapter 27.29</cite>.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -10377,6 +10431,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§8" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§25" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§10" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§32" type="History"/>
       </annotations>
     </section>
     <section>
@@ -10405,14 +10460,10 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>Religious institutions;</text>
+        <text>Religious institutions; and</text>
       </para>
       <para>
         <num>(g)</num>
-        <text>Residential units on parcels without a residential overlay district classification subject to R3 District "Minimum Development Standards" in <cite path="27.22.040">Section 27.22.040</cite> and affordable housing requirements as adopted by City Council resolution, unless otherwise specified in <cite path="27.29">Chapter 27.29</cite>; however, secondary units are prohibited; and</text>
-      </para>
-      <para>
-        <num>(h)</num>
         <text>Other compatible uses as determined by the Zoning Administrator subject to the granting of a special use permit.</text>
       </para>
       <annotations>
@@ -10428,6 +10479,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§26" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§11" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-6" path="§3" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§33" type="History"/>
       </annotations>
     </section>
     <section>
@@ -10575,11 +10627,7 @@
       <text>The following uses are permitted:</text>
       <para>
         <num>(a)</num>
-        <text>Permitted uses in the E1 district;</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Residential units, only on parcels designated with a residential overlay district classification subject to R4 district "Minimum Development Standards" in <cite path="27.24">Chapter 27.24</cite> and affordable housing requirements as adopted by City Council resolution, except as otherwise specified in <cite path="27.29">Chapter 27.29</cite>; however secondary units are prohibited.</text>
+        <text>Permitted uses in the E1 district</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 148.03(A)</annotation>
@@ -10591,12 +10639,13 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§9" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§27" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§12" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§34" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.48.030</num>
       <heading>SPECIAL USES.</heading>
-      <text>Special Uses in the E1 district may also be allowed subject to approval of a special use permit. Residential units on parcels without a residential overlay district classification subject to R4 district "Minimum Development Standards" in <cite path="27.24.040">Section 27.24.040</cite> and affordable housing requirements as adopted by City Council resolution, unless otherwise specified in <cite path="27.29">Chapter 27.29</cite>; however, secondary units are prohibited.</text>
+      <text>Reserved.</text>
       <annotations>
         <annotation type="History">prior code § 148.5.03(B)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-34" path="§2" type="History"/>
@@ -10608,6 +10657,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§25" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-2" path="§33" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§13" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§35" type="History"/>
       </annotations>
     </section>
     <section>
@@ -11274,6 +11324,34 @@
     <heading>SPECIAL DISTRICTS</heading>
     <subheading>Article I Agricultural Districts</subheading>
     <section>
+      <num>27.60.020</num>
+      <heading>DEFINITIONS</heading>
+      <text>The following definitions apply to <cite path="27.60">this chapter</cite>.</text>
+      <para>
+        <num>(a)</num>
+        <text>"Farmworker housing" means an agricultural employee housing development that satisfies all of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The agricultural employee housing does not contain dormitory-style housing</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The development consists of no more than 36 units or spaces designed for use by a single family or household</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Except as otherwise provided in subparagraph (2), the agricultural employee housing will be maintained and operated by a qualified affordable housing organization that has been certified pursuant to <cite doc="Cal. Gov't Code" path="§17030.10">Government Code Section 17030.10</cite> or operated by a local public housing agency or a multicounty, state, or multistate agency that has been certified as a qualified affordable housing organization</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>An affordability covenant is recorded on the property to ensure the affordability of the proposed agricultural employee housing for agricultural employees for not less than 55 years.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§36" type="History"/>
+      </annotations>
+    </section>
+    <section>
       <num>27.60.030</num>
       <heading>PERMITTED USES.</heading>
       <text>Permitted uses shall be as follows:</text>
@@ -11291,31 +11369,40 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Parks, forest preserves and recreational areas, when publicly owned and operated.</text>
+        <text>Accessory dwelling units, when a primary dwelling is located on the site.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Golf courses, regulation size, but not including "par 3" golf courses, commercially operated driving ranges or miniature golf courses; and provided, that no clubhouse or accessory building shall be located nearer than five feet to any dwelling.</text>
+        <text>Parks, forest preserves and recreational areas, when publicly owned and operated.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>Signs, advertising the sale or rental of the property upon which the sign is located.</text>
+        <text>Golf courses, regulation size, but not including "par 3" golf courses, commercially operated driving ranges or miniature golf courses; and provided, that no clubhouse or accessory building shall be located nearer than five feet to any dwelling.</text>
       </para>
       <para>
         <num>(g)</num>
+        <text>Signs, advertising the sale or rental of the property upon which the sign is located.</text>
+      </para>
+      <para>
+        <num>(h)</num>
         <text>Public utility facilities.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Farmworker housing consisting of no more than 36 beds in group quarters or 12 units or spaces designed for use by a single family or household.</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 150.02(A)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1974-4" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-22" path="§40" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§34" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§37" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.60.040</num>
       <heading>SPECIAL USES.</heading>
-      <text>The following uses may also be permitted if their site locations and proposed development plans are first approved, as provided for in Chapters 27.06 through 27.12, 27.62, 27.74, 27.78 and 27.80:</text>
+      <text>The following uses may also be permitted if their site locations and proposed development plans are first approved, as provided for in Chapters <cite path="27.06">27.06</cite> through <cite path="27.12">27.12</cite>, <cite path="27.62">27.62</cite>, <cite path="27.74">27.74</cite>, <cite path="27.78">27.78</cite> and <cite path="27.80">27.80</cite>:</text>
       <para>
         <num>(a)</num>
         <text>Mining, dredging, loading, and hauling of sand, shells, salt, dirt, gravel or other aggregate, but not including equipment, buildings or structures for screening, refining, crushing, mixing, washing or storage.</text>
@@ -11339,23 +11426,28 @@
       <para>
         <num>(f)</num>
         <text>Public service uses:</text>
-        <para>
-          <num>(1)</num>
-          <text>Filtration plant, pumping station, and water reservoir;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Sewage treatment plant;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Other governmental uses.</text>
-        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Filtration plant, pumping station, and water reservoir;</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Sewage treatment plant;</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Other governmental uses.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Temporary farmworker housing consisting of more than 36 beds in group quarters or more than 12 units or spaces designed for use by a single family or household.</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 150.02(B)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-22" path="§41" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§34" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§38" type="History"/>
       </annotations>
     </section>
     <section>
@@ -11365,6 +11457,7 @@
       <annotations>
         <annotation type="History">prior code § 150.02(C)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§34" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§39" type="History"/>
       </annotations>
     </section>
     <subheading>Article II Open Space Districts</subheading>
@@ -11410,7 +11503,7 @@
       <text>The following uses may also be allowed if a special use permit is approved:</text>
       <para>
         <num>(a)</num>
-        <text>Detached accessory structures, other than secondary units, containing more than two plumbing fixtures or waste lines;</text>
+        <text>Detached accessory structures, containing more than two plumbing fixtures or waste lines;</text>
       </para>
       <para>
         <num>(b)</num>
@@ -11418,38 +11511,34 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Secondary units subject to provisions of <cite path="27.19">Chapter 27.19</cite>;</text>
-      </para>
-      <para>
-        <num>(d)</num>
         <text>Cemeteries and mausoleums;</text>
       </para>
       <para>
-        <num>(e)</num>
+        <num>(d)</num>
         <text>Churches, convents, parish houses, and monasteries;</text>
       </para>
       <para>
-        <num>(f)</num>
+        <num>(e)</num>
         <text>Community services, including, but not limited to, libraries, parks, playgrounds, and community centers;</text>
       </para>
       <para>
-        <num>(g)</num>
+        <num>(f)</num>
         <text>Public and private educational facilities;</text>
       </para>
       <para>
-        <num>(h)</num>
+        <num>(g)</num>
         <text>Day care centers serving more than six persons or family day care centers serving more than 14 children;</text>
       </para>
       <para>
-        <num>(i)</num>
+        <num>(h)</num>
         <text>Philanthropic and eleemosynary uses;</text>
       </para>
       <para>
-        <num>(j)</num>
+        <num>(i)</num>
         <text>Public utility facilities; and</text>
       </para>
       <para>
-        <num>(k)</num>
+        <num>(j)</num>
         <text>Temporary real estate sales offices for a period not to exceed the duration of the construction and sale of homes within the subdivision wherein the sales office is to be located.</text>
       </para>
       <annotations>
@@ -11457,6 +11546,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§34" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-15" path="§24" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§29" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§40" type="History"/>
       </annotations>
     </section>
     <subheading>Article III Qualified (Q) Overlay Zoning Districts</subheading>
@@ -11677,14 +11767,14 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>Q8 (Qualified Overlay District 8)—Limitations and Conditions.  The following limitations and conditions shall pertain to the use of the property zoned Q8:</text>
+        <text>Q8 (Qualified Overlay District 8) - Limitations and Conditions. The following limitations and conditions shall pertain to the use of the property zoned Q8:</text>
         <para>
           <num>(1)</num>
-          <text>Uses.  All uses in this district shall require a special use permit, as set forth in <cite path="27.74">Chapter 27.74</cite> of the Zoning Code.</text>
+          <text>Uses. All uses in this district shall require a special use permit, as set forth in <cite path="27.74">Chapter 27.74</cite> of the Zoning Code.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Development.  Future development in this district shall comply with the approved site plan and approved Special Use Permit as part of the Planning Application # PA2018-069 approved by the City of San Mateo.</text>
+          <text>Development.  Future development in this district shall comply with the site plans and conditions of approval in all applicable Planning Applications. Development standards include allowance of awning up to nine (9) feet in height within the rear yard setback.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -11692,7 +11782,11 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Parking.  Off-site parking facilities shall not be located in excess of 1,000 feet from the project site.</text>
+          <text>Parking.  Off-site parking facilities shall not be located in excess of 1,000 feet from the project site. Uncovered parking may be allowed within the front and side setback areas.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Signage. Signage on the site shall be allowed in accordance with <cite path="25">Title 25 of the San Mateo Municipal Code</cite>.</text>
         </para>
       </para>
       <annotations>
@@ -11703,6 +11797,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-5" path="§5" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-1" path="§1" type="History"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-7" eff="2019-07-17" path="§1" type="History"/>
+        <annotation app="2026-02-25" doc="City of San Mateo, Cal., Ord. No. 2026-01" eff="2026-02-25" path="§1" type="History"/>
       </annotations>
     </section>
   </container>
@@ -18112,7 +18207,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>27.94</num>
-    <heading>Housing Opportunities Overlay District (H)</heading>
+    <heading>HOUSING OPPORTUNITIES OVERLAY DISTRICT (H)<annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="" type="History" display="false"/></heading>
     <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="" type="History"/>
     <section>
       <num>27.94.005</num>

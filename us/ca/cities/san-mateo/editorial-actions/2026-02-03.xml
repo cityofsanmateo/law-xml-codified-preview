@@ -117,12 +117,12 @@
     </codify:replace>
   </codify:insert>
   <codify:insert doc="City of San Mateo, Cal., Ord. No. 2022-10" history="false">
-    <codify:replace applicability="2022-11-02" doc="City of San Mateo, Cal., Code" path="27.21|I|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|I">
+    <codify:replace applicability="2022-11-02" doc="City of San Mateo, Cal., Code" path="27.21|I|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.21|I">
       <heading>TWO-UNIT DEVELOPMENT</heading>
     </codify:replace>
   </codify:insert>
   <codify:insert doc="City of San Mateo, Cal., Ord. No. 2022-10" history="false">
-    <codify:replace applicability="2022-11-02" doc="City of San Mateo, Cal., Code" path="27.21|II|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|II">
+    <codify:replace applicability="2022-11-02" doc="City of San Mateo, Cal., Code" path="27.21|II|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.21|II">
       <heading>URBAN LOT SPLITS</heading>
     </codify:replace>
   </codify:insert>

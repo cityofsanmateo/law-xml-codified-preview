@@ -137,7 +137,7 @@
       <annotations>
         <annotation type="History">prior code § 143.03</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-27" path="§2" type="History"/>
-        <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§2" type="History"/>
+        <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§2" target-path="27.02.060" type="History"/>
       </annotations>
     </section>
     <section>
@@ -265,7 +265,7 @@
       <annotations>
         <annotation type="History">prior code § 143.17</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-27" path="§4" type="History"/>
-        <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§3" type="History"/>
+        <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§3" target-path="27.02.140" type="History"/>
       </annotations>
     </section>
     <section>
@@ -294,7 +294,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-14" path="§2" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-04" eff="2025-05-07" path="§1" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-04" eff="2025-05-07" path="§1" target-path="27.02.170" type="History"/>
       </annotations>
     </section>
     <section>
@@ -340,7 +340,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-15" path="§2" type="History"/>
-        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§3" type="History"/>
+        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§3" target-path="27.02.180" type="History"/>
       </annotations>
     </section>
     <section>
@@ -391,7 +391,7 @@
       <text>The provisions of Ordinance No. 2024-10, approved by the voters on November 5, 2024, as Measure T, and effective on December 19, 2024, allows for the full implementation of the Land Use Element in General Plan 2040. In case of conflict or inconsistency between <cite path="27">Title 27</cite> of the Municipal Code (Zoning Code) and the General Plan 2040, the uses, densities, intensities and heights specified in Table LU-1 (Land Use Designations) in the Land Use Element and associated with the Land Use Map shall control.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-2" path="§35" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-04" eff="2025-05-07" path="§2" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-04" eff="2025-05-07" path="§2" target-path="27.02.220" type="History"/>
       </annotations>
     </section>
     <section>
@@ -434,7 +434,7 @@
         <text>The City Council may consider a request to reduce the required minimum residential density in a mixed-use development project with a residential component for a project that provides a greater percentage of affordable housing units than required by <cite path="27.16.050">Section 27.16.050</cite> Affordable Housing or by providing public community benefits.</text>
       </para>
       <annotations>
-        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§2" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§2" target-path="27.02" type="History"/>
       </annotations>
     </section>
   </container>
@@ -672,7 +672,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-23" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-22" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-16" path="§2" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" target-path="27.04.057" type="History"/>
       </annotations>
     </section>
     <section>
@@ -926,8 +926,8 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-18" path="§12" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1994-2" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§4" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§2" type="History"/>
-        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§3" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§2" target-path="27.04.130" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§3" target-path="27.04.130" type="History"/>
       </annotations>
     </section>
     <section>
@@ -972,7 +972,7 @@
       <annotations>
         <annotation type="History">prior code § 142.01(48)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§17" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§1" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§1" target-path="27.04.140" type="History"/>
       </annotations>
     </section>
     <section>
@@ -991,7 +991,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-23" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-27" path="§9" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-22" path="§6" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" target-path="27.04.144" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1129,8 +1129,8 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§7" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-1" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§1" type="History"/>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§2" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§3" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§2" target-path="27.04.165|(c)" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§3" target-path="27.04.165" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1141,7 +1141,7 @@
         <annotation type="History">prior code § 142.01(60)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§21" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§7" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§4" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§4" target-path="27.04.170" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1169,7 +1169,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2000-11" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2000-13" path="§1" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§5" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§5" target-path="27.04.177" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1431,7 +1431,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-36" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2002-10" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§5" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§2" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§2" target-path="27.04.200" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1439,7 +1439,7 @@
       <heading>FOUNDATION</heading>
       <text>"Permanent foundation" shall mean assembly of materials constructed below, or partially below grade, not intended to be removed from its installation site, which is designed to support a manufactured home structure and engineered to resist the imposition of external natural forces, as defined by the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> or the Building Code, whichever is more restrictive.</text>
       <annotations>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§11" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§11" target-path="27.04" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1503,7 +1503,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1974-21" type="History">Ord. 1974-21 §§ 2, 3</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§27" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-27" path="§13" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="27.04.220" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1511,7 +1511,7 @@
       <heading>GROUP HOME</heading>
       <text>"Group home" means a one-family dwelling providing 24-hour residential care for a wide variety of persons with special needs, including but not limited to licensed group homes, unlicensed group homes, and recovery residences or sober living homes. Residents may share cooking, dining, and living areas, and may, in some group homes, participate in cooking, housekeeping, and other communal living activities.</text>
       <annotations>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§6" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§6" target-path="27.04" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1572,7 +1572,7 @@
       <annotations>
         <annotation type="History">prior code § 142.01(84)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§32" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§7" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§7" target-path="27.04.250" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1750,7 +1750,7 @@
       <heading>LOW-BARRIER NAVIGATION CENTER</heading>
       <text>"Low-barrier navigation center" means a temporary shelter that provides services for individuals experiencing homelessness, as defined by <cite doc="Cal. Gov't Code" path="§65660">California Government Code Section 65660</cite>. Low-barrier navigation centers are subject to the following: (a) It offers services to connect people to permanent housing through a services plan that identifies services staffing; (b) It is linked to a coordinated entry system, so that staff in the interim facility or staff who co-locate in the facility may conduct assessments and provide services to connect people to permanent housing. "Coordinated entry system" means a centralized or coordinated assessment system developed pursuant to Section 576.400(d) or Section 578.7(a)(8), as applicable, of <cite path="24">Title 24</cite> of the Code of Federal Regulations, as those sections read on January 1, 2020, and any related requirements, designed to coordinate program participant intake, assessment, and referrals; (c) It complies with <cite doc="Cal. Welf. &amp; Inst. Code" path="§8255">Welfare and Institutions Code Section 8255</cite> et seq; and (d) It has a system for entering information regarding client stays, client demographics, client income, and exit destination through the local Homeless Management Information System, as defined by Section 578.3 of <cite path="24">Title 24</cite> of the Code of Federal Regulations.</text>
       <annotations>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§8" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§8" target-path="27.04" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1761,7 +1761,7 @@
         <text>"Manufactured home" shall mean a structure, transportable in one or more sections, which, in the traveling mode, is eight body feet or more in width, or forty (40) feet or more in length, or when erected on site, is 320 or more square feet, and which is built on a permanent chassis and designed to be used as a dwelling installed on a permanent foundation when connected to the required utilities, and the plumbing, heating, air conditioning, and electrical systems are contained within the structure. "Manufactured home" shall also include any structure which meets all the requirements of this subsection except the size requirements and to which the manufacturer voluntarily has filed a certification and complies with the standards established by the <cite doc="Cal. Health &amp; Safety Code" proof="needed">Health and Safety Code</cite>. "Manufactured home" shall also include a mobilehome subject to the National Manufactured Housing Construction and Safety Act of 1974. "Manufactured home" shall include only those structures that contain two or less dwelling units, and that conform to the applicable requirements of the laws of the State of California or United States.</text>
       </para>
       <annotations>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§9" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§9" target-path="27.04" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1794,7 +1794,7 @@
       <heading>MOBILEHOME PARK</heading>
       <text>"Mobilehome park" means any area or tract of land where two or more lots are rented or leased, held out for rent or lease, or were formerly held out for rent or lease and later converted to a subdivision, cooperative, condominium, or other form of resident ownership, to accommodate manufactured homes, mobilehomes, or recreational vehicles used for human habitation as defined in <cite doc="Cal. Health &amp; Safety Code" path="§18214">Section 18214 of the Health and Safety Code</cite>, as amended from time to time. The rent paid for a manufactured home, a mobilehome, or a recreational vehicle shall be deemed to include rent for the lot it occupies. "Mobilehome park" also means a mobilehome development constructed according to the requirements of Part 2.1 (commencing with Section 18200) of Division <cite doc="Cal. Health &amp; Safety Code" path="§13">13 of the Health and Safety Code</cite>, and intended for use and sale as a mobilehome condominium or cooperative park, or as a mobilehome planned unit development.</text>
       <annotations>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§10" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§10" target-path="27.04" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1954,7 +1954,7 @@
         <text>"Pervious" surface means any surface or material that allows the passage of water through the material and into the underlying soil.</text>
       </para>
       <annotations>
-        <annotation app="2021-04-14" doc="City of San Mateo, Cal., Ord. No. 2021-9" eff="2021-04-14" path="§1" type="History"/>
+        <annotation app="2021-04-14" doc="City of San Mateo, Cal., Ord. No. 2021-9" eff="2021-04-14" path="§1" target-path="27.04" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2355,7 +2355,7 @@
         <text>"Target Population" means persons, including persons with disabilities, and families who are "homeless," as that term is defined by Section 11302 of Title 42 of the United States Code, or who are "homeless youth," as that term is defined by paragraph (2) of subdivision (e) of <cite doc="Cal. Gov't Code" path="§12957">Section 12957 of the Government Code</cite> as may be amended from time to time.</text>
       </para>
       <annotations>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§12" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§12" target-path="27.04" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2400,7 +2400,7 @@
       <heading>TRANSITIONAL HOUSING</heading>
       <text>"Transitional housing" and "transitional housing development" means buildings configured as rental housing developments but operated under program requirements that call for the termination of assistance and recirculation of the assisted unit to another eligible program recipient at some predetermined future point in time, which shall be no less than six months. Transitional housing shall only be subject to those restrictions that apply to other residential dwellings of the same type in the same zone.</text>
       <annotations>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§13" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§13" target-path="27.04" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2664,9 +2664,9 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-36" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§2" type="History"/>
-        <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§4" type="History"/>
-        <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§2" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§14" type="History"/>
+        <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§4" target-path="27.06.020" type="History"/>
+        <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§2" target-path="27.06.020" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§14" target-path="27.06.020|(h)|(1)|(A)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2776,8 +2776,8 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§38" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-33" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§6" type="History"/>
-        <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§3" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§15" type="History"/>
+        <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§3" target-path="27.06.040" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§15" target-path="27.06.040|(a)|(3)|(A)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2839,8 +2839,8 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-1" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-19" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§7" type="History"/>
-        <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§5" type="History"/>
-        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§4" type="History"/>
+        <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§5" target-path="27.06.050" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§4" target-path="27.06.050|(d)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2898,7 +2898,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-6" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-11" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-19" path="§3" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§1" type="History"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§1" target-path="27.06.080" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3108,7 +3108,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-36" path="§5" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-1" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§9" type="History"/>
-        <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§4" type="History"/>
+        <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§4" target-path="27.08.030" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3236,7 +3236,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§19" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-11" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§49" type="History"/>
-        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§5" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§5" target-path="27.08.035" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3496,7 +3496,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-11" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-18" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§55" type="History"/>
-        <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§6" type="History"/>
+        <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§6" target-path="27.08.080" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3521,7 +3521,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-9" path="§7" type="History"/>
-        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§6" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§6" target-path="27.08.085" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3566,8 +3566,8 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-9" path="§8" type="History"/>
-        <annotation app="2023-10-18" doc="City of San Mateo, Cal., Ord. No. 2023-8" eff="2023-10-18" path="§2" type="History"/>
-        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§7" type="History"/>
+        <annotation app="2023-10-18" doc="City of San Mateo, Cal., Ord. No. 2023-8" eff="2023-10-18" path="§2" target-path="27.08.087" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§7" target-path="27.08.087" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3840,15 +3840,16 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-21" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§11" type="History"/>
-        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(1)" type="History"/>
-        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(2)" type="History"/>
-        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(3)" type="History"/>
-        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(4)" type="History"/>
-        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(5)" type="History"/>
-        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(6)" type="History"/>
-        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(7)" type="History"/>
-        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(8)" type="History"/>
-        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(1)" target-path="27.13.040|(c)|(1)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(2)" target-path="27.13.040|(c)|(2)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(3)" target-path="27.13.040|(c)|(3)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(4)" target-path="27.13.040|(c)|(4)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(5)" target-path="27.13.040|(c)|(5)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(6)" target-path="27.13.040|(c)|(6)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(7)" target-path="27.13.040|(c)|(7)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(8)" target-path="27.13.040|(c)|(8)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6" target-path="27.13.040|(c)|(9)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6" target-path="27.13.040|(c)|(10)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4136,7 +4137,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-1" path="§1" type="History"/>
         <annotation type="History">Prior codification § 27.16.060</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2018-3" path="§2" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" type="History" display="false"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" target-path="27" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -4164,7 +4165,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-1" path="§1" type="History"/>
         <annotation type="History">Prior codification § 27.16.060</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2018-3" path="§2" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" type="History" display="false"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" target-path="27" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -4196,7 +4197,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-1" path="§1" type="History"/>
         <annotation type="History">Prior codification § 27.16.060</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2018-3" path="§2" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" type="History" display="false"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" target-path="27" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -4251,7 +4252,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-1" path="§1" type="History"/>
         <annotation type="History">Prior codification § 27.16.060</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2018-3" path="§2" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" type="History" display="false"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" target-path="27" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -4286,7 +4287,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-1" path="§1" type="History"/>
         <annotation type="History">Prior codification § 27.16.060</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2018-3" path="§2" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" type="History" display="false"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" target-path="27" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -4353,7 +4354,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-1" path="§1" type="History"/>
         <annotation type="History">Prior codification § 27.16.060</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2018-3" path="§2" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" type="History" display="false"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" target-path="27" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -4365,10 +4366,10 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-1" path="§1" type="History"/>
         <annotation type="History">Prior codification § 27.16.060</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2018-3" path="§2" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" type="History" display="false"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" target-path="27" type="History" display="false"/>
       </annotations>
     </section>
-    <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" type="History" display="false"/>
+    <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" target-path="27" type="History" display="false"/>
     <section>
       <num>27.15.080</num>
       <heading>AFFORDABLE HOUSING PROJECTS NEAR TRANSIT</heading>
@@ -4401,8 +4402,8 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" type="History" display="false"/>
-        <annotation app="2020-08-19" doc="City of San Mateo, Cal., Ord. No. 2020-10" eff="2020-08-19" path="§1" type="History"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" target-path="27" type="History" display="false"/>
+        <annotation app="2020-08-19" doc="City of San Mateo, Cal., Ord. No. 2020-10" eff="2020-08-19" path="§1" target-path="27.15" type="History"/>
       </annotations>
     </section>
   </container>
@@ -4436,7 +4437,7 @@
       </para>
       <annotations>
         <annotation type="History">Prior code § 146.01</annotation>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="" type="History"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="" target-path="27.16.060" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4446,7 +4447,7 @@
       <annotations>
         <annotation type="History">Prior code § 143.06</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-2" path="§4" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="" type="History"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="" target-path="27.16.060" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4467,7 +4468,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§58" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="" type="History"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="" target-path="27.16.060" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4519,7 +4520,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-1" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1998-29" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-8" path="§2" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="" type="History"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="" target-path="27.16.060" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4531,9 +4532,9 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-7" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2018-2" path="" type="Editor's Notes" history="false" app="2018-03-05" eff="2018-03-05">See <cite doc="City of San Mateo, Cal., Ord. No. 2018-2">Ord. No. 2018-2</cite> for a moratorium on the development of residential rental units, with exceptions.</annotation>
-        <annotation app="2018-03-05" doc="City of San Mateo, Cal., Ord. No. 2018-2" eff="2018-03-05" path="" type="History" display="false"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="" type="History"/>
-        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§8" type="History"/>
+        <annotation app="2018-03-05" doc="City of San Mateo, Cal., Ord. No. 2018-2" eff="2018-03-05" path="" target-path="27.16.050" type="History" display="false"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="" target-path="27.16.060" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§8" target-path="27.16.050" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4562,10 +4563,10 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-15" path="§10" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="" type="History"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="" target-path="27.16.060" type="History"/>
       </annotations>
     </section>
-    <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="" type="History"/>
+    <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="" target-path="27.16.060" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -4580,7 +4581,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" target-path="27.17" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -4591,8 +4592,8 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" target-path="27.17.020" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" target-path="27.17" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -4603,7 +4604,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" target-path="27.17" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -4615,7 +4616,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§19" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-15" path="§11" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" target-path="27.17" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -4626,7 +4627,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" target-path="27.17" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -4637,8 +4638,8 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" target-path="27.17.060" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" target-path="27.17" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -4649,7 +4650,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" target-path="27.17" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -4660,7 +4661,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" target-path="27.17" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -4671,10 +4672,10 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" target-path="27.17" type="History"/>
       </annotations>
     </section>
-    <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" type="History"/>
+    <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§16" target-path="27.17" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -4746,7 +4747,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§11" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§14" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§3" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§17" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§17" target-path="27.18.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4816,7 +4817,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2000-11" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2000-13" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§11" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§18" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§18" target-path="27.18.030" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5032,7 +5033,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-16" path="§10" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1993-11" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1994-14" path="§1" type="History"/>
-        <annotation app="2021-04-14" doc="City of San Mateo, Cal., Ord. No. 2021-9" eff="2021-04-14" path="§2" type="History"/>
+        <annotation app="2021-04-14" doc="City of San Mateo, Cal., Ord. No. 2021-9" eff="2021-04-14" path="§2" target-path="27.18.070" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5121,7 +5122,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1994-14" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2006-9" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§16" type="History"/>
-        <annotation app="2021-04-14" doc="City of San Mateo, Cal., Ord. No. 2021-9" eff="2021-04-14" path="§3" type="History"/>
+        <annotation app="2021-04-14" doc="City of San Mateo, Cal., Ord. No. 2021-9" eff="2021-04-14" path="§3" target-path="27.18.080" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5235,7 +5236,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-16" path="§10" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2006-9" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§17" type="History"/>
-        <annotation app="2021-04-14" doc="City of San Mateo, Cal., Ord. No. 2021-9" eff="2021-04-14" path="§4" type="History"/>
+        <annotation app="2021-04-14" doc="City of San Mateo, Cal., Ord. No. 2021-9" eff="2021-04-14" path="§4" target-path="27.18.100|(a)|(9)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5327,7 +5328,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2000-2" path="§6" type="History"/>
-        <annotation app="2021-04-14" doc="City of San Mateo, Cal., Ord. No. 2021-9" eff="2021-04-14" path="§5" type="History"/>
+        <annotation app="2021-04-14" doc="City of San Mateo, Cal., Ord. No. 2021-9" eff="2021-04-14" path="§5" target-path="27.18.115" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5363,14 +5364,14 @@
   <container>
     <prefix>Chapter</prefix>
     <num>27.19</num>
-    <heading>ACCESSORY DWELLING UNITS AND JUNIOR ACCESSORY DWELLING UNITS<annotation app="2026-03-04" dest="container" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§1" type="History"/></heading>
+    <heading>ACCESSORY DWELLING UNITS AND JUNIOR ACCESSORY DWELLING UNITS<annotation app="2026-03-04" dest="container" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§1" target-path="27.19|heading" type="History"/></heading>
     <annotations>
       <annotation type="Editor's Notes">Prior ordinance history: Ord. Nos. 1983-16, 1989-18, 1991-12, 1997-20 and 2003-12.</annotation>
-      <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§2" type="History"/>
-      <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§9" type="History"/>
-      <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§13" type="History"/>
-      <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§14" type="History"/>
-      <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§15" type="History"/>
+      <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§2" target-path="27.19|article-I-subheading" type="History"/>
+      <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§9" target-path="27.19|article-II-subheading" type="History"/>
+      <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§13" target-path="27.19.100" type="History"/>
+      <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§14" target-path="27.19.110" type="History"/>
+      <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§15" target-path="27.19.120" type="History"/>
     </annotations>
     <section>
       <num>27.19.010</num>
@@ -5378,7 +5379,7 @@
       <text>The purpose of this Article is to set forth regulations to permit accessory dwelling units (ADUs) in accordance with state law.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§3" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§3" target-path="27.19.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5439,8 +5440,8 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§4" type="History"/>
-        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§3" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§4" target-path="27.19.020" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§3" target-path="27.19.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5460,8 +5461,8 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§5" type="History"/>
-        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§4" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§5" target-path="27.19.030" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§4" target-path="27.19.030" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5470,8 +5471,8 @@
       <text>A permit application for an ADU and/or a JADU is required in order to demonstrate that the unit is in compliance with the provisions of <cite path="27.19">this Chapter</cite>. If the ADU is in full compliance with the provisions of this Chapter, a ministerial, non-discretionary permit will be issued. Notwithstanding anything to the contrary in this Code, the issuance of a ministerial ADU or JADU permit may not be appealed.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§6" type="History"/>
-        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§5" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§6" target-path="27.19.040" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§5" target-path="27.19.040" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5510,8 +5511,8 @@
         <text>The decision of the Zoning Administrator may be appealed to the City Manager or designee, which may be a hearing officer.</text>
       </para>
       <annotations>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§7" type="History"/>
-        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§6" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§7" target-path="27.19" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§6" target-path="27.19.045" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5540,10 +5541,10 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§3" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§4" type="History"/>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§8" type="History"/>
-        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§7" type="History"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§3" target-path="27.19.050|(k)|(1)" type="History"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§4" target-path="27.19.050|(k)|(5)" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§8" target-path="27.19.050" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§7" target-path="27.19.050" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5675,8 +5676,8 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§9" type="History"/>
-        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§8" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§9" target-path="27.19.060" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§8" target-path="27.19.060" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5760,8 +5761,8 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§10" type="History"/>
-        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§10" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§10" target-path="27.19.070" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§10" target-path="27.19.070" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5849,8 +5850,8 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§11" type="History"/>
-        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§11" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§11" target-path="27.19.080" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§11" target-path="27.19.080" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5874,8 +5875,8 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
-        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§12" type="History"/>
-        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§12" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§12" target-path="27.19.090" type="History"/>
+        <annotation app="2026-03-04" doc="City of San Mateo, Cal., Ord. No. 2026-02" eff="2026-03-04" path="§12" target-path="27.19.090" type="History"/>
       </annotations>
     </section>
   </container>
@@ -5903,7 +5904,7 @@
         <annotation type="History">prior code § 146.03(A)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1971-17" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§1" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§19" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§19" target-path="27.20.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5919,7 +5920,7 @@
       </para>
       <annotations>
         <annotation type="History">Prior code § 146.03(B)</annotation>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§20" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§20" target-path="27.20.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -6018,7 +6019,7 @@
       </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-1" path="§4" type="History"/>
-        <annotation app="2021-04-14" doc="City of San Mateo, Cal., Ord. No. 2021-9" eff="2021-04-14" path="§6" type="History"/>
+        <annotation app="2021-04-14" doc="City of San Mateo, Cal., Ord. No. 2021-9" eff="2021-04-14" path="§6" target-path="27.20.065" type="History"/>
       </annotations>
     </section>
     <section>
@@ -6042,17 +6043,17 @@
   <container>
     <prefix>Chapter</prefix>
     <num>27.21</num>
-    <heading>TWO-UNIT DEVELOPMENT RESIDENTIAL OVERLAY DISTRICT – R1 DISTRICTS<annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="" type="History" display="false"/></heading>
+    <heading>TWO-UNIT DEVELOPMENT RESIDENTIAL OVERLAY DISTRICT – R1 DISTRICTS<annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="" target-path="27.21|heading" type="History" display="false"/></heading>
     <container>
       <prefix>Article</prefix>
       <num path-omit="true">I</num>
-      <heading>TWO-UNIT DEVELOPMENT<annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="" type="History" display="false"/></heading>
+      <heading>TWO-UNIT DEVELOPMENT<annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="" target-path="27.21|I|heading" type="History" display="false"/></heading>
       <section>
         <num>27.21.010</num>
         <heading>Purpose</heading>
         <text>The purpose of this Article is to allow up to two detached or attached primary housing units on one parcel, establish objective standards, and regulate subdivision of parcels in single-family zoned areas in accordance with state law. <cite path="27.21">This Chapter</cite> shall be implemented and interpreted in conjunction with <cite doc="Cal. Gov't Code">California Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§65852.21">65852.21</cite> and <cite doc="Cal. Gov't Code" path="§66411.7">66411.7</cite>, as amended, and applicable objective standards contained within Titles <cite path="26">26</cite> and <cite path="27">27</cite> of the San Mateo Municipal Code.</text>
         <annotations>
-          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" type="History"/>
+          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" target-path="27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6132,7 +6133,7 @@
           <text>"Urban Lot Split" means a subdivision of an existing legal single-family zoned parcel into no more than two separate single-family zoned parcels that meet all of the criteria and standards set forth in <cite path="27.21">this Chapter</cite>, applicable objective standards of San Mateo Municipal Code <cite path="26">Title 26</cite>, and <cite doc="Cal. Gov't Code">Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§65852.21">65852.21</cite> and <cite doc="Cal. Gov't Code" path="§66411.7">66411.7</cite>, as amended.</text>
         </para>
         <annotations>
-          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" type="History"/>
+          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" target-path="27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6212,8 +6213,8 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" type="History"/>
-          <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§5" type="History"/>
+          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" target-path="27" type="History"/>
+          <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§5" target-path="27.21.030" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6225,7 +6226,7 @@
           <text>Prior to the issuance of any building permit(s), development pursuant to <cite path="27.21">this Chapter</cite> shall require a deed restriction to be recorded requiring a prohibition of the establishment of short- term rentals and a requirement that a rental or lease of any dwelling unit created pursuant to <cite path="27.21">this Chapter</cite> shall be for a period of at least 30 consecutive days.</text>
         </para>
         <annotations>
-          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" type="History"/>
+          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" target-path="27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6257,7 +6258,7 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" type="History"/>
+          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" target-path="27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6289,7 +6290,7 @@
           <text>On any parcel designated an historic district or property, or located in a resource or hazard area such as high fire areas, wetlands, fault zones, hazardous waste sites or lands under conservation easements per <cite doc="Cal. Gov't Code">Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§65913.4|(a)|(6)|(B)">65913.4(a)(6)(B-K)</cite>, as amended.</text>
         </para>
         <annotations>
-          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" type="History"/>
+          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" target-path="27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6325,7 +6326,7 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" type="History"/>
+          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" target-path="27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6433,20 +6434,20 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" type="History"/>
+          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" target-path="27" type="History"/>
         </annotations>
       </section>
     </container>
     <container>
       <prefix>Article</prefix>
       <num path-omit="true">II</num>
-      <heading>URBAN LOT SPLITS<annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="" type="History" display="false"/></heading>
+      <heading>URBAN LOT SPLITS<annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="" target-path="27.21|II|heading" type="History" display="false"/></heading>
       <section>
         <num>27.21.100</num>
         <heading>Purpose</heading>
         <text>The purpose of this Article is to implement SB 9, establish objective standards and regulate qualified Urban Lot Splits and development in accordance with state law. Article II shall be implemented and interpreted in conjunction with Article I of <cite path="27.21">this Chapter</cite>, <cite doc="Cal. Gov't Code">California Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§65852.21">65852.21</cite> and <cite doc="Cal. Gov't Code" path="§66411.7">66411.7</cite>, <cite path="23.40">San Mateo Municipal Code Chapter 23.40</cite> and Titles <cite path="26">26</cite> and <cite path="27">27</cite>, and any other relevant San Mateo Municipal Code section or other City adopted plan.</text>
         <annotations>
-          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" type="History"/>
+          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" target-path="27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6498,7 +6499,7 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" type="History"/>
+          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" target-path="27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6518,7 +6519,7 @@
           <text>A prohibition against further subdivision of the parcel using the Urban Lot Split procedures in <cite path="27.21">this Chapter</cite> and pursuant to <cite doc="Cal. Gov't Code" path="§65852.21">Government Code Section 65852.21</cite> and <cite doc="Cal. Gov't Code" path="§66411.7">66411.7</cite>, as amended;</text>
         </para>
         <annotations>
-          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" type="History"/>
+          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" target-path="27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6534,7 +6535,7 @@
           <text>Any parcel proposed to be subdivided that is adjacent to another parcel where either the owner of the parcel proposing to be subdivided or any person acting in concert (as defined in <cite path="27.21.020|(b)">Section 27.21.020(b)</cite>) with said owner has previously subdivided the adjacent parcel using the provisions of this Article.</text>
         </para>
         <annotations>
-          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" type="History"/>
+          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" target-path="27" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6606,11 +6607,11 @@
           </para>
         </para>
         <annotations>
-          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" type="History"/>
+          <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" target-path="27" type="History"/>
         </annotations>
       </section>
     </container>
-    <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" type="History"/>
+    <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" target-path="27" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -6645,7 +6646,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-22" path="§25" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-3" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§3" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§21" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§21" target-path="27.22.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -6682,7 +6683,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§4" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-15" path="§14" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1994-2" type="History">Ord. 1994-2 §§ 6 &amp; 7, 1994</annotation>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§22" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§22" target-path="27.22.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -7058,7 +7059,7 @@
         <annotation type="History">prior code § 146.05(A)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-3" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§9" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§23" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§23" target-path="27.24.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -7465,7 +7466,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-33" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-18" path="§11" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" target-path="27.27" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -7478,7 +7479,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-18" path="§11" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§64" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§19" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" target-path="27.27" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -7489,7 +7490,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-33" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-18" path="§11" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" target-path="27.27" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -7500,7 +7501,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-33" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-18" path="§11" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" target-path="27.27" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -7511,7 +7512,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-33" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-18" path="§11" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" target-path="27.27" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -7522,10 +7523,10 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-33" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-18" path="§11" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" target-path="27.27" type="History"/>
       </annotations>
     </section>
-    <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" type="History"/>
+    <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§24" target-path="27.27" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -8525,7 +8526,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§20" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-5" path="§1" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§25" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§25" target-path="27.30.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -8650,7 +8651,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-5" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-6" path="§2" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§26" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§26" target-path="27.30.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -8711,7 +8712,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-5" path="§3" type="History"/>
-        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" type="History"/>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" target-path="27.30.027|(a)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -9028,8 +9029,8 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-10" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§4" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-5" path="§4" type="History"/>
-        <annotation app="2021-04-14" doc="City of San Mateo, Cal., Ord. No. 2021-9" eff="2021-04-14" path="§7" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§27" type="History"/>
+        <annotation app="2021-04-14" doc="City of San Mateo, Cal., Ord. No. 2021-9" eff="2021-04-14" path="§7" target-path="27.32.010|(p)" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§27" target-path="27.32.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -9077,7 +9078,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§21" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§22" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§5" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§28" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§28" target-path="27.32.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -9226,7 +9227,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§35" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§22" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§4" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§29" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§29" target-path="27.34.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -9364,7 +9365,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§23" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-10" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§6" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§30" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§30" target-path="27.36.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -9546,7 +9547,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-10" path="§4" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§8" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2012-8" path="§1" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§31" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§31" target-path="27.38.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -10198,7 +10199,7 @@
       <text>In this district, residential uses shall be permitted as part of mixed-use developments, subject to the City's Objective Design Standards as adopted by resolution of the City Council and requirements of <cite path="27.38.130">Section 27.38.130</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1993-7" path="§1" type="History"/>
-        <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§6" type="History"/>
+        <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§6" target-path="27.39.120" type="History"/>
       </annotations>
     </section>
   </container>
@@ -10431,7 +10432,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§8" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§25" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§10" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§32" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§32" target-path="27.44.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -10479,7 +10480,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§26" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§11" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-6" path="§3" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§33" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§33" target-path="27.44.030" type="History"/>
       </annotations>
     </section>
     <section>
@@ -10499,7 +10500,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-34" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§68" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§24" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="27.44.040" type="History"/>
       </annotations>
     </section>
     <section>
@@ -10639,7 +10640,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§9" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§27" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§12" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§34" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§34" target-path="27.48.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -10657,7 +10658,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§25" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-2" path="§33" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§13" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§35" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§35" target-path="27.48.030" type="History"/>
       </annotations>
     </section>
     <section>
@@ -11348,7 +11349,7 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§36" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§36" target-path="27.60" type="History"/>
       </annotations>
     </section>
     <section>
@@ -11396,7 +11397,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1974-4" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-22" path="§40" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§34" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§37" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§37" target-path="27.60.030" type="History"/>
       </annotations>
     </section>
     <section>
@@ -11447,7 +11448,7 @@
         <annotation type="History">prior code § 150.02(B)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-22" path="§41" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§34" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§38" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§38" target-path="27.60.040" type="History"/>
       </annotations>
     </section>
     <section>
@@ -11457,7 +11458,7 @@
       <annotations>
         <annotation type="History">prior code § 150.02(C)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§34" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§39" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§39" target-path="27.60.050" type="History"/>
       </annotations>
     </section>
     <subheading>Article II Open Space Districts</subheading>
@@ -11546,7 +11547,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§34" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-15" path="§24" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§29" type="History"/>
-        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§40" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§40" target-path="27.60.090" type="History"/>
       </annotations>
     </section>
     <subheading>Article III Qualified (Q) Overlay Zoning Districts</subheading>
@@ -11796,8 +11797,8 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-10" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-5" path="§5" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-1" path="§1" type="History"/>
-        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-7" eff="2019-07-17" path="§1" type="History"/>
-        <annotation app="2026-02-25" doc="City of San Mateo, Cal., Ord. No. 2026-01" eff="2026-02-25" path="§1" type="History"/>
+        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-7" eff="2019-07-17" path="§1" target-path="27.60.180" type="History"/>
+        <annotation app="2026-02-25" doc="City of San Mateo, Cal., Ord. No. 2026-01" eff="2026-02-25" path="§1" target-path="27.60.180|(h)" type="History"/>
       </annotations>
     </section>
   </container>
@@ -12921,7 +12922,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§92" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-7" path="§9" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-13" path="§1" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="27.64.025" type="History"/>
       </annotations>
     </section>
     <section>
@@ -13335,7 +13336,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1993-17" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§32" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-5" path="§7" type="History"/>
-        <annotation app="2020-05-06" doc="City of San Mateo, Cal., Ord. No. 2020-4" eff="2020-05-06" path="§1" type="History"/>
+        <annotation app="2020-05-06" doc="City of San Mateo, Cal., Ord. No. 2020-4" eff="2020-05-06" path="§1" target-path="27.64.100" type="History"/>
       </annotations>
     </section>
     <section>
@@ -13413,7 +13414,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-13" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§34" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="27.64.125" type="History"/>
       </annotations>
     </section>
     <section>
@@ -13475,7 +13476,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-10" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-13" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§35" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="27.64.130" type="History"/>
       </annotations>
     </section>
     <section>
@@ -13983,7 +13984,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§98" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-27" path="§67" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-13" path="§1" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" target-path="27.64.165" type="History"/>
       </annotations>
     </section>
     <section>
@@ -14633,7 +14634,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-7" path="§17" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-13" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-8" path="§11" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="27.64.267" type="History"/>
       </annotations>
     </section>
     <section>
@@ -14718,7 +14719,7 @@
       <annotations>
         <annotation type="History">prior code § 151.06(D)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-13" path="§1" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="27.64.340" type="History"/>
       </annotations>
     </section>
     <section>
@@ -14958,7 +14959,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-27" path="§50" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-13" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§77" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§3" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§3" target-path="27.64.390" type="History"/>
       </annotations>
     </section>
   </container>
@@ -15064,7 +15065,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1993-21" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-13" path="§2" type="History"/>
-        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§1" type="History"/>
+        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§1" target-path="27.66.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -15218,9 +15219,9 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1993-21" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-13" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§15" type="History"/>
-        <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§2" type="History"/>
-        <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§3" type="History"/>
-        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§2" type="History"/>
+        <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§2" target-path="27.66.020|(c)|text" type="History"/>
+        <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§3" target-path="27.66.020|(d)|text" type="History"/>
+        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§2" target-path="27.66.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -15241,7 +15242,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1993-21" path="§1" type="History"/>
-        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§3" type="History"/>
+        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§3" target-path="27.66.030" type="History"/>
       </annotations>
     </section>
     <section>
@@ -15267,7 +15268,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1993-21" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-13" path="§4" type="History"/>
-        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§4" type="History"/>
+        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§4" target-path="27.66.040" type="History"/>
       </annotations>
     </section>
     <section>
@@ -15284,7 +15285,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1993-21" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-13" path="§5" type="History"/>
-        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§5" type="History"/>
+        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§5" target-path="27.66.050" type="History"/>
       </annotations>
     </section>
     <section>
@@ -15317,7 +15318,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1993-21" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-13" type="History">Ord. 1995-13 §§ 6 &amp; 7, 1995</annotation>
-        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§6" type="History"/>
+        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§6" target-path="27.66.060" type="History"/>
       </annotations>
     </section>
     <section>
@@ -15380,7 +15381,7 @@
         <text>Designation Action. Following the recommendation from Historic Resources Commission, the City Council shall hold a public hearing to consider the application. Following the public hearing, the City Council shall adopt a resolution to approve or deny the application based on the criteria set forth in <cite path="27.66.040">Section 27.66.040</cite>. If the application is approved by City Council, the Historic District shall be added to the San Mateo Historic Resources Inventory. Mailed notice of the public hearing shall be provided to property owners of properties within the Historic District at least 10 days before the meeting date. Mailed notice of the decision shall be provided to property owners of properties within the Historic District within 30 days following the decision.</text>
       </para>
       <annotations>
-        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§7" type="History"/>
+        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§7" target-path="27.66" type="History"/>
       </annotations>
     </section>
     <section>
@@ -15411,7 +15412,7 @@
         <text>Historic District Delisting. The process to remove a Historic District from the San Mateo Historic Resources Inventory shall follow the same process that is required to designate a Historic District as outlined in <cite path="27.66.070">Section 27.66.070</cite>.</text>
       </para>
       <annotations>
-        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§8" type="History"/>
+        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§8" target-path="27.66" type="History"/>
       </annotations>
     </section>
     <section>
@@ -15430,7 +15431,7 @@
         <text>Exemptions. Review pursuant to (a) and (b) of this section shall not be required when preempted by State Law.</text>
       </para>
       <annotations>
-        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§9" type="History"/>
+        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§9" target-path="27.66" type="History"/>
       </annotations>
     </section>
     <section>
@@ -15477,7 +15478,7 @@
         <text>Appeals. The final decision of the Zoning Administrator to approve, conditionally approve, or disapprove a Certificate of Appropriateness is appealable to the Historic Resources Commission. The decision of the Historic Resources Commission is appealable to the City Council. Appeals shall be processed pursuant to <cite path="27.08">Chapter 27.08</cite> (Rules of Procedures).</text>
       </para>
       <annotations>
-        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§10" type="History"/>
+        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§10" target-path="27.66" type="History"/>
       </annotations>
     </section>
     <section>
@@ -15492,7 +15493,7 @@
         <text>Other regulations. All demolitions shall conform with the provisions of <cite path="23.10">Chapter 23.10</cite> Earthquake Hazard Reduction in Existing Buildings and <cite path="23.06.035">Section 23.06.035</cite> Demolition Permits-Conditions.</text>
       </para>
       <annotations>
-        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§11" type="History"/>
+        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§11" target-path="27.66" type="History"/>
       </annotations>
     </section>
     <section>
@@ -15500,7 +15501,7 @@
       <heading>Design Guidelines</heading>
       <text>In addition to the Certificate of Appropriateness requirements outlined above, all exterior modifications of individually eligible and contributor buildings in the Downtown Retail Core subarea of the Downtown Area Plan shall conform with the Downtown Retail Core and Downtown District Design Guidelines.</text>
       <annotations>
-        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§12" type="History"/>
+        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§12" target-path="27.66" type="History"/>
       </annotations>
     </section>
     <section>
@@ -15520,7 +15521,7 @@
         <text>Additional Incentives. The City Council may authorize the use of additional incentives, as appropriate, to encourage the preservation, reuse, and rehabilitation of the City's historic resources.</text>
       </para>
       <annotations>
-        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§13" type="History"/>
+        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§13" target-path="27.66" type="History"/>
       </annotations>
     </section>
     <section>
@@ -15528,7 +15529,7 @@
       <heading>Duty to Keep in Good Repair</heading>
       <text>The owner of a resource listed in the San Mateo Historic Resources Inventory shall keep in good repair the exterior portions of all such buildings, structures, or improvements, and all interior portions thereof whose maintenance is necessary to prevent deterioration of any exterior improvement or essential exterior architectural or character-defining features. They shall also maintain properties in compliance with <cite path="7.14">San Mateo Municipal Code Chapter 7.14</cite> and the protective treatment standards of the International Property Maintenance Code.</text>
       <annotations>
-        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§14" type="History"/>
+        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§14" target-path="27.66" type="History"/>
       </annotations>
     </section>
     <section>
@@ -15547,7 +15548,7 @@
         <text>Violation Penalty. In addition to the foregoing remedies, and any other remedies available by law, the City Attorney may enforce the provisions of this article by seeking injunctive relief to restrain or enjoin or to cause the correction or removal of any violation of <cite path="27.66">this chapter</cite>.</text>
       </para>
       <annotations>
-        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§15" type="History"/>
+        <annotation app="2026-06-17" doc="City of San Mateo, Cal., Ord. No. 2026-06" eff="2026-06-17" path="§15" target-path="27.66" type="History"/>
       </annotations>
     </section>
   </container>
@@ -16013,7 +16014,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-34" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§38" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-3" path="§2" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§4" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§4" target-path="27.71.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -16110,7 +16111,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-24" path="§9" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§39" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-3" path="§2" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§5" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§5" target-path="27.71.040" type="History"/>
       </annotations>
     </section>
     <section>
@@ -16210,7 +16211,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-34" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§40" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-3" path="§2" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§6" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§6" target-path="27.71.070" type="History"/>
       </annotations>
     </section>
     <section>
@@ -16247,7 +16248,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-34" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-3" path="§2" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§7" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§7" target-path="27.71.080" type="History"/>
       </annotations>
     </section>
     <section>
@@ -16315,7 +16316,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-8" path="§16" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§41" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-3" path="§2" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§8" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§8" target-path="27.71.110" type="History"/>
       </annotations>
     </section>
     <section>
@@ -16352,7 +16353,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-34" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-3" path="§2" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§9" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§9" target-path="27.71.120" type="History"/>
       </annotations>
     </section>
     <section>
@@ -16549,7 +16550,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-34" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§43" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-3" path="§2" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§11" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§11" target-path="27.71.150" type="History"/>
       </annotations>
     </section>
   </container>
@@ -17737,7 +17738,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1983-15" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-13" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§83" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§12" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§12" target-path="27.78.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -18586,15 +18587,15 @@
   <container>
     <prefix>Chapter</prefix>
     <num>27.94</num>
-    <heading>HOUSING OPPORTUNITIES OVERLAY DISTRICT (H)<annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="" type="History" display="false"/></heading>
-    <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="" type="History"/>
+    <heading>HOUSING OPPORTUNITIES OVERLAY DISTRICT (H)<annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="" target-path="27.94|heading" type="History" display="false"/></heading>
+    <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="" target-path="27" type="History"/>
     <section>
       <num>27.94.005</num>
       <heading>Purpose</heading>
       <text>The purpose of the Housing Opportunities Overlay District (H) is to establish by-right residential uses on sites identiﬁed to accommodate a portion of the housing need for lower income housing in the General Plan Housing Element, pursuant to <cite doc="Cal. Gov't Code">Government Code</cite> Sections 65583.2(c) and (i). <cite path="27.94">This chapter</cite> establishes minimum development requirements and procedures for reviewing and approval of the by-right residential development uses.</text>
       <annotations>
-        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="" type="History"/>
-        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="§2" type="History"/>
+        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="" target-path="27" type="History"/>
+        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="§2" target-path="27|27.94" type="History"/>
       </annotations>
     </section>
     <section>
@@ -18606,8 +18607,8 @@
         <text>Pursuant to <cite doc="Cal. Gov't Code" path="§65583.2|(c)">Government Code Section 65583.2(c)</cite> and (h), housing development projects in which at least 20 percent of the units proposed are affordable to lower income households, as defined in <cite doc="Cal. Health &amp; Safety Code" path="§50079.5">Health and Safety Code Section 50079.5</cite>, and is a household whose income is equal to or less than eighty percent of the area median income, as published by the California Department of Housing and Community Development. The housing development project shall be allowed at the density allowed in the underlying zoning district and shall be allowed a minimum density of at least 30 dwelling units per acre. A "housing development project" shall have the same meaning as defined in <cite doc="Cal. Gov't Code" path="§65589.5|(h)|(2)">Government Code Section 65589.5(h)(2)</cite>.</text>
       </para>
       <annotations>
-        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="" type="History"/>
-        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="§2" type="History"/>
+        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="" target-path="27" type="History"/>
+        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="§2" target-path="27|27.94" type="History"/>
       </annotations>
     </section>
     <section>
@@ -18654,8 +18655,8 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="" type="History"/>
-        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="§2" type="History"/>
+        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="" target-path="27" type="History"/>
+        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="§2" target-path="27|27.94" type="History"/>
       </annotations>
     </section>
   </container>

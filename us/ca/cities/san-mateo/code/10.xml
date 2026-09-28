@@ -153,8 +153,8 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-19" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-3" path="§1" type="History"/>
-        <annotation app="2020-07-15" doc="City of San Mateo, Cal., Ord. No. 2020-6" eff="2020-07-15" path="§1" type="History"/>
-        <annotation app="2023-10-05" doc="City of San Mateo, Cal., Ord. No. 2023-6" eff="2023-10-05" path="§1" type="History"/>
+        <annotation app="2020-07-15" doc="City of San Mateo, Cal., Ord. No. 2020-6" eff="2020-07-15" path="§1" target-path="10.04.080" type="History"/>
+        <annotation app="2023-10-05" doc="City of San Mateo, Cal., Ord. No. 2023-6" eff="2023-10-05" path="§1" target-path="10.04.080" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -165,7 +165,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-19" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-3" path="§1" type="History"/>
-        <annotation app="2023-10-05" doc="City of San Mateo, Cal., Ord. No. 2023-6" eff="2023-10-05" path="§2" type="History"/>
+        <annotation app="2023-10-05" doc="City of San Mateo, Cal., Ord. No. 2023-6" eff="2023-10-05" path="§2" target-path="10.04.090" type="History"/>
       </annotations>
     </section>
     <section>
@@ -566,7 +566,7 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2021-05-19" doc="City of San Mateo, Cal., Ord. No. 2021-12" eff="2021-05-19" path="§1" type="History"/>
+        <annotation app="2021-05-19" doc="City of San Mateo, Cal., Ord. No. 2021-12" eff="2021-05-19" path="§1" target-path="10" type="History"/>
       </annotations>
     </section>
     <section>
@@ -585,7 +585,7 @@
         <text>Should the provisions of <cite path="10.20">this chapter</cite> conflict with the provisions of any other ordinance or city code section of the city, the provisions of this section shall prevail.</text>
       </para>
       <annotations>
-        <annotation app="2021-05-19" doc="City of San Mateo, Cal., Ord. No. 2021-12" eff="2021-05-19" path="§1" type="History"/>
+        <annotation app="2021-05-19" doc="City of San Mateo, Cal., Ord. No. 2021-12" eff="2021-05-19" path="§1" target-path="10" type="History"/>
       </annotations>
     </section>
     <section>
@@ -593,10 +593,10 @@
       <heading>Fireworks Seizure</heading>
       <text>The Chief of Police or his/her designee shall seize, remove or cause to be removed at the expense of the owner all stocks of fireworks offered or exposed for sale, stored, or held in violation of this code.</text>
       <annotations>
-        <annotation app="2021-05-19" doc="City of San Mateo, Cal., Ord. No. 2021-12" eff="2021-05-19" path="§1" type="History"/>
+        <annotation app="2021-05-19" doc="City of San Mateo, Cal., Ord. No. 2021-12" eff="2021-05-19" path="§1" target-path="10" type="History"/>
       </annotations>
     </section>
-    <annotation app="2021-05-19" doc="City of San Mateo, Cal., Ord. No. 2021-12" eff="2021-05-19" path="§1" type="History"/>
+    <annotation app="2021-05-19" doc="City of San Mateo, Cal., Ord. No. 2021-12" eff="2021-05-19" path="§1" target-path="10" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -635,14 +635,15 @@
   <container>
     <prefix>Chapter</prefix>
     <num>10.28</num>
-    <heading>SAFE GUN STORAGE<annotation app="2020-10-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-10-21" path="" type="History" display="false"/></heading>
-    <annotation app="2020-10-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-10-21" path="§1" type="History"/>
+    <heading>SAFE GUN STORAGE<annotation app="2020-10-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-10-21" path="" target-path="10.28|heading" type="History" display="false"/></heading>
+    <annotation app="2020-10-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-10-21" path="§1" target-path="10" type="History"/>
     <section>
       <num>10.28.010</num>
       <heading>Title</heading>
       <text><cite path="10.28">This Chapter</cite> shall be known as Safe Gun Storage.</text>
       <annotations>
-        <annotation app="2020-10-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-10-21" path="§1" type="History"/>
+        <annotation app="2020-10-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-10-21" path="§1" target-path="10" type="History"/>
+        <annotation app="2020-10-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-10-21" path="§1" target-path="10.28" type="History"/>
       </annotations>
     </section>
     <section>
@@ -666,7 +667,8 @@
         <text>"Unloaded" means without a cartridge in the chamber of the firearm; in the cylinder of the firearm, if the firearm is a revolver; or in the magazine of the firearm, if any part of the magazine is in or affixed to the firearm.</text>
       </para>
       <annotations>
-        <annotation app="2020-10-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-10-21" path="§1" type="History"/>
+        <annotation app="2020-10-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-10-21" path="§1" target-path="10" type="History"/>
+        <annotation app="2020-10-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-10-21" path="§1" target-path="10.28" type="History"/>
       </annotations>
     </section>
     <section>
@@ -674,7 +676,8 @@
       <heading>Safe Gun Storage Required</heading>
       <text>No person shall store or keep any firearm on any premises unless the firearm is unloaded and in a locked container, or unloaded and affixed with a locking device; or carried on the person, or is otherwise in the immediate possession of an individual in accordance with all applicable laws.</text>
       <annotations>
-        <annotation app="2020-10-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-10-21" path="§1" type="History"/>
+        <annotation app="2020-10-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-10-21" path="§1" target-path="10" type="History"/>
+        <annotation app="2020-10-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-10-21" path="§1" target-path="10.28" type="History"/>
       </annotations>
     </section>
     <section>
@@ -682,7 +685,8 @@
       <heading>Violations and Enforcement</heading>
       <text>Any violation of <cite path="10.28">this chapter</cite> is punishable as specified in <cite path="1">Title 1 of the San Mateo Municipal Code</cite>.</text>
       <annotations>
-        <annotation app="2020-10-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-10-21" path="§1" type="History"/>
+        <annotation app="2020-10-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-10-21" path="§1" target-path="10" type="History"/>
+        <annotation app="2020-10-21" doc="City of San Mateo, Cal., Ord. No. 2020-15" eff="2020-10-21" path="§1" target-path="10.28" type="History"/>
       </annotations>
     </section>
   </container>
@@ -1850,7 +1854,7 @@
       <text>It has been found that leaf blowers cause considerable noise and air pollution and have been the source of numerous complaints by San Mateo residents. <cite path="10.80">This chapter</cite> is intended to regulate the use of leaf blowers to minimize noise and air pollution in the City.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History"/>
-        <annotation app="2027-01-01" doc="City of San Mateo, Cal., Ord. No. 2026-03" eff="2027-01-01" path="§1" type="History"/>
+        <annotation app="2027-01-01" doc="City of San Mateo, Cal., Ord. No. 2026-03" eff="2027-01-01" path="§1" target-path="10.80.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1861,7 +1865,7 @@
       <text>"Leaf blowers" are defined as portable equipment that is powered by a self-contained engine and used in any landscape, maintenance, construction, property repair, or property maintenance for the purpose of blowing, dispersing or redistributing dust, dirt, leaves, grass, clippings, cuttings and trimmings from trees, shrubs or other debris.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History"/>
-        <annotation app="2027-01-01" doc="City of San Mateo, Cal., Ord. No. 2026-03" eff="2027-01-01" path="§2" type="History"/>
+        <annotation app="2027-01-01" doc="City of San Mateo, Cal., Ord. No. 2026-03" eff="2027-01-01" path="§2" target-path="10.80.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1869,7 +1873,7 @@
       <heading>Prohibition of Gas Leaf Blowers.</heading>
       <text>It shall be unlawful for any person to operate or authorize the operation of a gas leaf blower within the city limits.</text>
       <annotations>
-        <annotation app="2027-01-01" doc="City of San Mateo, Cal., Ord. No. 2026-03" eff="2027-01-01" path="§3" type="History"/>
+        <annotation app="2027-01-01" doc="City of San Mateo, Cal., Ord. No. 2026-03" eff="2027-01-01" path="§3" target-path="10.80" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1879,7 +1883,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1998-6" path="§1" type="History"/>
-        <annotation app="2027-01-01" doc="City of San Mateo, Cal., Ord. No. 2026-03" eff="2027-01-01" path="§4" type="History"/>
+        <annotation app="2027-01-01" doc="City of San Mateo, Cal., Ord. No. 2026-03" eff="2027-01-01" path="§4" target-path="10.80.030" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1904,7 +1908,7 @@
       <text>It is unlawful for any person or entity to violate the provisions of <cite path="10.80">this chapter</cite>. Enforcement of <cite path="10.80">this chapter</cite> shall be subject to enforcement pursuant to <cite path="1">Title 1 of the San Mateo Municipal Code</cite> or any legal remedy available by law. Violations of <cite path="10.80">this chapter</cite> may be enforced against the leaf blower operator and/or property owner who has hired, employed or engaged the services of a person or business utilizing leaf blowers.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History"/>
-        <annotation app="2027-01-01" doc="City of San Mateo, Cal., Ord. No. 2026-03" eff="2027-01-01" path="§5" type="History"/>
+        <annotation app="2027-01-01" doc="City of San Mateo, Cal., Ord. No. 2026-03" eff="2027-01-01" path="§5" target-path="10.80.060" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1919,8 +1923,8 @@
   <container>
     <prefix>Chapter</prefix>
     <num>10.90</num>
-    <heading>ACCESS TO REPRODUCTIVE HEALTH CARE FACILITIES ORDINANCE<annotation app="2022-07-06" doc="City of San Mateo, Cal., Ord. No. 2022-6" eff="2022-07-06" path="" type="History" display="false"/></heading>
-    <annotation app="2022-07-06" doc="City of San Mateo, Cal., Ord. No. 2022-6" eff="2022-07-06" path="§2" type="History"/>
+    <heading>ACCESS TO REPRODUCTIVE HEALTH CARE FACILITIES ORDINANCE<annotation app="2022-07-06" doc="City of San Mateo, Cal., Ord. No. 2022-6" eff="2022-07-06" path="" target-path="10.90|heading" type="History" display="false"/></heading>
+    <annotation app="2022-07-06" doc="City of San Mateo, Cal., Ord. No. 2022-6" eff="2022-07-06" path="§2" target-path="10" type="History"/>
     <section>
       <num>10.90.010</num>
       <heading>Title and Purpose</heading>
@@ -1937,7 +1941,8 @@
         <text>This Ordinance is not intended to create any limited, designated, or general public fora. Rather it is intended to protect those who seek access to constitutionally protected reproductive health services from conduct which violates their rights while also protecting the rights of people who gather outside of reproductive health care facilities in the City to speak on matters of public concern.</text>
       </para>
       <annotations>
-        <annotation app="2022-07-06" doc="City of San Mateo, Cal., Ord. No. 2022-6" eff="2022-07-06" path="§2" type="History"/>
+        <annotation app="2022-07-06" doc="City of San Mateo, Cal., Ord. No. 2022-6" eff="2022-07-06" path="§2" target-path="10" type="History"/>
+        <annotation app="2022-07-06" doc="City of San Mateo, Cal., Ord. No. 2022-6" eff="2022-07-06" path="§2" target-path="10.90" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2000,7 +2005,8 @@
         <text>"True threat" means a statement in which the speaker means to communicate a serious expression of an intent to commit an act of unlawful violence to a particular person or group of persons regardless of whether the person actually intends to act on the threat.</text>
       </para>
       <annotations>
-        <annotation app="2022-07-06" doc="City of San Mateo, Cal., Ord. No. 2022-6" eff="2022-07-06" path="§2" type="History"/>
+        <annotation app="2022-07-06" doc="City of San Mateo, Cal., Ord. No. 2022-6" eff="2022-07-06" path="§2" target-path="10" type="History"/>
+        <annotation app="2022-07-06" doc="City of San Mateo, Cal., Ord. No. 2022-6" eff="2022-07-06" path="§2" target-path="10.90" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2031,7 +2037,8 @@
         <text>Nothing in <cite path="10.90">this Chapter</cite> shall preclude the enforcement of other state, federal, or municipal laws, including but not limited to those related to sidewalk and street obstructions, or prohibited noises.</text>
       </para>
       <annotations>
-        <annotation app="2022-07-06" doc="City of San Mateo, Cal., Ord. No. 2022-6" eff="2022-07-06" path="§2" type="History"/>
+        <annotation app="2022-07-06" doc="City of San Mateo, Cal., Ord. No. 2022-6" eff="2022-07-06" path="§2" target-path="10" type="History"/>
+        <annotation app="2022-07-06" doc="City of San Mateo, Cal., Ord. No. 2022-6" eff="2022-07-06" path="§2" target-path="10.90" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2054,14 +2061,15 @@
         <text>Nothing in <cite path="10.90">this Chapter</cite> shall preclude any person from seeking any other remedies, penalties or procedures provided by law.</text>
       </para>
       <annotations>
-        <annotation app="2022-07-06" doc="City of San Mateo, Cal., Ord. No. 2022-6" eff="2022-07-06" path="§2" type="History"/>
+        <annotation app="2022-07-06" doc="City of San Mateo, Cal., Ord. No. 2022-6" eff="2022-07-06" path="§2" target-path="10" type="History"/>
+        <annotation app="2022-07-06" doc="City of San Mateo, Cal., Ord. No. 2022-6" eff="2022-07-06" path="§2" target-path="10.90" type="History"/>
       </annotations>
     </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>10.100</num>
-    <heading>RESIDENTIAL TENANT PROTECTION PROGRAM<annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="" type="History" display="false"/></heading>
+    <heading>RESIDENTIAL TENANT PROTECTION PROGRAM<annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="" target-path="10.100|heading" type="History" display="false"/></heading>
     <section>
       <num>10.100.010</num>
       <heading>Binding Findings; Definitions; Citation.</heading>
@@ -2110,7 +2118,7 @@
         <text>Citation.  <cite path="10.100">This chapter</cite> may be referred to as the "Residential Tenant Protection Program" of the City of San Mateo. The words "<cite path="10.100">this chapter</cite>" and "this ordinance" are used interchangeably herein.</text>
       </para>
       <annotations>
-        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" type="History"/>
+        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" target-path="10" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2177,7 +2185,7 @@
         <text>Notice of Curable Lease Violations. As provided in <cite doc="Cal. Civ. Code" path="§1946.2|(c)">Civil Code Section 1946.2(c)</cite>, before an owner of residential real property issues a notice to terminate a tenancy for just cause that is a curable lease violation, the owner shall first give notice of the violation to the tenant with an opportunity to cure the violation pursuant to subsection (3) of <cite doc="Cal. Civ. Proc. Code" path="§1161">Section 1161 of the Code of Civil Procedure</cite>. If the violation is not cured within the time period set forth in the notice, a three-day notice to quit without an opportunity to cure may thereafter be served to terminate the tenancy.</text>
       </para>
       <annotations>
-        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" type="History"/>
+        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" target-path="10" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2207,7 +2215,7 @@
         <text>Manner. Landlords must provide the notice to tenants in writing if the application and lease are processed in writing, electronically if the application and/or lease are processed electronically, or both if both methods are utilized. The provision of the notice shall be subject to <cite doc="Cal. Civ. Code" path="§1632">Civil Code Section 1632</cite>.</text>
       </para>
       <annotations>
-        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" type="History"/>
+        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" target-path="10" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2215,7 +2223,7 @@
       <heading>Notice Of Availability Of Remodeled Property.</heading>
       <text>Where a landlord terminates a tenancy for no-fault just cause as defined in <cite doc="Cal. Civ. Code" path="§1946.2|(b)|(2)|(D)">Civil Code Section 1946.2(b)(2)(D)</cite> (intent to demolish or to substantially remodel the residential real property), once the renovation of the property is complete and available for leasing, the landlord shall immediately issue a notice of availability of the property to the tenant(s) who were evicted from the property.</text>
       <annotations>
-        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" type="History"/>
+        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" target-path="10" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2223,7 +2231,7 @@
       <heading>Landlord Retaliation Prohibited.</heading>
       <text>Under <cite doc="Cal. Civ. Code" path="§1942.5">Civil Code Section 1942.5</cite>, it is illegal for a landlord to retaliate against a tenant for lawfully and peaceably exercising their legal rights. No landlord may take any action increasing any rental amount, reducing any service, causing the tenant to involuntarily quit the premises, or discriminating against the tenant because of the tenant's use of any remedy provided by <cite path="10.100">this chapter</cite>.</text>
       <annotations>
-        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" type="History"/>
+        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" target-path="10" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2231,7 +2239,7 @@
       <heading>Nonwaiver.</heading>
       <text>Any waiver or purported waiver by a tenant of their rights under <cite path="10.100">this chapter</cite> prior to the time when such rights may be exercised shall be void as contrary to public policy.</text>
       <annotations>
-        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" type="History"/>
+        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" target-path="10" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2239,7 +2247,7 @@
       <heading>Remedies.</heading>
       <text>In the event of a violation of <cite path="10.100">this chapter</cite>, a residential tenant may institute a civil proceeding for injunctive relief, money damages, and whatever other relief the court deems appropriate. The remedy available under this section shall be in addition to any other existing remedies which may be available to the residential tenant under local, county, state or federal law. In addition, <cite path="10.100">this chapter</cite> grants a defense to eviction to any unlawful detainer actions in violation of <cite path="10.100">this chapter</cite>.</text>
       <annotations>
-        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" type="History"/>
+        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" target-path="10" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2247,7 +2255,7 @@
       <heading>Severability.</heading>
       <text>If any section, subsection, sentence, clause or phrase of <cite path="10.100">this chapter</cite> is for any reason held by a court of competent jurisdiction to be invalid, such decision shall not affect the validity of the remaining portions of <cite path="10.100">this chapter</cite>. The City Council declares that it would have adopted <cite path="10.100">this chapter</cite> and each section, subsection, sentence, clause and phrase thereof, irrespective of the fact that any one or more section, subsection, sentence, clause, or phrase be declared invalid.</text>
       <annotations>
-        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" type="History"/>
+        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" target-path="10" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2255,9 +2263,9 @@
       <heading>Term.</heading>
       <text><cite path="10.100">This Chapter</cite> shall remain in effect only until January 1, 2030, and as of that date is automatically repealed.</text>
       <annotations>
-        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" type="History"/>
+        <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" target-path="10" type="History"/>
       </annotations>
     </section>
-    <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" type="History"/>
+    <annotation app="2025-12-31" doc="City of San Mateo, Cal., Ord. No. 2025-11" eff="2025-12-31" path="§1" target-path="10" type="History"/>
   </container>
 </container>

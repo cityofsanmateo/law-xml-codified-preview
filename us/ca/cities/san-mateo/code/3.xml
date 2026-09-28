@@ -9,9 +9,9 @@
   <container>
     <prefix>Chapter</prefix>
     <num>3.35</num>
-    <heading>CLAIMS<annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-16" eff="2021-07-21" path="" type="History" display="false"/></heading>
+    <heading>CLAIMS<annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-16" eff="2021-07-21" path="" target-path="3.35|heading" type="History" display="false"/></heading>
     <annotations>
-      <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-16" eff="2021-07-21" path="§1" type="History"/>
+      <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-16" eff="2021-07-21" path="§1" target-path="3.35" type="History"/>
     </annotations>
     <section>
       <num>3.35.010</num>
@@ -27,7 +27,7 @@
       <text>All claims against the City for money or damages not otherwise governed by the Government Claims Act, codified at <cite doc="Cal. Gov't Code">Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§900">900</cite> and following, or another state law (hereinafter in <cite path="3.35">this Chapter</cite>, "Claims") shall be presented within the time, and in the manner, prescribed by Part 3 of Division 3.6 of Title 1 of the <cite doc="Cal. Gov't Code">California Government Code</cite> (commencing with <cite doc="Cal. Gov't Code" path="§900">Section 900</cite> thereof) for the claims to which that Part applies by its own terms, as those provisions now exist or shall be hereafter amended, and as further provided by <cite path="3.35">this Chapter</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-23" path="§1" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-16" eff="2021-07-21" path="§2" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-16" eff="2021-07-21" path="§2" target-path="3.35.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -36,7 +36,7 @@
       <text>All claims shall be made in writing, which may include electronic transmissions, and verified by the claimant or by his or her guardian, conservator, executor or administrator. No claim may be filed on behalf of a class of persons unless verified by every member of that class as required by this section. In addition, all claims shall contain the information required by <cite doc="Cal. Gov't Code" path="§910">California Government Code Section 910</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-23" path="§1" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-16" eff="2021-07-21" path="§3" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-16" eff="2021-07-21" path="§3" target-path="3.35.030" type="History"/>
       </annotations>
     </section>
     <section>
@@ -45,7 +45,7 @@
       <text>In accordance with <cite doc="Cal. Gov't Code">California Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§935">935(b)</cite> and <cite doc="Cal. Gov't Code" path="§945.6">945.6</cite>, all claims shall be presented prior to the filing of any action on such claims and no such action may be maintained by a person who has not complied with the requirements of <cite path="3.35">this Chapter</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-23" path="§1" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-16" eff="2021-07-21" path="§4" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-16" eff="2021-07-21" path="§4" target-path="3.35.040" type="History"/>
       </annotations>
     </section>
     <section>
@@ -328,7 +328,7 @@
       <annotations>
         <annotation type="History">prior code § 34.01</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1977-9" path="§1" type="History"/>
-        <annotation app="2022-12-22" doc="City of San Mateo, Cal., Ord. No. 2022-15" eff="2022-12-22" path="§1" type="History"/>
+        <annotation app="2022-12-22" doc="City of San Mateo, Cal., Ord. No. 2022-15" eff="2022-12-22" path="§1" target-path="3.48.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -422,7 +422,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1977-9" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-3" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2000-8" path="§1" type="History"/>
-        <annotation app="2022-12-22" doc="City of San Mateo, Cal., Ord. No. 2022-15" eff="2022-12-22" path="§1" type="History"/>
+        <annotation app="2022-12-22" doc="City of San Mateo, Cal., Ord. No. 2022-15" eff="2022-12-22" path="§1" target-path="3.48.030" type="History"/>
       </annotations>
     </section>
     <section>
@@ -934,7 +934,9 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1975-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-16" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-7" path="§1" type="History"/>
-        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.070" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.071" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1003,7 +1005,9 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-16" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-19" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-7" path="§1" type="History"/>
-        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.070" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.071" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1020,9 +1024,11 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-19" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-7" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-6" path="§1" type="History"/>
-        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.070" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.071" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.030" type="History"/>
         <annotation type="Editor's Notes" path="§2" history="false" app="2018-04-05" eff="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1">For sewer service charges for fiscal years 2018-2019 through 2022-2023 see <cite doc="City of San Mateo, Cal., Ord. No. 2018-1" path="2">Ord. No. 2018-1 Section 2</cite>.</annotation>
-        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§2" type="History" display="false"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§2" target-path="3.54.030" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -1034,7 +1040,9 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-16" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-19" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-7" path="§1" type="History"/>
-        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.070" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.071" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.040" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1045,7 +1053,9 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1975-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-16" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-7" path="§1" type="History"/>
-        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.070" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.071" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.050" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1059,8 +1069,10 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-16" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-7" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-2" path="§1" type="History"/>
-        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>
-        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§2" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.070" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.071" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.060" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§2" target-path="3.54.060" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1071,7 +1083,9 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1975-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-16" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-7" path="§1" type="History"/>
-        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.070" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.071" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.080" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1083,11 +1097,14 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-13" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2014-6" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-2" path="§2" type="History"/>
-        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>
-        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§2" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.070" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.071" type="History"/>
+        <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.090" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§2" target-path="3.54.080" type="History"/>
       </annotations>
     </section>
-    <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" type="History"/>
+    <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.070" type="History"/>
+    <annotation app="2018-04-05" doc="City of San Mateo, Cal., Ord. No. 2018-1" eff="2018-04-05" path="§1" target-path="3.54.071" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1144,7 +1161,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1973-31" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-10" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-13" path="§1" type="History"/>
-        <annotation app="2021-01-01" doc="City of San Mateo, Cal., Ord. No. 2020-18" eff="2021-01-01" path="§1" type="History"/>
+        <annotation app="2021-01-01" doc="City of San Mateo, Cal., Ord. No. 2020-18" eff="2021-01-01" path="§1" target-path="3.56.030" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1340,7 +1357,7 @@
       <aftertext>The Tax Collector, within ninety days of receiving a written request from a successor operator, assign, purchaser, transferee, or other person or entity who obtains or attempts to obtain ownership or control of the hotel, may issue a transient occupancy tax clearance certificate stating either the amount of tax liability due and owing for the property, or stating that there is no tax liability due and owing for the property. The Tax Collector may also request financial records from the current or former owner or operator to conduct an audit of the transient occupancy tax that may be due and owing. After completing the audit within ninety days after the date that the records were made available, the Tax Collector may issue a tax clearance certificate within thirty days of completing the audit, stating the amount of the tax liability owed, if any. If the city determines that the records provided for an audit are insufficient, the Tax Collector may rely on the facts and information available to estimate any transient occupancy tax liability associated with the property. The Tax Collector may issue a tax clearance certificate stating the amount of the tax liability, if any, based on such facts and information available. A written application for a hearing on the amount assessed on the tax clearance certificate must be made within ten days after the serving or mailing of the certificate. The hearing provision of Section 3.56.090 shall apply. If an application for a hearing is not made within the time prescribed, the tax clearance certificate shall serve as conclusive evidence of the tax liability associated with the property as of the date specified on the certificate.</aftertext>
       <annotations>
         <annotation type="History">Prior code § 58.5.12</annotation>
-        <annotation app="2021-02-18" doc="City of San Mateo, Cal., Ord. No. 2021-2" eff="2021-02-18" path="§1" type="History"/>
+        <annotation app="2021-02-18" doc="City of San Mateo, Cal., Ord. No. 2021-2" eff="2021-02-18" path="§1" target-path="3.56.120" type="History"/>
       </annotations>
     </section>
     <section>

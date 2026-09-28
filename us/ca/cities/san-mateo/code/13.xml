@@ -470,7 +470,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-15" path="§2" type="History"/>
-        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§5" type="History"/>
+        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§5" target-path="13.20.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -872,8 +872,8 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-10" path="§8" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1988-15" path="§8" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" target-path="13.25.080" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="13.25.080" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1086,7 +1086,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1998-8" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.35" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1101,7 +1101,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1998-8" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.35" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1116,7 +1116,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-24" path="§7" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.35" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1131,7 +1131,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-24" path="§7" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.35" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1146,7 +1146,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-24" path="§7" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.35" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1161,7 +1161,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-24" path="§7" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.35" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1176,7 +1176,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-24" path="§7" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.35" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1191,7 +1191,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-24" path="§7" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.35" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1202,7 +1202,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.35" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1218,7 +1218,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1998-8" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.35" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1233,7 +1233,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-24" path="§7" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.35" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1247,7 +1247,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1998-8" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.35" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1258,22 +1258,22 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.35" type="History"/>
       </annotations>
     </section>
-    <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+    <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.35" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>13.40</num>
-    <heading>PROTECTED TREES<annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="" type="History" display="false"/></heading>
+    <heading>PROTECTED TREES<annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="" target-path="13.40|heading" type="History" display="false"/></heading>
     <subheading>Article I. General Provisions</subheading>
     <section>
       <num>13.40.010</num>
       <heading>Purpose and Intent</heading>
       <text><cite path="13.40">This Chapter</cite> is adopted because the City has been forested with a variety of healthy and valuable trees which must be protected, preserved, and replenished for the health and welfare of residents and in order to preserve scenic beauty, maintain property values, prevent erosion, protect against flood hazards and landslides, counteract pollutants in the air, maintain climatic balance, decrease wind velocities, and relieve the public costs of installing and maintaining stormwater drainage systems. It is the intent of <cite path="13.40">this chapter</cite> to establish regulations for the protection of trees within the City in order to retain as many trees as possible consistent with these purposes and the reasonable economic enjoyment of private property.</text>
       <annotations>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1288,7 +1288,7 @@
         <text>Exception for Planning Applications Other Than Single Family Dwelling Design Review Applications. A person or entity who has received approval of a planning application which is also subject to the landscape regulations contained in <cite path="27.71">Chapter 27.71</cite>, need only obtain a site development permit pursuant to <cite path="23.40">Chapter 23.40</cite> from the Planning Division for the Removal and/or Major Pruning of Protected Trees on the property proposed for development.</text>
       </para>
       <annotations>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1448,7 +1448,7 @@
         <text><strong>Tree Protection Zone (TPZ)</strong> means the area surrounding a tree to be protected based upon tree species, age, health, soil, and proposed construction. The TPZ shall have a radius measured from the trunk equal to ten times the diameter of the trunk measured at 54" above grade or as otherwise specified by a Project Arborist and approved by the City Arborist.</text>
       </para>
       <annotations>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
       </annotations>
     </section>
     <subheading>Article II. Tree Planting</subheading>
@@ -1464,7 +1464,7 @@
         <text>The Director shall prepare and submit to the Commission for approval and adoption, a comprehensive master plan of Street Trees for all Streets of the City where planting areas are available and provided for trees. The plan may be revised from time to time and shall be reviewed regularly. In accordance with the plan, the Director shall proceed each year to plant or remove and replace trees to the extent that funds are made available by the City Council or otherwise exist in the tree planting fund.</text>
       </para>
       <annotations>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1472,7 +1472,7 @@
       <heading>Street Tree Planting Permit Required</heading>
       <text>No person, other than the Director or his or her authorized representative, shall plant any tree within a Street without first procuring a written permit to do so from the Director. The request for such a permit shall state the type and quantity of trees to be planted, the location, and such other information as may be required by the Director.</text>
       <annotations>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1504,7 +1504,7 @@
         <text>Conformance with the City's approved Street Tree Master Plan.</text>
       </para>
       <annotations>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
       </annotations>
     </section>
     <subheading>Article III. Tree Protection and Preservation</subheading>
@@ -1520,7 +1520,7 @@
         <text>The Director shall have the authority to adopt, modify, and implement Administrative Guidelines to support <cite path="13.40">this Chapter</cite>, except that any changes to the replanting requirements require approval of the Park and Recreation Commission.</text>
       </para>
       <annotations>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1619,7 +1619,7 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1642,7 +1642,7 @@
         <text>Any franchised public utility or representative of the City may Remove or Prune Protected Trees which interfere with the safe and efficient operation of the public service for which they are responsible, but only to the extent made necessary by such interference.</text>
       </para>
       <annotations>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1713,7 +1713,7 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1721,7 +1721,7 @@
       <heading>Protected Tree Replacement.</heading>
       <text>If a permit is granted for Protected Tree Removal, the applicant shall at his or her election either replace the tree in accordance with the Administrative Guidelines or pay an in-lieu fee.  Permits for Removal may contain direction on location and species.</text>
       <annotations>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1729,7 +1729,7 @@
       <heading>Notification</heading>
       <text>A decision by the Managing Arborist shall be rendered for each permit application. If a permit is approved, it will include conditions for the tree Pruning or Removal. With the exception of trees the Managing Arborist determines to be dead or at imminent risk of failure, the Managing Arborist shall give written notification of a decision affecting a Heritage Tree to the applicant and abutting property owners and include a copy of the City's appeal provisions. If such real property is occupied by other than the owner, a like copy shall also be left with the occupant. The failure of any property owner to receive the notice shall not affect the validity of any proceedings taken pursuant to the notice.</text>
       <annotations>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1748,7 +1748,7 @@
         <text>Appeal of Commission's Decision. The Commission's decision may be appealed to the City Council in the same manner as to the Commission by filing a written appeal and with the City Clerk not later than five p.m. of the tenth calendar day after the final decision.  Any appellants other than the applicant must pay an appeal fee in accordance with the City's master fee schedule.  The City Clerk shall set the matter for hearing before the City Council at its next convenient regular meeting which is at least ten days after receipt of the appeal. Notice of the hearing shall be given the appellant and the applicant for permit by mail at least five calendar days prior to the date of the hearing. The City Council hearing shall be de novo and the decision of the City Council shall be final.</text>
       </para>
       <annotations>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
       </annotations>
     </section>
     <subheading>Article IV. Violations and Remedies</subheading>
@@ -1792,7 +1792,7 @@
         <text>When a tree has been removed from the site and its diameter is no longer visible, the Managing Arborist may rely on a stump measurement and allow use of photographs, neighboring trees, and or any other available methods to determine the diameter of the tree that was removed.</text>
       </para>
       <annotations>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1832,7 +1832,7 @@
         <text>Additional Measures for All Protected Trees.  Any person causing Damage to a Protected Tree shall be required to take such steps as may be required by the Director to assure the future vitality of the tree, including costs of treatment and/or construction of protective barriers, or if the Director determines that the Damage is so great that the tree is no longer reasonably sustainable, replacement of the Damaged tree.</text>
       </para>
       <annotations>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1863,10 +1863,10 @@
         <text>Appeal of Penalties or Replacement requirements. Any person required to provide replacement or assessed penalties shall have the right to appeal that determination to the City Manager by submitting a written appeal to the City Manager within 30 days of the date of the Managing Arborist's written notice imposing the penalty.  The City Manager will hold an administrative hearing within 30 days of receipt of the written appeal and will render a written decision within 30 days of the administrative hearing. The decision of the City Manager shall be final.</text>
       </para>
       <annotations>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
       </annotations>
     </section>
-    <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" type="History"/>
+    <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§3" target-path="13" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1886,7 +1886,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-6" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-3" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.52" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1905,7 +1905,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-6" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-3" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.52" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1917,7 +1917,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-6" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-3" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.52" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1932,7 +1932,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-6" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-3" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.52" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1949,7 +1949,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-6" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-3" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.52" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1967,7 +1967,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-6" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-3" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.52" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1979,7 +1979,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-6" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-3" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.52" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -1996,7 +1996,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-6" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-3" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.52" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -2011,7 +2011,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-6" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-3" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.52" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -2025,9 +2025,9 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-6" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-3" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-1" path="§3" type="History"/>
-        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+        <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.52" type="History"/>
       </annotations>
     </section>
-    <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" type="History"/>
+    <annotation app="2021-07-01" doc="City of San Mateo, Cal., Ord. No. 2021-13" eff="2021-07-01" path="§1" target-path="13.52" type="History"/>
   </container>
 </container>

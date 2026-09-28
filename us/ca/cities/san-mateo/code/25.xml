@@ -282,7 +282,7 @@
         <annotation type="History">prior code § 25.08</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-8" path="§1" type="History"/>
-        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§1" type="History"/>
+        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§1" target-path="|25.02.030" type="History"/>
       </annotations>
     </section>
     <section>
@@ -313,7 +313,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>25.04</num>
-    <heading>SIGNS ON PUBLIC PROPERTY AND IN THE PUBLIC RIGHT-OF-WAY<annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§2" type="History"/></heading>
+    <heading>SIGNS ON PUBLIC PROPERTY AND IN THE PUBLIC RIGHT-OF-WAY<annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§2" target-path="|25.04|heading" type="History"/></heading>
     <section>
       <num>25.04.010</num>
       <heading>FINDINGS.</heading>
@@ -332,7 +332,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-2" path="§1" type="History"/>
-        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§3" type="History"/>
+        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§3" target-path="|25.04.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -400,7 +400,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-2" path="§1" type="History"/>
-        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§4" type="History"/>
+        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§4" target-path="|25.04.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -458,8 +458,8 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-3" path="§1" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
-        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§5" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="25.04.030" type="History"/>
+        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§5" target-path="|25.04.030" type="History"/>
       </annotations>
     </section>
   </container>
@@ -473,7 +473,7 @@
       <text>Unless exempt, all signs require a sign permit issued by the City. Unless otherwise provided in <cite path="25">this Title</cite>, no person shall install, erect, display, alter, move or replace any nonexempt sign without first obtaining a sign permit issued by the City in accordance with <cite path="25">this Title</cite>. Signs requiring permits such as a building or electrical permit under the uniform construction codes shall obtain those permits prior to being erected; application for a building or other uniform construction code permit shall be filed concurrently with the sign application.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-2" path="§1" type="History"/>
-        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§6" type="History"/>
+        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§6" target-path="|25.06.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -661,7 +661,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-2" path="§1" type="History"/>
-        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§7" type="History"/>
+        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§7" target-path="|25.06.050" type="History"/>
       </annotations>
     </section>
     <section>
@@ -785,7 +785,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-8" path="§1" type="History"/>
-        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§8" type="History"/>
+        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§8" target-path="|25.06.060" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1245,7 +1245,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-8" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2014-7" path="§1" type="History"/>
-        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§9" type="History"/>
+        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§9" target-path="|25.06.070" type="History"/>
       </annotations>
     </section>
   </container>
@@ -1340,7 +1340,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-8" path="§1" type="History"/>
-        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§10" type="History"/>
+        <annotation app="2022-05-18" doc="City of San Mateo, Cal., Ord. No. 2022-4" eff="2022-05-18" path="§10" target-path="|25.08.010" type="History"/>
       </annotations>
     </section>
   </container>

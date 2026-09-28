@@ -331,7 +331,7 @@
         <annotation type="History">prior code § 73.24</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-6" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-3" path="§1" type="History"/>
-        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" type="History"/>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" target-path="11.16.050" type="History"/>
       </annotations>
     </section>
     <section>
@@ -377,7 +377,7 @@
         <annotation type="History">prior code § 73.25</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-6" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-3" path="§1" type="History"/>
-        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" type="History"/>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" target-path="11.16.060" type="History"/>
       </annotations>
     </section>
     <section>
@@ -398,7 +398,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-6" path="§4" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-3" path="§1" type="History"/>
-        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" type="History"/>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" target-path="11.16.070" type="History"/>
       </annotations>
     </section>
   </container>
@@ -758,14 +758,15 @@
   <container>
     <prefix>Chapter</prefix>
     <num>11.29</num>
-    <heading>PEDESTRIAN MALLS<annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="" type="History" display="false"/></heading>
-    <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" type="History"/>
+    <heading>PEDESTRIAN MALLS<annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="" target-path="11.29|heading" type="History" display="false"/></heading>
+    <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" target-path="11" type="History"/>
     <section>
       <num>11.29.010</num>
       <heading>Adoption and Purpose</heading>
       <text><cite path="11.29">This chapter</cite> shall be known and may be cited as the "Pedestrian Malls Ordinance." The purpose of <cite path="11.29">this chapter</cite> is to establish rules and regulations pertaining to the operation of pedestrian malls.</text>
       <annotations>
-        <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" type="History"/>
+        <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" target-path="11" type="History"/>
+        <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" target-path="11.29" type="History"/>
       </annotations>
     </section>
     <section>
@@ -774,7 +775,8 @@
       <text><strong>Pedestrian Malls </strong>means streets, or portions thereof, on which vehicle traffic is restricted in whole or in part and which is to be used exclusively or primarily for pedestrian travel.</text>
       <text><strong>Motorized Vehicular Traffic </strong>means vehicular traffic powered by motor, including without limitation, automobiles, trucks, buses, motorcycles, motor or e-scooters.</text>
       <annotations>
-        <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" type="History"/>
+        <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" target-path="11" type="History"/>
+        <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" target-path="11.29" type="History"/>
       </annotations>
     </section>
     <section>
@@ -790,7 +792,8 @@
         <text>B Street between 2nd and 3rd Avenues.</text>
       </para>
       <annotations>
-        <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" type="History"/>
+        <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" target-path="11" type="History"/>
+        <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" target-path="11.29" type="History"/>
       </annotations>
     </section>
     <section>
@@ -822,7 +825,8 @@
         <text>Commercial vehicles and equipment entering a pedestrian mall where such entry is reasonably necessary for the purpose of performing work or services on the pedestrian mall or on private property or properties abutting thereon and where the owner or operator of any such vehicle or equipment holds a permit issued by or at the direction of the Public Works Director, or designee.</text>
       </para>
       <annotations>
-        <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" type="History"/>
+        <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" target-path="11" type="History"/>
+        <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" target-path="11.29" type="History"/>
       </annotations>
     </section>
     <section>
@@ -861,15 +865,16 @@
         <text>Special Events on a pedestrian mall may be permitted subject to the requirements of <cite path="17.34">Chapter 17.34</cite>.</text>
       </para>
       <annotations>
-        <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" type="History"/>
+        <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" target-path="11" type="History"/>
+        <annotation app="2021-11-03" doc="City of San Mateo, Cal., Ord. No. 2021-21" eff="2021-11-03" path="§1" target-path="11.29" type="History"/>
       </annotations>
     </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>11.30</num>
-    <heading>SHARED MOBILITY<annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="" type="History" display="false"/></heading>
-    <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" type="History" display="false"/>
+    <heading>SHARED MOBILITY<annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="" target-path="11.30|heading" type="History" display="false"/></heading>
+    <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" target-path="11" type="History" display="false"/>
     <section>
       <num>11.30.010</num>
       <heading>Definitions.</heading>
@@ -895,8 +900,8 @@
         <text>"Shared mobility services" are networks or systems of shared mobility devices, placed in the public right-of-way and for rent in short time increments, that provide increased mobility options over short distances.</text>
       </para>
       <annotations>
-        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" type="History" display="false"/>
-        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" type="History"/>
+        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" target-path="11" type="History" display="false"/>
+        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" target-path="11.30" type="History"/>
       </annotations>
     </section>
     <section>
@@ -911,8 +916,8 @@
         <text>Operators of shared mobility services must comply with the City's Shared Mobility Permit Program and shared mobility permit conditions.</text>
       </para>
       <annotations>
-        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" type="History" display="false"/>
-        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" type="History"/>
+        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" target-path="11" type="History" display="false"/>
+        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" target-path="11.30" type="History"/>
       </annotations>
     </section>
     <section>
@@ -943,8 +948,8 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" type="History" display="false"/>
-        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" type="History"/>
+        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" target-path="11" type="History" display="false"/>
+        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" target-path="11.30" type="History"/>
       </annotations>
     </section>
     <section>
@@ -983,8 +988,8 @@
         <text>The permittee may appeal the decision of the Public Works Director or designee in accordance with the procedures set forth in <cite path="11.30">this Chapter</cite>.</text>
       </para>
       <annotations>
-        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" type="History" display="false"/>
-        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" type="History"/>
+        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" target-path="11" type="History" display="false"/>
+        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" target-path="11.30" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1004,8 +1009,8 @@
         <text>The City Manager or designee shall review the written record and allow testimony to be given.  After all verbal testimony has been reviewed, the City Manager or designee shall render a written decision within 10 working days from the date the matter is submitted for decision.  The action of the City Manager or designee shall be final and conclusive, subject only to applicable court review.</text>
       </para>
       <annotations>
-        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" type="History" display="false"/>
-        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" type="History"/>
+        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" target-path="11" type="History" display="false"/>
+        <annotation app="2019-06-19" doc="City of San Mateo, Cal., Ord. No. 2019-5" eff="2019-06-19" path="§1" target-path="11.30" type="History"/>
       </annotations>
     </section>
   </container>
@@ -1285,7 +1290,7 @@
       <text>A Residential Parking Permit Program is hereby approved and authorized for use in all residential districts or appurtenant to any authorized residential use. The excessive parking of nonresident vehicles on residential streets is detrimental to the integrity of the residential neighborhood. The purpose of this section is to avoid such detriment and allow residents to park upon streets in their own neighborhoods. The Director of Public Works is authorized to propose policies and procedures implementing a Residential Parking Permit Program. Those policies and procedures shall be reviewed by the Sustainability and Infrastructure Commission who shall thereafter make recommendations to the City Council for adoption. Such policies and procedures shall be consistent with the purpose of <cite path="11.32">this chapter</cite>. Violations of the Residential Parking Permit Program Policies and Procedures are enforceable in the same manner and to the same extent as are violations of the other provisions of <cite path="11">this title</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-5" path="§6" type="History"/>
-        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" type="History"/>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" target-path="11.32.120" type="History"/>
       </annotations>
     </section>
   </container>
@@ -1891,7 +1896,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-4" path="§1" type="History"/>
-        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" type="History"/>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" target-path="11.44.110" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2122,7 +2127,16 @@
       <annotations>
         <annotation type="History">prior code § 76.10</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-10" path="§1" type="History"/>
-        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.010" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.020" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.030" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.040" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.050" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.060" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.070" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.080" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.090" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.100" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2131,7 +2145,16 @@
       <text>Bicycles designed and constructed to carry only one (1) person shall not be used to carry additional person or persons either on the handlebars thereof or elsewhere thereon.</text>
       <annotations>
         <annotation type="History">Prior code § 76.11</annotation>
-        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.010" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.020" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.030" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.040" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.050" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.060" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.070" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.080" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.090" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.110" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2140,7 +2163,16 @@
       <text>A person operating a motorcycle or bicycle shall not ride other than upon the permanent and regular seat attached thereto, nor carry any other person upon such motorcycle or bicycle, other than upon a firmly attached seat at the rear of the operator, nor shall any person ride upon a motorcycle or bicycle other than as above authorized.)</text>
       <annotations>
         <annotation type="History">Prior code § 73.29</annotation>
-        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.010" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.020" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.030" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.040" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.050" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.060" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.070" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.080" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.090" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.120" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2149,7 +2181,16 @@
       <text>No person, while riding any bicycle shall hold on to, or pull, another moving vehicle.</text>
       <annotations>
         <annotation type="History">Prior code § 76.12</annotation>
-        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.010" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.020" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.030" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.040" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.050" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.060" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.070" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.080" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.090" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.130" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2158,7 +2199,16 @@
       <text>Every person riding and operating a bicycle shall obey all traffic signals and signs, and before making turns shall give the same signals that are required of operators of motor vehicles.</text>
       <annotations>
         <annotation type="History">Prior code § 76.13</annotation>
-        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.010" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.020" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.030" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.040" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.050" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.060" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.070" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.080" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.090" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.140" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2167,7 +2217,16 @@
       <text>No rider of a bicycle shall ride the same at night without an adequate white headlight on the front thereof and a red light or red reflector on the rear, as required by the <cite doc="Cal. Veh. Code">Vehicle Code</cite> of the State.</text>
       <annotations>
         <annotation type="History">Prior code § 76.14</annotation>
-        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.010" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.020" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.030" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.040" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.050" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.060" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.070" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.080" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.090" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.150" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2176,7 +2235,16 @@
       <text>The City Manager shall provide and set up suitable racks adjacent to the curb or gutter at such places in the business districts of the City as he or she may deem advisable for the parking of bicycles by persons who have occasion to stop temporarily in such districts. All bicycles found lying on the sidewalk may be taken up and impounded by the Police Department, whence they may be recovered by proving ownership thereof and obtaining an order from the Chief of Police.</text>
       <annotations>
         <annotation type="History">Prior code § 76.15</annotation>
-        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.010" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.020" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.030" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.040" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.050" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.060" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.070" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.080" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.090" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.160" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2186,10 +2254,26 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-21" path="§9" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2012-2" path="§21" type="History"/>
-        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.010" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.020" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.030" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.040" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.050" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.060" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.070" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.080" type="History"/>
+        <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.090" type="History"/>
       </annotations>
     </section>
-    <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" type="History"/>
+    <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.010" type="History"/>
+    <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.020" type="History"/>
+    <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.030" type="History"/>
+    <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.040" type="History"/>
+    <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.050" type="History"/>
+    <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.060" type="History"/>
+    <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.070" type="History"/>
+    <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.080" type="History"/>
+    <annotation app="2018-10-31" doc="City of San Mateo, Cal., Ord. No. 2018-8" eff="2018-10-31" path="§1" target-path="11.56.090" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

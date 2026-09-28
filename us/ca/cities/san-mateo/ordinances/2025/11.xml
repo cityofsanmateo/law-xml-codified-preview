@@ -255,6 +255,6 @@
   </procedural-data>
   <codify:replace applicability="2025-12-31" doc="City of San Mateo, Cal., Code" path="10.100|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.100">
     <heading>RESIDENTIAL TENANT PROTECTION PROGRAM</heading>
-    <annotation app="2026-02-03" doc="Editor Action 2026-02-03" eff="2026-02-03" path="" type="History" display="false"/>
+    <annotation app="2026-02-03" doc="Editor Action 2026-02-03" eff="2026-02-03" path="" target-path="" type="History" display="false"/>
   </codify:replace>
 </document>

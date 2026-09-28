@@ -167,7 +167,7 @@
         <annotation type="History">prior code § 139.09</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§3" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.04.090" type="History"/>
       </annotations>
     </section>
     <section>
@@ -415,7 +415,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-32" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-20" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§10" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.16.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -425,7 +425,7 @@
       <annotations>
         <annotation type="History">prior code § 139.20(g)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.16.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -596,7 +596,7 @@
       <annotations>
         <annotation type="History">prior code § 139.20(a)(8)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.20.080" type="History"/>
       </annotations>
     </section>
     <section>
@@ -758,7 +758,7 @@
       <annotations>
         <annotation type="History">prior code § 139.20(c)(3)(d)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.28.050" type="History"/>
       </annotations>
     </section>
     <section>
@@ -805,7 +805,7 @@
       <annotations>
         <annotation type="History">prior code § 139.20(c)(1)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.28.070" type="History"/>
       </annotations>
     </section>
     <section>
@@ -817,7 +817,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§15" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-8" path="§18" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.28.080" type="History"/>
       </annotations>
     </section>
     <section>
@@ -845,20 +845,21 @@
     </section>
     <section>
       <num>26.32.020</num>
-      <heading>UNDERGROUNDING REQUIRED—EXCEPTIONS.</heading>
-      <text>All utility distribution facilities (including but not limited to electric, communication and cable television lines) installed in and for the purpose of supplying service to any residential or commercial subdivision shall be placed underground, except as follows:</text>
+      <heading>Undergrounding Requires – Exceptions</heading>
+      <text>All utility distribution facilities (including but not limited to electric, communication and cable television lines) existing along a subdivision frontage and those installed in and for the purpose of supplying service to any residential or commercial subdivision shall be placed underground, except as follows:</text>
       <para>
-        <num>(1)</num>
+        <num>(a)</num>
         <text>Equipment appurtenant to underground facilities, such as pedestal mounted terminal boxes and meter cabinets, and concealed ducts. This does not include transformers;</text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(b)</num>
         <text>Metal poles supporting only high voltage wires, switches, transformers and street lights.</text>
+        <text>For the purposes of <cite path="26.32" proof="needed">this chapter</cite>, utility distribution facilities for electrical power shall mean facilities carrying nominal voltages of less than thirty-four thousand five hundred volts, and the subdivider shall be responsible for all utility facilities' underground placement up to the nearest feasible points of connection beyond the subdivision frontage.</text>
       </para>
-      <aftertext>For the purposes of <cite path="26.32">this chapter</cite>, utility distribution facilities for electrical power shall mean facilities carrying nominal voltages of less than thirty-four thousand five hundred volts.</aftertext>
       <annotations>
         <annotation type="History">prior code § 139.20(e)(1)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
+        <annotation app="2026-10-08" doc="City of San Mateo, Cal., Ord. No. 2026-09" eff="2026-10-08" path="§8" target-path="26.32.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -956,7 +957,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§4" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§19" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§13" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.48.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1075,7 +1076,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1983-3" path="§4" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§14" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.48.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1200,7 +1201,7 @@
       <annotations>
         <annotation type="History">prior code § 139.33</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.48.100" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1310,7 +1311,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§24" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-8" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-9" path="§3" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.52.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1543,7 +1544,7 @@
         <annotation type="History">prior code § 139.42</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§21" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.52.060" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1586,7 +1587,7 @@
         <annotation type="History">prior code § 139.43</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§22" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.52.070" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1621,7 +1622,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§27" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§23" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.52.080" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1653,7 +1654,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§28" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§24" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.52.090" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1664,7 +1665,7 @@
         <annotation type="History">prior code § 139.46</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§25" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.52.100" type="History"/>
       </annotations>
     </section>
   </container>
@@ -1682,7 +1683,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§15" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§26" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.56.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1817,7 +1818,7 @@
         <annotation type="History">prior code § 139-53</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§28" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.56.070" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1843,7 +1844,7 @@
       <text>If the City approves a planning action pursuant to <cite path="27">Title 27</cite> subject to a condition that the applicant file and record a parcel map, the Director of Public Works may waive the preparation and filing of a tentative parcel map if the Director of Public Works determines that the planning approval has already fulfilled the requirements contained in <cite path="26.56">this chapter</cite> for delineation and disclosure of information about the affected property.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§28" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.56.085" type="History"/>
       </annotations>
     </section>
     <subheading>ARTICLE II FINAL PARCEL MAP</subheading>
@@ -1865,7 +1866,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1983-20" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§29" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-9" path="§5" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.56.090" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1934,7 +1935,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§30" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§31" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.56.120" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1943,7 +1944,7 @@
       <text>A complete and accurate survey meeting the requirements of <cite path="26.52.060">Section 26.52.060</cite> shall be completed before the final parcel map is filed with the Director of Public Works.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§32" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.56.125" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1978,7 +1979,7 @@
         <annotation type="History">prior code § 139.59</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§33" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.56.130" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2012,7 +2013,7 @@
       <aftertext>One copy of the final parcel map will be returned to the subdivider with notations as to errors and omissions, if any. The subdivider shall then be responsible for filing a corrected final parcel map if and when the subdivider makes the corrections. Upon approval of the final parcel map by the Director of Public Works, the Director of Public Works will notify the subdivider, the Director of Public Works will certify his or her approval of the final parcel map on the original tracing and the blueline cloth print of the map, and cause it to be recorded as set forth below.</aftertext>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§35" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.56.140" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2021,7 +2022,7 @@
       <text>Upon execution of the certificate of the Director of Public Works, the Director of Public Works will have the final map delivered to the County Recorder for recordation. The subdivider shall pay all actual costs of delivery and recordation. The subdivider shall ensure that one complete set of blueline prints on cloth, and one set of reproducible photo mylar tracings or equivalent process are provided to the Director of Public Works no later than thirty (30) days after recordation, and the subdivider shall be responsible for all costs incurred in the provision of these sets. The subdivider shall also provide two (2) copies of any covenants, conditions, and restrictions that have been recorded and relate to the parcel map to the Director of Public Works no later than that time.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§36" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.56.150" type="History"/>
       </annotations>
     </section>
   </container>
@@ -2063,7 +2064,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§37" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§33" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.57.010" type="History"/>
       </annotations>
     </section>
   </container>
@@ -2165,7 +2166,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§38" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§34" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.58.010" type="History"/>
       </annotations>
     </section>
   </container>
@@ -2175,107 +2176,133 @@
     <heading>IMPROVEMENTS</heading>
     <section>
       <num>26.60.010</num>
-      <heading>GENERAL REQUIREMENTS.</heading>
+      <heading>General Requirements</heading>
       <para>
         <num>(a)</num>
-        <text>The subdivider shall improve, or shall execute an agreement in writing to improve all public or private streets, pathways and easements, and to install such other improvements as are required by <cite path="26">this title</cite> as are necessary for the general use of lot owners in the subdivision, local neighborhood traffic and drainage needs.</text>
+        <text>The subdivider shall improve, or shall execute an agreement in writing to improve all public and private streets, pathways and easements, and to install such other improvements as are required by <cite path="26" proof="needed">this title</cite> as are necessary for the general use of lot owners in the subdivision, local neighborhood traffic, drainage needs, and utility services.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>The subdivider shall submit a complete set of plans, profiles, cross sections and specifications for improvements in conformity to the current design standards and specifications and the City standard specifications on reproducible material acceptable to the Director of Public Works for his or her check and approval. The scale of the plans and the size of the sheets shall be subject to approval by the Director of Public Works. If the Director of Public Works approves same, he or she shall certify his or her approval on the face of the tracings and/or other reproducible material.</text>
+        <text>The subdivider shall submit a complete set of plans, profiles, cross sections and specifications for improvements in conformity to the City's current Engineering Standards for Public Improvements on reproducible material or electronic media acceptable to the Director of Public Works for their check and approval. The scale of the plans and the size of the sheets shall be subject to approval by the Director of Public Works. If the Director of Public Works approves same, they shall certify their approval on the face of the tracings and/or other reproducible material.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>The Director of Public Works, or such other representatives as may be authorized by the Council, shall have the right to enter upon the site of said improvements for the purpose of inspecting the same. The Director of Public Works shall be furnished with such samples or materials as he or she may require for making tests to determine the acceptability of such materials. Prior to beginning the work on all or any portion of a subdivision, or prior to filing the final map with the Council, the subdivider shall deposit with the City an amount equal to the estimated actual cost for the inspection of the work and the cost of checking materials for said improvements during the entire period of construction of said subdivision or portion thereof. If the amount so deposited exceeds the actual cost to the City, the subdivider shall be reimbursed the balance of the deposit. Should the actual cost exceed the deposited amount, the Director of Public Works shall stop all construction until the subdivider shall present a receipt for a deposit with the City of such additional sum as the Director of Public Works may estimate.</text>
+        <text>The Director of Public Works, or such other representatives as may be authorized by the Council, shall have the right to enter upon the site of said improvements for the purpose of inspecting the same. The Director of Public Works shall be furnished with such samples or materials as they may require for making tests to determine the acceptability of such materials. Prior to beginning the work on all or any portion of a subdivision, or prior to filing the final map with the Council, the subdivider shall deposit with the City an amount equal to the estimated actual cost for the inspection of the work and the cost of checking materials for said improvements during the entire period of construction of said subdivision or portion thereof. If the amount so deposited exceeds the actual cost to the City, the subdivider shall be reimbursed the balance of the deposit. Should the actual cost exceed the deposited amount, the Director of Public Works shall stop all construction until the subdivider shall present a receipt for a deposit with the City of such additional sum as the Director of Public Works may estimate.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>No improvement work shall be commenced until improvement plans and specifications have been submitted to and approved by the Director of Public Works, the fire chief, and the assistant city manager, or his or her representative.</text>
+        <text>No improvement work shall be commenced until improvement plans and specifications have been submitted to and approved by the Director of Public Works, the San Mateo Consolidated Fire Department, the Building Official, or their designees.</text>
       </para>
-      <aftertext>Improvements shall be installed in accordance with the approved plans and specifications to permanent line and grade to the satisfaction of the Director of Public Works who shall supervise the work. All work shall be subject to such inspections as he or she may deem necessary to protect the interest of the City. In no case shall the improvements be less substantial than required by the design standards and specifications and the City standard specifications in effect at the time the plans and specifications are approved, and all grading and major vegetation removal in connection therewith shall conform to all requirements of <cite path="23.40">chapter 23.40</cite>.</aftertext>
+      <para>
+        <num>(e)</num>
+        <text>Improvements shall be installed in accordance with the approved plans and specifications to permanent line and grade to the satisfaction of the Director of Public Works, or Building Official in the case of private improvements, who shall supervise the work. All work shall be subject to such inspections as they may deem necessary to protect the interest of the City. In no case shall the improvements be less substantial than required by the design standards and specifications and the City standard specifications in effect at the time the plans and specifications are approved, and all grading and major vegetation removal in connection therewith shall conform to all requirements of <cite path="23.40" proof="needed">chapter 23.40</cite>.</text>
+      </para>
       <annotations>
         <annotation type="History">prior code § 139.21 (a)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§31" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.60.010" type="History"/>
+        <annotation app="2026-10-08" doc="City of San Mateo, Cal., Ord. No. 2026-09" eff="2026-10-08" path="§9" target-path="26.60.010" type="History"/>
       </annotations>
     </section>
     <section>
       <num>26.60.020</num>
-      <heading>MINIMUM IMPROVEMENTS.</heading>
-      <text>The minimum improvements which the subdivider shall make, or agree to make, at his or her expense prior to acceptance and approval of the final map by the City shall be:</text>
+      <heading>Minimum Improvements</heading>
+      <text>The minimum improvements within the subdivision and the subdivision's public right-of-way frontage which the subdivider shall make, or agree to make, at its expense prior to acceptance and approval of the final map by the City shall be:</text>
       <para>
         <num>(a)</num>
-        <text>Grading, curbs and gutters, paving, drainage and drainage structures;</text>
-        <para>
-          <num>(2)</num>
-          <text>Street name signs, traffic warning signs, required traffic and crosswalk lines, guard rails, and the like, all in accordance with the City standard specifications;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Sidewalks, pedestrian paths and similar features;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Fire hydrants with required appurtenances;</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>A water system;</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>A sanitary sewer system and appurtenant structures with laterals for each lot intended for residential use, and for lots intended for other uses, such connections as may be required. All sewer laterals shall be indicated on plans giving the location from the closest lot corner and depth of lateral;</text>
-        </para>
-        <para>
-          <num>(7)</num>
-          <text>Street plantings;</text>
-        </para>
-        <para>
-          <num>(8)</num>
-          <text>All communications and electrical distribution facilities;</text>
-        </para>
-        <para>
-          <num>(9)</num>
-          <text>A gas distribution system;</text>
-        </para>
-        <para>
-          <num>(10)</num>
-          <text>Earth retention structures as may be required;</text>
-        </para>
-        <para>
-          <num>(11)</num>
-          <text>Street lighting;</text>
-        </para>
-        <para>
-          <num>(12)</num>
-          <text>Underground ducting and appurtenant structures for traffic signals, where required.</text>
-        </para>
+        <text>All grading, curbs, gutters, paving (including base, subbase, and surface course), drainage pipes, and drainage structures necessary to serve the subdivision and prevent flooding of the subdivision and frontage; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Stormwater treatment measures to treat runoff of the subdivision and the subdivision's public right-of-way frontage (up to the center of the street), in accordance with State regulatory mandates; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Street name signs, traffic warning signs, required traffic and crosswalk lines, guard rails, pedestrian crossings, and other traffic and pedestrian control devices, all in accordance with the City Engineering Standards and adopted City plans; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Sidewalks, pedestrian paths, curb ramps, and similar pedestrian features to provide either: (1) a 10-foot minimum sidewalk width, inclusive of pedestrian through zones and landscape strips and amenity zones ("effective sidewalk"); or (2) the minimum effective sidewalk width for adopted City plans, whichever is greater; and</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Bicycle lanes, shared-use paths, and other bicycle facilities as identified in adopted City plans;</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Fire hydrants with required appurtenances;</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>A water supply service system;</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>A sanitary sewer system and appurtenant structures with laterals for each lot intended for residential use, and for lots intended for other uses, such connections as may be required. All sewer laterals shall be indicated on plans giving the location from the closest lot corner and depth of lateral;</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Street plantings, landscaping, trees, and irrigation pursuant to adopted City plans;</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Underground communications and electrical distribution facilities;</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>Undergrounding of existing overhead utilities;</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>A gas distribution system;</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>Earth retention structures;</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>Street roadway lighting, and for pedestrian corridors identified in an adopted City Plan, pedestrian-scale lighting;</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>Underground ducting and appurtenant structures for traffic signals; and</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>Public sanitary sewer system or storm drain system extensions or capacity improvements to serve new, increased, or intensified flows as identified through technical studies performed by the subdivider.</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 139.21(b)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
+        <annotation app="2026-10-08" doc="City of San Mateo, Cal., Ord. No. 2026-09" eff="2026-10-08" path="§10" target-path="26.60.020" type="History"/>
       </annotations>
     </section>
     <section>
       <num>26.60.030</num>
-      <heading>GUARANTEES.</heading>
-      <text>The subdivider shall guarantee the workmanship of all improvements specified hereinabove and installed by him or her or under his or her direction, and shall make, or agree in writing to make, the necessary repairs or modifications for damage which may result from storm caused erosion or landslides and to correct errors in the design or construction of any facility for a period of one year from the date of completion as described below.</text>
+      <heading>Guarantees</heading>
+      <para>
+        <num>(a)</num>
+        <text>The subdivider shall guarantee the workmanship of all improvements specified in <cite path="26.60" proof="needed">this chapter</cite> and installed by or under its direction.  The subdivider shall make, or agree in writing to make, the necessary repairs or modifications for damage which may result from storm caused erosion or landslides and to correct errors in the design or construction of any facility for a period of one year from the date of completion as described below.</text>
+      </para>
       <annotations>
         <annotation type="History">prior code § 139.21(c)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
+        <annotation app="2026-10-08" doc="City of San Mateo, Cal., Ord. No. 2026-09" eff="2026-10-08" path="§11" target-path="26.60.030" type="History"/>
       </annotations>
     </section>
     <section>
       <num>26.60.040</num>
-      <heading>COMPLETION PLANS.</heading>
-      <text>The subdivider shall cause the improvement plans to be amended to show the improvements "as built." Said "as built" plans shall be on polyester base film.</text>
-      <text>Upon receipt of said "as built" plans, the Director of Public Works shall recommend formal acceptance by the Council when he or she is fully satisfied that the improvements have been installed in complete conformance with the provisions of <cite path="26">this title</cite>.</text>
+      <heading>Completion Plans</heading>
+      <text>The subdivider shall cause the improvement plans to be amended to show the improvements "as built." Said "as built" plans shall be on polyester base film or electronic media.</text>
+      <text>Upon receipt of said "as built" plans, the Director of Public Works shall recommend formal acceptance by the Council when he or she is fully satisfied that the improvements have been installed in complete conformance with the provisions of <cite path="26" proof="needed">this title</cite>.</text>
       <text>Elevations related to the City datum shall be shown on the "as built" improvement plans as required above for all monuments in the subdivision.</text>
       <annotations>
         <annotation type="History">prior code § 139.21(d)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.60.040" type="History"/>
+        <annotation app="2026-10-08" doc="City of San Mateo, Cal., Ord. No. 2026-09" eff="2026-10-08" path="§12" target-path="26.60.040" type="History"/>
       </annotations>
     </section>
   </container>
@@ -2430,7 +2457,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1971-50" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1974-47" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-9" path="§1" type="History"/>
-        <annotation app="2020-08-19" doc="City of San Mateo, Cal., Ord. No. 2020-9" eff="2020-08-19" path="§1" type="History"/>
+        <annotation app="2020-08-19" doc="City of San Mateo, Cal., Ord. No. 2020-9" eff="2020-08-19" path="§1" target-path="26.64.030|(b)|(1)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2506,7 +2533,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1983-3" path="§9" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1983-12" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§32" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" target-path="26.65.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2814,8 +2841,8 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-22" path="§8" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-33" path="§5" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" type="History">Ord. 1985-24 §§ 38, 39, 40, 41, 1985</annotation>
-        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§2" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" type="History"/>
+        <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§2" target-path="26.65.060" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" target-path="26.65.060" type="History"/>
       </annotations>
     </section>
     <section>

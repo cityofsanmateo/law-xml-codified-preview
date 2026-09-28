@@ -88,9 +88,9 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-17" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1994-24" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-8" path="§4" type="History"/>
-        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§6" type="History"/>
-        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-5" eff="2021-03-18" path="§1" type="History"/>
-        <annotation app="2021-05-19" doc="City of San Mateo, Cal., Ord. No. 2021-11" eff="2021-05-19" path="§1" type="History"/>
+        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§6" target-path="17.08.020" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-5" eff="2021-03-18" path="§1" target-path="17.08.020" type="History"/>
+        <annotation app="2021-05-19" doc="City of San Mateo, Cal., Ord. No. 2021-11" eff="2021-05-19" path="§1" target-path="17.08.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -185,7 +185,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-14" path="§1" type="History"/>
-        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" type="History"/>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" target-path="17.08.115" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -196,7 +196,7 @@
       <annotations>
         <annotation type="History">prior code § 66.12</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1972-38" path="§1" type="History"/>
-        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§7" type="History"/>
+        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§7" target-path="17.08.120" type="History"/>
       </annotations>
     </section>
     <section>
@@ -208,7 +208,7 @@
       <text>No portion of the application fee shall be refunded except where the application is rejected and the rejection is not successfully appealed, in which case 50% of the fee shall be refunded.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-13" path="§8" type="History"/>
-        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" type="History"/>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" target-path="17.08.130" type="History"/>
       </annotations>
     </section>
     <section>
@@ -297,7 +297,7 @@
     <prefix>Chapter</prefix>
     <num>17.10</num>
     <heading>WIRELESS COMMUNICATIONS FACILITIES IN THE PUBLIC RIGHT-OF-WAY</heading>
-    <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
+    <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="|17" type="History"/>
     <section>
       <num>17.10.010</num>
       <heading>Purpose and Intent</heading>
@@ -310,8 +310,9 @@
         <text><cite path="17.10">This Chapter</cite> is not intended to, nor shall it be interpreted or applied to: (1) prohibit or effectively prohibit any personal wireless service provider's ability to provide personal wireless services; (2) prohibit or effectively prohibit any entity's ability to provide any interstate or intrastate telecommunications service, subject to any competitively neutral and nondiscriminatory rules, regulations or other legal requirements for rights-of-way management; (3) unreasonably discriminate among providers of functionally equivalent services; (4) deny any request for authorization to place, construct or modify personal wireless service facilities on the basis of environmental effects of radio frequency emissions to the extent that such wireless facilities comply with existing or future FCC's regulations concerning such emissions; (5) prohibit any collocation or modification that the City may not deny under federal or California state law; (6) impose any unfair, unreasonable, discriminatory or anticompetitive fees that exceed the reasonable cost to provide the services for which the fee is charged; or (7) otherwise authorize the City to preempt any applicable federal or California law.</text>
       </para>
       <annotations>
-        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§1" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="|17" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="17.10" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§1" target-path="17.10.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -403,9 +404,10 @@
         <text><strong>City Council Policy </strong>means a policy adopted by resolution pursuant to <cite path="17.10">this Chapter</cite> which authorizes the City Council to adopt procedural and substantive rules for small wireless facilities deployment with the City of San Mateo.</text>
       </para>
       <annotations>
-        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§2" type="History"/>
-        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§2" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="|17" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="17.10" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§2" target-path="17.10.020" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§2" target-path="17.10.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -428,9 +430,10 @@
         <text>Special Provisions for Small Wireless Facilities. Notwithstanding <cite path="17.10.030|(a)">Section 17.10.030(a)</cite>, all small wireless facilities within the City's public rights-of-way are subject to a permit as specified in a City Council Policy, which may be adopted, amended and/or repealed by a resolution of the City Council. All small wireless facilities within the City's public rights-of-way shall comply with the City Council's Policy. If a City Council Policy regulating small wireless facilities within the City's rights-of-way is not adopted, or is otherwise repealed after adoption and not replaced, an application for a small wireless facility within the City's public rights-of-way shall be processed pursuant to the provisions in <cite path="17.10">this Chapter</cite>.</text>
       </para>
       <annotations>
-        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§3" type="History"/>
-        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§3" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="|17" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="17.10" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§3" target-path="17.10.030" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§3" target-path="17.10.030" type="History"/>
       </annotations>
     </section>
     <section>
@@ -454,9 +457,10 @@
         <text>Fees. All required fees, security instruments, and cash deposits related to the wireless permit, the City pole license, and other required permits and approvals consistent with <cite path="17.10">this Chapter</cite> must be paid in full or be satisfied in order for a wireless permit or a City pole license to be issued by the City. In addition, City may seek reimbursement of the actual reasonable costs related to licensing, permitting, and administering wireless facilities in the public right-of-way as set by the City Council. Failure to comply with this provision shall be a basis to deny, revoke, or terminate the wireless permit, the City pole license or other applicable permit.</text>
       </para>
       <annotations>
-        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§4" type="History"/>
-        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§4" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="|17" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="17.10" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§4" target-path="17.10.040" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§4" target-path="17.10.040|(a)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -488,9 +492,10 @@
         <text>Additional Procedures. The City Council authorizes the Director to establish any other forms and procedures relating to the implementation of <cite path="17.10">this Chapter</cite>.</text>
       </para>
       <annotations>
-        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§5" type="History"/>
-        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§5" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="|17" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="17.10" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§5" target-path="17.10.050" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§5" target-path="17.10.050" type="History"/>
       </annotations>
     </section>
     <section>
@@ -509,8 +514,9 @@
         <text>Consultant Fees; Deposit. In the event that the Director elects to retain an independent consultant in connection with any permit application, the applicant shall be responsible for the reasonable costs in connection with the services provided as detailed in the Design Standards and Application Requirements. The City shall not issue any construction or grading permit to any applicant with any unpaid deposit requests or invoices.</text>
       </para>
       <annotations>
-        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§6" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="|17" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="17.10" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§6" target-path="17.10.060" type="History"/>
       </annotations>
     </section>
     <section>
@@ -561,9 +567,10 @@
         <text>Appeals. The applicant or any person who is a property owner or resident within 500' of the project site may appeal any decision by the Director to approve or deny an application for a wireless permit. Appeals must be filed with the City Clerk within ten calendar days following the Director's decision. Payment of the appeal hearing fee pursuant to the City's Adopted Comprehensive Fee Schedule must be made prior to the scheduling of the appeal hearing. The appeal for hearing before a hearing officer shall be set at the next available date, or otherwise within a time frame needed to comply with all applicable state or federal laws. Appeals from an approval will not be permitted to the extent that the appeal is based on environmental effects from RF emissions that comply with all applicable FCC regulations, or as provided in the City Council Policy.  The hearing officer shall review the appeal de novo, with the appellant having the burden of proof to establish the basis for seeking a reversal of the Director's decision, and issue a decision at the hearing. The hearing officer's decision shall be final and not subject to any further administrative appeals.</text>
       </para>
       <annotations>
-        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§7" type="History"/>
-        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§6" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="|17" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="17.10" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§7" target-path="17.10.070" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§6" target-path="17.10.070" type="History"/>
       </annotations>
     </section>
     <section>
@@ -578,9 +585,10 @@
         <text>Modifications to Standard Conditions. The Director (or the  hearing officer on appeal) shall have discretion to modify or amend any standard conditions of approval on a case-by-case basis as may be necessary or appropriate to protect and promote the public health, safety and welfare, allow for the proper operation of the approved wireless facility, maintain compliance with applicable laws and/or to advance the goals or policies in the General Plan and any specific plan, the San Mateo Municipal Code and/or <cite path="17.10">this Chapter</cite>.</text>
       </para>
       <annotations>
-        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§8" type="History"/>
-        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§7" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="|17" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="17.10" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§8" target-path="17.10.080" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§7" target-path="17.10.080" type="History"/>
       </annotations>
     </section>
     <section>
@@ -615,9 +623,10 @@
         <text>Abandonment. Wireless facilities no longer used to provide service shall be removed by the last known owner of record of such facility, at the sole cost of said owner and to the satisfaction of the City.</text>
       </para>
       <annotations>
-        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§9" type="History"/>
-        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§8" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="|17" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="17.10" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§9" target-path="17.10.090" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§8" target-path="17.10.090" type="History"/>
       </annotations>
     </section>
     <section>
@@ -625,8 +634,9 @@
       <heading>Temporary Wireless Facilities</heading>
       <text>Temporary wireless facilities may be placed and operated within the City without a wireless permit only when a duly authorized federal, state, county or City official determines an emergency exists within a region that includes the City in whole or in part. The applicant must still obtain all other permits and regulatory approvals as may be required by any other federal, state or local government agencies, which includes without limitation other any other permits and/or approvals issued by other City departments or divisions. Any temporary wireless facilities placed pursuant to this Section must be removed within thirty calendar days after the date the emergency is lifted by a duly authorized federal, state, county or City official. Any person or entity that places temporary wireless facilities pursuant to this Section must send a written notice that identifies the site location and person responsible for its operation to the Director as soon as reasonably practicable.</text>
       <annotations>
-        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§10" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="|17" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="17.10" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§10" target-path="17.10.100" type="History"/>
       </annotations>
     </section>
     <section>
@@ -697,8 +707,9 @@
         <text>Appeals. Any applicant may appeal the city staff's written decision to deny without prejudice an application for Section 6409 request to the Director of Public Works within five (5) calendar days of the notice of decision. The written appeal together with any applicable appeal fee must be tendered to the City Clerk within five calendar days from the city staff's  written decision and must state in plain terms the grounds for reversal and the facts that support those grounds. The Director of Public Works shall be the appellate authority for all appeals from the city staff's written decision to deny without prejudice an application for section 6409 approval. The Public Works Director shall review the application de novo; provided, however, that the Public Works Director's decision shall be limited to only whether the application should be approved or denied in accordance with the provisions in this Section and any other applicable laws. The Director of Public Works  shall issue a written decision that contains the reasons for the decision, and such decision shall be final and not subject to any further administrative appeals.</text>
       </para>
       <annotations>
-        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§11" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="|17" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="17.10" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§11" target-path="17.10.110" type="History"/>
       </annotations>
     </section>
     <section>
@@ -706,9 +717,10 @@
       <heading>Review of Ordinance</heading>
       <text>Wireless communications technology is currently subject to rapid change. Innovations may render the need for specific sections of <cite path="17.10">this Chapter</cite> to be reviewed and revised. The City Council may amend <cite path="17.10">this Chapter</cite> by ordinance or its rules and policies by resolution after a change to the FCC's regulations or standards, or any applicable state or federal laws.</text>
       <annotations>
-        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§12" type="History"/>
-        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§9" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="|17" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="17.10" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-18" eff="2021-07-21" path="§12" target-path="17.10.120" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§9" target-path="17.10.120" type="History"/>
       </annotations>
     </section>
     <section placeholder="Repealed">
@@ -717,8 +729,9 @@
       <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
-        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" type="History"/>
-        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§10" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="|17" type="History"/>
+        <annotation app="2018-08-15" doc="City of San Mateo, Cal., Ord. No. 2018-5" eff="2018-08-15" path="§1" target-path="17.10" type="History"/>
+        <annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-12" eff="2025-01-08" path="§10" target-path="17.10.130" type="History"/>
       </annotations>
     </section>
   </container>
@@ -1275,12 +1288,13 @@
     <heading>DRIVEWAYS</heading>
     <section>
       <num>17.16.010</num>
-      <heading>CONFORMANCE WITH CHAPTER REQUIRED.</heading>
-      <text>No building or structure or open paved area designed or used for a garage or for the storing of automobiles, and which is reached by a driveway crossing the sidewalk or public property in front of such building structure or area, shall hereafter be used for such purposes, unless the driveway crossing the sidewalk or public property leading to such building structure or area and the curb in front thereof is built or constructed in conformity with the provisions of <cite path="17.16">this chapter</cite>.</text>
-      <text>If, at any time, the driveway so constructed is no longer necessary because the building structure or area ceases to be used for the storage of automobiles, is removed or destroyed or access thereto is reoriented, the driveway crossing the sidewalk or public place shall be removed and the curb, gutter, sidewalk and parkway restored in line and to the grade of adjacent curb, gutter, sidewalk and parkway.</text>
-      <text>When a new driveway is to be constructed upon the same property, the permit required by <cite path="17.16.030">Section 17.16.030</cite> shall include the removal of any existing driveways no longer necessary.</text>
+      <heading>Conformance with Chapter Required</heading>
+      <text>No building or structure or open paved area designed or used for a garage or for the storing of automobiles, and which is reached by a driveway crossing the sidewalk or public property in front of such building structure or area, shall hereafter be used for such purposes, unless the driveway crossing the sidewalk or public property leading to such building structure or area and the curb in front thereof is built or constructed in conformity with the provisions of <cite path="17.16" proof="needed">this chapter</cite>.</text>
+      <text>Except for the conversion to an accessory dwelling unit, if, at any time, the driveway so constructed is no longer necessary because the building structure or area ceases to be used for the storage of automobiles, is removed or destroyed or access thereto is reoriented, the driveway crossing the sidewalk or public place shall be removed and the curb, gutter, sidewalk and parkway restored in line and to the grade of adjacent curb, gutter, sidewalk and parkway.</text>
+      <text>When a new driveway is to be constructed upon the same property, the permit required by <cite path="17.16.030" proof="needed">Section 17.16.030</cite> shall include the removal of any existing driveways no longer necessary.</text>
       <annotations>
         <annotation type="History">Prior code § 66.42</annotation>
+        <annotation app="2026-10-08" doc="City of San Mateo, Cal., Ord. No. 2026-09" eff="2026-10-08" path="§1" target-path="17.16.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1390,7 +1404,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-4" path="§1" type="History"/>
-        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§13" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§13" target-path="17.24.120" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1439,7 +1453,7 @@
       <text>The notice of cost shall allow the Property Owner to appeal the determination as to the responsible Property Owner(s) of the amount owed. The request to appeal the claim must be in writing and filed within 10 calendar days of the date of the Director of Public Works notice to the Property Owner of the cost of repair. The appeal shall designate with particularity the decision, action or determination appealed from and the remedy or relief sought by way of the appeal. The appeal shall be filed with the Public Works secretary, who shall set the hearing for the next regularly scheduled meeting of the Sustainability and Infrastructure Commission. At the hearing, the commission shall receive all evidence offered by the Property Owner and City staff. At the conclusion of the hearing, the commission shall make its findings. If the commission finds that the initial decision, action or determination that is appealed from is consistent with the provisions and policies of <cite path="17.24">this chapter</cite> and is not otherwise injurious to the public health, safety or welfare, then the appeal shall be denied. If it finds that the initial decision, action or determination is either inconsistent with the provisions and policies of <cite path="17.24">this chapter</cite> or is otherwise injurious to the public health, safety or welfare, then the commission may sustain the appeal and in its decision grant any remedy or relief sought by the Property Owner, or such other relief as it deems appropriate, that is consistent with the provisions and policies of <cite path="17.24">this chapter</cite>. Any interested person may appeal the decision of the commission to the City Council by filing an application with the City Clerk's Office, including any required fees, within 10 calendar days of the decision. The decision of the Council shall be final.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-4" path="§1" type="History"/>
-        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" type="History"/>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" target-path="17.24.180" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1943,7 +1957,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2002-4" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-4" path="§4" type="History"/>
-        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" type="History"/>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" target-path="17.30.070" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1960,7 +1974,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2002-4" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-4" path="§4" type="History"/>
-        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" type="History"/>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" target-path="17.30.080" type="History"/>
       </annotations>
     </section>
   </container>

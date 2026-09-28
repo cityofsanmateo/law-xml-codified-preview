@@ -129,7 +129,7 @@
       <text>Repealed.</text>
       <annotations>
         <annotation type="History">Prior code § 36.01(13)</annotation>
-        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§1" type="History"/>
+        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§1" target-path="5.03.160" type="History"/>
       </annotations>
     </section>
     <section>
@@ -602,7 +602,7 @@
         <annotation type="History">prior code § 39.16</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1977-15" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§16" type="History"/>
-        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§2" type="History"/>
+        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§2" target-path="5.12.050" type="History"/>
       </annotations>
     </section>
     <section>
@@ -886,7 +886,7 @@
         <annotation type="History">prior code § 44.01</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1974-34" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§28" type="History"/>
-        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§3" type="History"/>
+        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§3" target-path="5.15.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1466,7 +1466,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1977-20" path="§29" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§54" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-10" path="§1" type="History"/>
-        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§4" type="History"/>
+        <annotation app="2019-10-03" doc="City of San Mateo, Cal., Ord. No. 2019-8" eff="2019-10-03" path="§4" target-path="5.24.240" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2970,7 +2970,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-12" path="§1" type="History"/>
-        <annotation app="2024-02-15" doc="City of San Mateo, Cal., Ord. No. 2024-1" eff="2024-02-15" path="§2|(q)" type="History"/>
+        <annotation app="2024-02-15" doc="City of San Mateo, Cal., Ord. No. 2024-1" eff="2024-02-15" path="§2|(q)" target-path="5.44.050|(q)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3946,7 +3946,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>5.66</num>
-    <heading>SHORT TERM RENTALS<annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="" type="History" display="false"/></heading>
+    <heading>SHORT TERM RENTALS<annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="" target-path="5.66|heading" type="History" display="false"/></heading>
     <section>
       <num>5.66.010</num>
       <heading>Purpose.</heading>
@@ -3964,7 +3964,7 @@
         <text>Provide a registration process for the City to track and enforce these requirements as needed and ensure appropriate collection of transient occupancy taxes.</text>
       </para>
       <annotations>
-        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" target-path="5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4007,8 +4007,12 @@
         <text>A person who exercises occupancy or is entitled to occupancy by reason of concession, permit, right of access, license, or other agreement for a period of less than 30 consecutive calendar days, counting portions of calendar days as full calendar days.</text>
       </para>
       <annotations>
-        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-17" eff="2021-07-21" path="§1" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" target-path="5" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-17" eff="2021-07-21" path="§1" target-path="5.66.020" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-17" eff="2021-07-21" path="§1" target-path="5.66.020|(c)|num" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-17" eff="2021-07-21" path="§1" target-path="5.66.020|(d)|num" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-17" eff="2021-07-21" path="§1" target-path="5.66.020|(e)|num" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-17" eff="2021-07-21" path="§1" target-path="5.66.020|(f)|num" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4016,7 +4020,7 @@
       <heading>Permitted Use</heading>
       <text>Short-Term Rental uses shall be permitted in any residence subject to all Municipal Code requirements, including compliance with the operating standards, registration, Transient Occupancy Tax payments, payment of business license taxes, and recordkeeping obligations. Except as provided for in this section, all other Short-Term Rental uses shall be prohibited.</text>
       <annotations>
-        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" target-path="5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4060,8 +4064,8 @@
         <text>Hosts must notify guests of all City noise, trash, and parking ordinances.</text>
       </para>
       <annotations>
-        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-17" eff="2021-07-21" path="§2" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" target-path="5" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-17" eff="2021-07-21" path="§2" target-path="5.66.040" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4096,8 +4100,8 @@
         </para>
       </para>
       <annotations>
-        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" type="History"/>
-        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-17" eff="2021-07-21" path="§3" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" target-path="5" type="History"/>
+        <annotation app="2021-07-21" doc="City of San Mateo, Cal., Ord. No. 2021-17" eff="2021-07-21" path="§3" target-path="5.66.050" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4105,7 +4109,7 @@
       <heading>Validity</heading>
       <text>An approved registration shall be valid on a fiscal year basis and annual renewal shall be required beginning on or before July 1. An approved registration shall be personal to the Host and shall automatically expire upon sale or transfer of the dwelling unit. No registration may be assigned, transferred, or loaned to any other person.</text>
       <annotations>
-        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" target-path="5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4113,7 +4117,7 @@
       <heading>Annual Renewal</heading>
       <text>A registration may be renewed annually upon payment of registration renewal fees no later than July 1 annually and all required transient occupancy tax remittance associated with the Short-term Rental. The Host shall submit such information concerning the Short-Term Rental activity as may be required to enable the Tax Collector to verify the amount of tax paid. Failure to renew prior to the expiration date will result in expiration of the registration.</text>
       <annotations>
-        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" target-path="5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4121,7 +4125,7 @@
       <heading>Requirements Not Exclusive</heading>
       <text>The issuance of a Short-Term Rental registration shall not relieve any person of the obligation to comply with all other provisions of this Code applicable to the use and occupancy of the property.</text>
       <annotations>
-        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" target-path="5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4129,7 +4133,7 @@
       <heading>Administrative Policy</heading>
       <text>The City Manager or his/her designee shall have the authority to develop administrative policies to implement the intent of <cite path="5.66">this Chapter</cite>.</text>
       <annotations>
-        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" target-path="5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4137,7 +4141,7 @@
       <heading>Transient Occupancy Tax Collection</heading>
       <text>Transient occupancy taxes (TOT) must be collected for Short-Term Rentals and paid to the City pursuant to Municipal Code. Collection of transient occupancy taxes for Short-Term Rentals shall be the responsibility of the Host, except that the Hosting Platform shall collect TOT when it has entered into a voluntary collection agreement (or equivalent) with the City.</text>
       <annotations>
-        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" target-path="5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4145,7 +4149,7 @@
       <heading>Business License</heading>
       <text>Hosts must obtain a City business license in accordance with <cite path="5">Title 5</cite> of the Municipal Code.</text>
       <annotations>
-        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" target-path="5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4184,7 +4188,7 @@
         <text>Waiting Period. Any Host whose registration has been denied or revoked shall be ineligible from applying for a new registration for a 24-month period.</text>
       </para>
       <annotations>
-        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" target-path="5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4192,7 +4196,7 @@
       <heading>Records of Compliance</heading>
       <text>The Host shall retain records documenting the compliance with these requirements for a period of three years after each period of Short-Term Rental, including but not limited to records showing payment of transient occupancy taxes. Upon reasonable notice, the Host shall provide any such documentation to City upon request for the purpose of inspection or audit to the City Manager or his/her designee.</text>
       <annotations>
-        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" target-path="5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4200,10 +4204,10 @@
       <heading>Violations</heading>
       <text>The City will utilize any and all enforcement options as provided for <cite path="1">Title 1</cite> for failure to comply with the provisions of this Section.</text>
       <annotations>
-        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" type="History"/>
+        <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" target-path="5" type="History"/>
       </annotations>
     </section>
-    <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" type="History"/>
+    <annotation app="2021-03-18" doc="City of San Mateo, Cal., Ord. No. 2021-6" eff="2021-03-18" path="§2" target-path="5" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -5118,7 +5122,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-17" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-7" path="§1" type="History"/>
-        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" type="History"/>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§3" target-path="5.75.430" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5651,7 +5655,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>5.89</num>
-    <heading>DISPOSABLE FOOD SERVICE WARE<annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" type="History"/><annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="" type="History" display="false"/></heading>
+    <heading>DISPOSABLE FOOD SERVICE WARE<annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" target-path="5.89|heading" type="History"/><annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="" target-path="5.89|heading" type="History" display="false"/></heading>
     <section>
       <num>5.89.010</num>
       <heading>Definitions</heading>
@@ -5759,8 +5763,8 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-6" path="§1" type="History"/>
-        <annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" type="History"/>
-        <annotation app="2022-05-04" doc="City of San Mateo, Cal., Ord. No. 2022-03" eff="2022-05-04" path="§1" type="History"/>
+        <annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" target-path="5.89.010" type="History"/>
+        <annotation app="2022-05-04" doc="City of San Mateo, Cal., Ord. No. 2022-03" eff="2022-05-04" path="§1" target-path="5.89.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5801,8 +5805,8 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-6" path="§1" type="History"/>
-        <annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" type="History"/>
-        <annotation app="2022-05-04" doc="City of San Mateo, Cal., Ord. No. 2022-03" eff="2022-05-04" path="§2" type="History"/>
+        <annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" target-path="5.89.020" type="History"/>
+        <annotation app="2022-05-04" doc="City of San Mateo, Cal., Ord. No. 2022-03" eff="2022-05-04" path="§2" target-path="5.89.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5862,8 +5866,8 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-6" path="§1" type="History"/>
-        <annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" type="History"/>
-        <annotation app="2022-05-04" doc="City of San Mateo, Cal., Ord. No. 2022-03" eff="2022-05-04" path="§3" type="History"/>
+        <annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" target-path="5.89.030" type="History"/>
+        <annotation app="2022-05-04" doc="City of San Mateo, Cal., Ord. No. 2022-03" eff="2022-05-04" path="§3" target-path="5.89.030" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5891,7 +5895,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-6" path="§1" type="History"/>
-        <annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" type="History"/>
+        <annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" target-path="5.89.040" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5919,8 +5923,8 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-6" path="§1" type="History"/>
-        <annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" type="History"/>
-        <annotation app="2022-05-04" doc="City of San Mateo, Cal., Ord. No. 2022-03" eff="2022-05-04" path="§4" type="History"/>
+        <annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" target-path="5.89.050" type="History"/>
+        <annotation app="2022-05-04" doc="City of San Mateo, Cal., Ord. No. 2022-03" eff="2022-05-04" path="§4" target-path="5.89.050" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5944,9 +5948,9 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-6" path="§1" type="History"/>
-        <annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" type="History"/>
-        <annotation app="2022-05-04" doc="City of San Mateo, Cal., Ord. No. 2022-03" eff="2022-05-04" path="§5" type="History"/>
-        <annotation app="2022-10-06" doc="City of San Mateo, Cal., Ord. No. 2022-8" eff="2022-10-06" path="§1" type="History"/>
+        <annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" target-path="5.89.060" type="History"/>
+        <annotation app="2022-05-04" doc="City of San Mateo, Cal., Ord. No. 2022-03" eff="2022-05-04" path="§5" target-path="5.89.060" type="History"/>
+        <annotation app="2022-10-06" doc="City of San Mateo, Cal., Ord. No. 2022-8" eff="2022-10-06" path="§1" target-path="|5.89.060" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5954,7 +5958,7 @@
       <heading>Authorization for County Enforcement</heading>
       <text>In addition to the City's enforcement mechanisms set forth in <cite path="1">Title 1</cite> of this code, the City of San Mateo authorizes the County of San Mateo to enforce <cite path="5.89">this chapter</cite> of the municipal code, including, without limitation, the authority to act on requests for undue hardship exemptions, hold hearings, issue administrative fines and retain collected fines.</text>
       <annotations>
-        <annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" type="History"/>
+        <annotation app="2021-04-01" doc="City of San Mateo, Cal., Ord. No. 2021-3" eff="2021-04-01" path="§1" target-path="5.89" type="History"/>
       </annotations>
     </section>
   </container>
@@ -6063,7 +6067,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-7" path="§2" type="History"/>
-        <annotation app="2022-09-14" doc="City of San Mateo, Cal., Ord. No. 2022-7" eff="2022-09-14" path="§1" type="History"/>
+        <annotation app="2022-09-14" doc="City of San Mateo, Cal., Ord. No. 2022-7" eff="2022-09-14" path="§1" target-path="|5.92.020" type="History"/>
       </annotations>
     </section>
     <section>

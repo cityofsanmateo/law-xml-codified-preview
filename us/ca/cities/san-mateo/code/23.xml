@@ -842,53 +842,54 @@
       <heading>Section 3110 - Automatic Vehicular Gates.</heading>
       <text>Section 3110.1 General is amended by adding Section 3110.1.1 Gate Safety as follows:</text>
       <include>
-        <text>
-          <strong>3110.1.1 Gate Safety.</strong>
-        </text>
-        <text>Automatic vehicular gates shall comply with the requirements of Sections 3110.2 and 3110.3 and all other applicable sections of this code. All gates are to comply with 3110.1.1 Gate Safety.</text>
-        <text><strong>Purpose.</strong> The purpose of <cite path="3110.1" proof="needed">this chapter</cite> is to promote public safety and welfare by reducing the risk of death or injury that may result from gates detaching from supporting hardware or gates not being well maintained and inspected.  The city finds it necessary to require gates to be inspected periodically by a professional and record keeping to ensure the basic life safety of its residents.</text>
-        <text><strong>Definitions.</strong> For the purposes of <cite path="3110.1" proof="needed">this chapter</cite>, the following definitions shall apply:</text>
-        <para proof="needed">
-          <num>1.</num>
-          <text>"Building official" means the building official, an authorized deputy, designated building inspector or other designated employee of the city charged with enforcement and administration of <cite path="3110.1" proof="needed">this chapter</cite>.</text>
-        </para>
-        <para proof="needed">
-          <num>2.</num>
-          <text>"Owner" means any person, co-partnership, association, corporation or fiduciary, or their authorized agent(s) having legal or equitable title or any interest in any real property.</text>
-        </para>
-        <para proof="needed">
-          <num>3.</num>
-          <text>"Professional" means any licensed fence installer, ICC certified building inspector, licensed architect, or licensed engineer responsible for inspecting and providing a written certification.</text>
-        </para>
-        <para proof="needed">
-          <num>4.</num>
-          <text>"Written certification" means a document attesting the gate meets all of the requirements of the referenced standards, the gate has been maintained and  in good working order. In addition, the document shall clearly include the following:</text>
+        <section>
+          <num>3110.1.1</num>
+          <heading>Gate Safety.</heading>
+          <text>Automatic vehicular gates shall comply with the requirements of Sections 3110.2 and 3110.3 and all other applicable sections of this code. All gates are to comply with 3110.1.1 Gate Safety.</text>
+          <text><strong>Purpose.</strong> The purpose of <cite path="3110.1" proof="needed">this chapter</cite> is to promote public safety and welfare by reducing the risk of death or injury that may result from gates detaching from supporting hardware or gates not being well maintained and inspected.  The city finds it necessary to require gates to be inspected periodically by a professional and record keeping to ensure the basic life safety of its residents.</text>
+          <text><strong>Definitions.</strong> For the purposes of <cite path="3110.1" proof="needed">this chapter</cite>, the following definitions shall apply:</text>
           <para proof="needed">
-            <num>a.</num>
-            <text>Inspection date.</text>
+            <num>1.</num>
+            <text>"Building official" means the building official, an authorized deputy, designated building inspector or other designated employee of the city charged with enforcement and administration of <cite path="3110.1" proof="needed">this chapter</cite>.</text>
           </para>
           <para proof="needed">
-            <num>b.</num>
-            <text>Site address.</text>
+            <num>2.</num>
+            <text>"Owner" means any person, co-partnership, association, corporation or fiduciary, or their authorized agent(s) having legal or equitable title or any interest in any real property.</text>
           </para>
           <para proof="needed">
-            <num>c.</num>
-            <text>Name of the property owner.</text>
+            <num>3.</num>
+            <text>"Professional" means any licensed fence installer, ICC certified building inspector, licensed architect, or licensed engineer responsible for inspecting and providing a written certification.</text>
           </para>
           <para proof="needed">
-            <num>d.</num>
-            <text>Contact information of inspector.</text>
+            <num>4.</num>
+            <text>"Written certification" means a document attesting the gate meets all of the requirements of the referenced standards, the gate has been maintained and  in good working order. In addition, the document shall clearly include the following:</text>
+            <para proof="needed">
+              <num>a.</num>
+              <text>Inspection date.</text>
+            </para>
+            <para proof="needed">
+              <num>b.</num>
+              <text>Site address.</text>
+            </para>
+            <para proof="needed">
+              <num>c.</num>
+              <text>Name of the property owner.</text>
+            </para>
+            <para proof="needed">
+              <num>d.</num>
+              <text>Contact information of inspector.</text>
+            </para>
+            <para proof="needed">
+              <num>e.</num>
+              <text>Signed and/or stamped.</text>
+            </para>
+            <aftertext proof="needed"><strong>Scope.</strong> The provisions of this chapter shall apply to all vehicular gates and any gate more than 48 inches (1219 mm) in width or more than 84 inches (2134 mm) in height.</aftertext>
+            <aftertext proof="needed"><strong>General requirements.</strong> Gates shall meet the requirements of ASTM F1184; shall be installed per manufacturer's recommendations; and, at a minimum shall be designed, constructed, and installed to not fall over more than 45 degrees from a vertical plane when the gate is detached from supporting hardware.  Gates with operators or similar systems shall also meet the requirements of UL 325 and ASTM F2200.</aftertext>
+            <aftertext proof="needed"><strong>Duty of owner or agent.</strong>  Property owners, and their agents, shall keep gates well maintained and have gates inspected by a professional once every five years.  Property owners and agents must keep the written certifications and make them available to City officials upon request.  Any gate repair work undertaken must result in a safe outcome.</aftertext>
+            <aftertext proof="needed"><strong>Time Limits for Compliance.</strong> Property owners are responsible for adhering to this standard in the interest of public safety. Owners of existing gates shall comply with the provisions of this chapter and obtain third-party inspections of their gates no later than July 1, 2026, and at least once every five years thereafter. These inspections are intended to ensure ongoing safety and proper maintenance.</aftertext>
+            <aftertext proof="needed"><strong>Violations Penalties.</strong>  Any property owner or their agent that fails to comply with the provision of this chapter or a directive of the building official may be subject to enforcement and penalties as provided by Title 1 of the San Mateo Municipal Code, and all additional remedies provided by law.</aftertext>
           </para>
-          <para proof="needed">
-            <num>e.</num>
-            <text>Signed and/or stamped.</text>
-          </para>
-          <aftertext proof="needed"><strong>Scope.</strong> The provisions of this chapter shall apply to all vehicular gates and any gate more than 48 inches (1219 mm) in width or more than 84 inches (2134 mm) in height.</aftertext>
-          <aftertext proof="needed"><strong>General requirements.</strong> Gates shall meet the requirements of ASTM F1184; shall be installed per manufacturer's recommendations; and, at a minimum shall be designed, constructed, and installed to not fall over more than 45 degrees from a vertical plane when the gate is detached from supporting hardware.  Gates with operators or similar systems shall also meet the requirements of UL 325 and ASTM F2200.</aftertext>
-          <aftertext proof="needed"><strong>Duty of owner or agent.</strong>  Property owners, and their agents, shall keep gates well maintained and have gates inspected by a professional once every five years.  Property owners and agents must keep the written certifications and make them available to City officials upon request.  Any gate repair work undertaken must result in a safe outcome.</aftertext>
-          <aftertext proof="needed"><strong>Time Limits for Compliance.</strong> Property owners are responsible for adhering to this standard in the interest of public safety. Owners of existing gates shall comply with the provisions of this chapter and obtain third-party inspections of their gates no later than July 1, 2026, and at least once every five years thereafter. These inspections are intended to ensure ongoing safety and proper maintenance.</aftertext>
-          <aftertext proof="needed"><strong>Violations Penalties.</strong>  Any property owner or their agent that fails to comply with the provision of this chapter or a directive of the building official may be subject to enforcement and penalties as provided by Title 1 of the San Mateo Municipal Code, and all additional remedies provided by law.</aftertext>
-        </para>
+        </section>
       </include>
       <annotations>
         <annotation app="2025-12-03" doc="City of San Mateo, Cal., Ord. No. 2025-09" eff="2025-12-03" path="§30" target-path="23.08.020" type="History" display="false"/>
@@ -1192,7 +1193,8 @@
         <include>
           <para>
             <num>F.</num>
-            <text><strong>Altered space-conditioning system - mechanical cooling.</strong> Alterations which install new or replacement air-cooled air conditioners shall meet the applicable requirements of subsections i and iv. Alterations which install new or replacement heat pumps shall meet the applicable requirements of subsections i, ii, iii, and v. All other alterations to refrigerant containing components such as the compressor, condensing coil, evaporator coil, refrigerant metering device, or refrigerant piping, shall meet the applicable requirements of subsections i, ii, and iii:</text>
+            <heading>Altered space-conditioning system - mechanical cooling.</heading>
+            <text>Alterations which install new or replacement air-cooled air conditioners shall meet the applicable requirements of subsections i and iv. Alterations which install new or replacement heat pumps shall meet the applicable requirements of subsections i, ii, iii, and v. All other alterations to refrigerant containing components such as the compressor, condensing coil, evaporator coil, refrigerant metering device, or refrigerant piping, shall meet the applicable requirements of subsections i, ii, and iii:</text>
             <para>
               <num>i.</num>
               <text>All thermostats associated with the system shall be replaced with setback thermostats meeting the requirements of Section 110.2(c).</text>
@@ -1243,7 +1245,7 @@
         <num>(c)</num>
         <text>Energy Code subsection 150.2(b)1F is hereby amended to add new subsection 150.2(b)1Fiv:</text>
         <include>
-          <para proof="done">
+          <para>
             <num>iv.</num>
             <text>New or replacement air-cooled air conditioners in Climate Zones 1 through 14 and 16 shall meet the requirements of Section 150.2(b)1Fiva or 150.2(b)1Fivb.</text>
             <para>
@@ -1300,7 +1302,7 @@
         <num>(d)</num>
         <text>Energy Code subsection 150.2(b)1F is hereby amended to add new subsection 150.2(b)1Fv:</text>
         <include>
-          <para proof="done">
+          <para>
             <num>v.</num>
             <text>In all climate zones, heat pumps with supplementary heat, including, but not limited to, electric resistance heaters or gas furnace supplementary heating, shall comply with Section 150.0(h)7 and shall lock out supplementary heating above an outdoor air temperature of no greater than 35°F.</text>
           </para>
@@ -1437,8 +1439,8 @@
               </table>
             </text>
           </para>
-          <aftertext><strong>Exception 1 to Section 141.0(b)2Ciii</strong>: Where the capacity of the existing main electrical service panel is insufficient to supply the electrical capacity of a heat pump and where the existing main electrical service panel is sufficient to supply a new or replacement air conditioner, as calculated according to the requirements of California Electrical Code Article 220. Documentation of electrical load calculations in accordance with Article 220 must be submitted to the enforcement agency prior to permitting for both the heat pump and proposed air conditioner.</aftertext>
-          <aftertext>Exception 2 to Section 141.0(b)2Ciii: Where a licensed structural engineer determines that the roof would need a structural upgrade to support the additional weight of an appropriately sized SZHP but would not need a structural upgrade to support an equivalent SZAC.</aftertext>
+          <text><strong>Exception 1 to Section 141.0(b)2Ciii</strong>: Where the capacity of the existing main electrical service panel is insufficient to supply the electrical capacity of a heat pump and where the existing main electrical service panel is sufficient to supply a new or replacement air conditioner, as calculated according to the requirements of California Electrical Code Article 220. Documentation of electrical load calculations in accordance with Article 220 must be submitted to the enforcement agency prior to permitting for both the heat pump and proposed air conditioner.</text>
+          <text>Exception 2 to Section 141.0(b)2Ciii: Where a licensed structural engineer determines that the roof would need a structural upgrade to support the additional weight of an appropriately sized SZHP but would not need a structural upgrade to support an equivalent SZAC.</text>
         </include>
       </para>
       <annotations>
@@ -1490,7 +1492,7 @@
         <num>(e)</num>
         <text>Energy Code Section 150.0 is amended to add a new subsection 150.0(w) as follows:</text>
         <include>
-          <para proof="done">
+          <para>
             <num>(w)</num>
             <text>A Covered Single Family Project shall install a set of measures from the Measure Menu Table, Table 150.0-J, to achieve a total Measure Point Score that is equal to or greater than the Target Score in Table 150.0-I. In addition, all mandatory measures listed in Table 150.0-J shall be installed.  Measure verification shall be explicitly included as an addendum to the Certificate of Compliance to be filed pursuant to 2025 Title 24, Part 6, Section 10-103.</text>
             <text>Installed measures shall meet the specifications in Table 150.0-K. Unless otherwise specified, the requirements shall apply to the entire dwelling unit, not just the additional or altered portion. Measures from the Measure Menu table that are to be installed to satisfy requirements under the California Energy Code, Title 24, Part 6, may not count towards compliance with these requirements.  Where these requirements conflict with other California Energy Code requirements, the stricter requirements shall prevail.</text>
@@ -1814,7 +1816,7 @@
         <num>(f)</num>
         <text>Energy Code Section 150.0 is amended to add 150.0(x) as follows:</text>
         <include>
-          <para proof="done">
+          <para>
             <num>(x)</num>
             <text>Electric Readiness for Alterations and for Electric Readiness Credit for Solar PV Measure in Table 150.0-K.</text>
             <para>
@@ -6488,18 +6490,23 @@
       <para>
         <num>(a)</num>
         <text>Green Building Code Section 4.106.4.1, "New one- and two-family dwellings and town-houses with attached private garages," is amended to read as follows:</text>
-        <text>
-          <strong>4.106.4.1 New one- and two-family dwellings and town-houses with attached private garages.</strong>
-        </text>
+        <include>
+          <section>
+            <num>4.106.4.1</num>
+            <heading>New one- and two-family dwellings and town-houses with attached private garages.</heading>
+          </section>
+        </include>
       </para>
       <para>
         <num>(b)</num>
         <text>Green Building Code Section 4.106.4.1.1, "Identification," is amended to read as follows:</text>
-        <para>
-          <num proof="done">4.106.4.1.1</num>
-          <heading>New Construction</heading>
-          <text>One parking space provided shall be a <em>Level 2 EV Ready</em> space. If a second parking space is provided, it shall be provided with a <em>Level 1 EV Ready space.</em></text>
-        </para>
+        <include>
+          <section>
+            <num>4.106.4.1.1</num>
+            <heading>New Construction</heading>
+            <text>One parking space provided shall be a <em>Level 2 EV Ready</em> space. If a second parking space is provided, it shall be provided with a <em>Level 1 EV Ready space.</em></text>
+          </section>
+        </include>
       </para>
       <annotations>
         <annotation app="2020-01-01" doc="City of San Mateo, Cal., Ord. No. 2019-10" eff="2020-01-01" path="§1" target-path="23.70.050" type="History"/>
@@ -6514,61 +6521,85 @@
       <para>
         <num>(a)</num>
         <text>Green Building Code Section 4.106.4 "Electric vehicle (EV) charging for new construction," is amended to read as follows:</text>
-        <text><strong>4.106.4 Electric vehicle (EV) charging.</strong> New construction shall comply with Section 4.106.4.1 or 4.106.4.2, and 4.106.4.3, to facilitate future installation and use of EV chargers. Electric vehicle supply equipment (EVSE) shall be installed in accordance with the <em>California Electrical Code</em>, Article 625. For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s). Calculation for spaces shall be rounded up to the nearest whole number.</text>
-        <text>
-          <strong>Exceptions:</strong>
-        </text>
-        <para>
-          <num>1.</num>
-          <text>On a case-by-case basis, where the local enforcing agency has determined EV charging and infrastructure are not feasible based upon one or more of the following conditions:</text>
-          <para>
-            <num>1.1</num>
-            <text>Where there is no local utility power supply or the local utility is unable to supply adequate power.</text>
-          </para>
-          <para>
-            <num>1.2</num>
-            <text>Where there is evidence suitable to the local enforcing agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 4.106.4, may increase construction cost by an average of $4,500 per parking space for market rate housing or $400 per parking space for affordable housing. EV infrastructure shall be provided up to the level that would not exceed this cost for utility service.</text>
-          </para>
-          <para>
-            <num>1.3</num>
-            <text>Accessory Dwelling Units (ADU) and Junior Accessory Dwelling Units (JADU) without additional parking facilities and without electrical panel upgrade or new panel installation. ADUs and JADUs without additional parking but with electrical panel upgrades or new panels must have reserved breakers and electrical capacity according to the requirements of 4.106.4.1.</text>
-          </para>
-        </para>
-        <para>
-          <num>2.</num>
-          <text>Projects with multifamily residential units that submitted Planning Applications prior to the effective date of this ordinance.</text>
-        </para>
-        <para>
-          <num>3.</num>
-          <text>Parking spaces accessible only by automated mechanical car parking systems are not required to comply with this code section.</text>
-        </para>
+        <include>
+          <section>
+            <num>4.106.4</num>
+            <heading>Electric vehicle (EV) charging.</heading>
+            <text>New construction shall comply with Section 4.106.4.1 or 4.106.4.2, and 4.106.4.3, to facilitate future installation and use of EV chargers. Electric vehicle supply equipment (EVSE) shall be installed in accordance with the <em>California Electrical Code</em>, Article 625. For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s). Calculation for spaces shall be rounded up to the nearest whole number.</text>
+            <text>
+              <strong>Exceptions:</strong>
+            </text>
+            <para>
+              <num>1.</num>
+              <text>On a case-by-case basis, where the local enforcing agency has determined EV charging and infrastructure are not feasible based upon one or more of the following conditions:</text>
+              <para>
+                <num>1.1</num>
+                <text>Where there is no local utility power supply or the local utility is unable to supply adequate power.</text>
+              </para>
+              <para>
+                <num>1.2</num>
+                <text>Where there is evidence suitable to the local enforcing agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 4.106.4, may increase construction cost by an average of $4,500 per parking space for market rate housing or $400 per parking space for affordable housing. EV infrastructure shall be provided up to the level that would not exceed this cost for utility service.</text>
+              </para>
+              <para>
+                <num>1.3</num>
+                <text>Accessory Dwelling Units (ADU) and Junior Accessory Dwelling Units (JADU) without additional parking facilities and without electrical panel upgrade or new panel installation. ADUs and JADUs without additional parking but with electrical panel upgrades or new panels must have reserved breakers and electrical capacity according to the requirements of 4.106.4.1.</text>
+              </para>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>Projects with multifamily residential units that submitted Planning Applications prior to the effective date of this ordinance.</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>Parking spaces accessible only by automated mechanical car parking systems are not required to comply with this code section.</text>
+            </para>
+          </section>
+        </include>
       </para>
       <para>
         <num>(b)</num>
         <text>Green Building Code Section 4.106.4.2, "New multifamily dwellings, hotels and motels and new residential parking facilities," is amended to read as follows:</text>
-        <text><strong>4.106.4.2 New multifamily dwellings and new residential parking facilities. </strong>Requirements apply to parking spaces that are assigned or leased to individual dwelling units, as well as unassigned residential parking. Visitor or common area parking is not included.</text>
+        <include>
+          <section>
+            <num>4.106.4.2</num>
+            <heading>New multifamily dwellings and new residential parking facilities.</heading>
+            <text>Requirements apply to parking spaces that are assigned or leased to individual dwelling units, as well as unassigned residential parking. Visitor or common area parking is not included.</text>
+          </section>
+        </include>
       </para>
       <para>
         <num>(c)</num>
         <text>Green Building Code Section 4.106.4.2.1, "Multifamily development projects with less than 20 dwelling units; and hotels and motels with less than 20 sleeping units or guest rooms," is amended to read as follows:</text>
-        <text><strong>4.106.4.2.1 New Construction. </strong>Fifteen percent (15%) of dwelling units with parking spaces shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Eighty-five percent (85%) of dwelling units with parking spaces shall be provided with a Low Power Level 2 EV Ready space. EV ready spaces and EVCS in multifamily developments shall comply with California Building Code, Chapter 11A, Section 1109A. EVCS shall comply with the accessibility provisions for EV chargers in the California Building Code, Chapter 11B.</text>
-        <text><strong>Note:</strong> The total number of EV spaces should be one-hundred percent (100%) of dwelling units or one-hundred percent (100%) of parking spaces, whichever is less.</text>
+        <include>
+          <section>
+            <num>4.106.4.2.1</num>
+            <heading>New Construction.</heading>
+            <text>Fifteen percent (15%) of dwelling units with parking spaces shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Eighty-five percent (85%) of dwelling units with parking spaces shall be provided with a Low Power Level 2 EV Ready space. EV ready spaces and EVCS in multifamily developments shall comply with California Building Code, Chapter 11A, Section 1109A. EVCS shall comply with the accessibility provisions for EV chargers in the California Building Code, Chapter 11B.</text>
+            <text><strong>Note:</strong> The total number of EV spaces should be one-hundred percent (100%) of dwelling units or one-hundred percent (100%) of parking spaces, whichever is less.</text>
+          </section>
+        </include>
       </para>
       <para>
         <num>(d)</num>
         <text>Green Building Code Section 4.106.4.2.2, "Multifamily development projects with 20 or more dwelling units, hotels and motels with 20 or more sleeping units or guest rooms," is amended to read as follows:</text>
-        <text><strong>4.106.4.2.2 Existing Buildings. </strong>When new parking facilities are added, or electrical systems or lighting of existing parking facilities are added or altered and the work requires a building permit, ten (10) percent of the total number of parking spaces added or altered, shall be electric vehicle charging spaces (EV spaces) capable of supporting future Level 2 EVSE.</text>
-        <text>
-          <strong>Notes:</strong>
-        </text>
-        <para>
-          <num>1.</num>
-          <text>Construction documents are intended to demonstrate the project's capability and capacity for facilitating future EV charging.</text>
-        </para>
-        <para>
-          <num>2.</num>
-          <text>There is no requirement for EV spaces to be constructed or available until EV chargers are installed for use.</text>
-        </para>
+        <include>
+          <section>
+            <num>4.106.4.2.2</num>
+            <heading>Existing Buildings.</heading>
+            <text>When new parking facilities are added, or electrical systems or lighting of existing parking facilities are added or altered and the work requires a building permit, ten (10) percent of the total number of parking spaces added or altered, shall be electric vehicle charging spaces (EV spaces) capable of supporting future Level 2 EVSE.</text>
+            <text>
+              <strong>Notes:</strong>
+            </text>
+            <para>
+              <num>1.</num>
+              <text>Construction documents are intended to demonstrate the project's capability and capacity for facilitating future EV charging.</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>There is no requirement for EV spaces to be constructed or available until EV chargers are installed for use.</text>
+            </para>
+          </section>
+        </include>
       </para>
       <para>
         <num>(e)</num>
@@ -6601,49 +6632,61 @@
       <para>
         <num>(l)</num>
         <text>Green Building Code Section 4.106.4.3 "Electric vehicle charging for additions and alterations of parking facilities serving existing multifamily buildings," is amended, and adds new subsections to read as follows:</text>
-        <text><strong>4.106.4.3 Electric vehicle charging stations (EVCS). </strong>Electric vehicle charging stations required by Section 4.106.4.2 shall comply with Section 4.106.4.3.</text>
-        <text><strong>Exception:</strong> Electric vehicle charging stations serving public accommodations, public housing, motels, and hotels shall not be required to comply with this section. See <em>California Building Code</em>, Chapter 11B, for applicable requirements.</text>
-        <para>
-          <num>4.106.4.3.1</num>
-          <heading>Location.</heading>
-          <text>EVCS shall comply with at least one of the following options:</text>
-          <para>
-            <num>1.</num>
-            <text>The charging space shall be located adjacent to an accessible parking space meeting the requirements of the <em>California Building Code</em>, Chapter 11A, to allow use of the EV charger from the accessible parking space.</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>The charging space shall be located on an accessible route, as defined in the <em>California Building Code</em>, Chapter 2, to the building.</text>
-          </para>
-          <text><strong>Exception:</strong> Electric vehicle charging stations designed and constructed in compliance with the <em>California Building Code</em>, Chapter 11B, are not required to comply with Section 4.106.4.3.1 and Section 4.106.4.3.2.</text>
-        </para>
-        <para>
-          <num>4.106.4.3.2</num>
-          <heading>Dimensions.</heading>
-          <text>The charging spaces shall be designed to comply with the following:</text>
-          <para>
-            <num proof="done">1.</num>
-            <text>The minimum length of each EV space shall be 18 feet (5486 mm).</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>The minimum width of each EV space shall be 9 feet (2743 mm).</text>
-          </para>
-          <para>
-            <num>3.</num>
-            <text>One in every 25 charging spaces, but not less than one, shall also have an 8-foot (2438 mm) wide minimum aisle. A 5-foot (1524 mm) wide minimum aisle shall be permitted provided the minimum width of the EV space is 12 feet (3658 mm).</text>
+        <include>
+          <section>
+            <num>4.106.4.3</num>
+            <heading>Electric vehicle charging stations (EVCS).</heading>
+            <text>Electric vehicle charging stations required by Section 4.106.4.2 shall comply with Section 4.106.4.3.</text>
+            <text><strong>Exception:</strong> Electric vehicle charging stations serving public accommodations, public housing, motels, and hotels shall not be required to comply with this section. See <em>California Building Code</em>, Chapter 11B, for applicable requirements.</text>
+          </section>
+          <section>
+            <num>4.106.4.3.1</num>
+            <heading>Location.</heading>
+            <text>EVCS shall comply with at least one of the following options:</text>
             <para>
-              <num>a.</num>
-              <text>Surface slope for this EV space and the aisle shall not exceed 1 unit vertical in 48 units horizontal (2.083 percent slope) in any direction.</text>
+              <num>1.</num>
+              <text>The charging space shall be located adjacent to an accessible parking space meeting the requirements of the <em>California Building Code</em>, Chapter 11A, to allow use of the EV charger from the accessible parking space.</text>
             </para>
-          </para>
-          <aftertext><strong>Exception: </strong>Where the City's Municipal or Zoning Code permits parking space dimensions that are less than the minimum requirements stated in this section 4.106.4.3.2, and the compliance with which would be infeasible due to particular circumstances of a project, an exception may be granted while remaining in compliance with California Building Code Section Table 11B-228.3.2.1 and 11B-812, as applicable.</aftertext>
-        </para>
+            <para>
+              <num>2.</num>
+              <text>The charging space shall be located on an accessible route, as defined in the <em>California Building Code</em>, Chapter 2, to the building.</text>
+            </para>
+            <text><strong>Exception:</strong> Electric vehicle charging stations designed and constructed in compliance with the <em>California Building Code</em>, Chapter 11B, are not required to comply with Section 4.106.4.3.1 and Section 4.106.4.3.2.</text>
+          </section>
+          <section>
+            <num>4.106.4.3.2</num>
+            <heading>Dimensions.</heading>
+            <text>The charging spaces shall be designed to comply with the following:</text>
+            <para>
+              <num>1.</num>
+              <text>The minimum length of each EV space shall be 18 feet (5486 mm).</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>The minimum width of each EV space shall be 9 feet (2743 mm).</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>One in every 25 charging spaces, but not less than one, shall also have an 8-foot (2438 mm) wide minimum aisle. A 5-foot (1524 mm) wide minimum aisle shall be permitted provided the minimum width of the EV space is 12 feet (3658 mm).</text>
+              <para>
+                <num>a.</num>
+                <text>Surface slope for this EV space and the aisle shall not exceed 1 unit vertical in 48 units horizontal (2.083 percent slope) in any direction.</text>
+              </para>
+            </para>
+            <text><strong>Exception: </strong>Where the City's Municipal or Zoning Code permits parking space dimensions that are less than the minimum requirements stated in this section 4.106.4.3.2, and the compliance with which would be infeasible due to particular circumstances of a project, an exception may be granted while remaining in compliance with California Building Code Section Table 11B-228.3.2.1 and 11B-812, as applicable.</text>
+          </section>
+        </include>
       </para>
       <para>
-        <num proof="done">(m)</num>
+        <num>(m)</num>
         <text>Green Building Code Section 4.106.4, "Electric vehicle (EV) charging for new construction," is amended to add a new subsection and read as follows:</text>
-        <text><strong>4.106.4.4 Direct current fast charging stations. </strong>One DCFC may be substituted for up to five (5) EVCS to meet the requirements of 4.106.4.1 and 4.106.4.2. Where ALMS serve DCFC stations, the power demand from the DCFC shall be prioritized above Level 1 and Level 2 spaces.</text>
+        <include>
+          <section>
+            <num>4.106.4.4</num>
+            <heading>Direct current fast charging stations.</heading>
+            <text>One DCFC may be substituted for up to five (5) EVCS to meet the requirements of 4.106.4.1 and 4.106.4.2. Where ALMS serve DCFC stations, the power demand from the DCFC shall be prioritized above Level 1 and Level 2 spaces.</text>
+          </section>
+        </include>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-11" path="§1" type="History"/>
@@ -6660,79 +6703,98 @@
       <para>
         <num>(a)</num>
         <text>Green Building Code Section 5.106.5.3, "Electric vehicle (EV) charging," is amended, and adds new subsections to read as follows:</text>
-        <text proof="needed"><strong>5.106.5.3 Electric vehicle (EV) charging. </strong>Construction to provide electric vehicle infrastructure and facilitate electric vehicle charging shall comply with Section 5.106.5.3 and shall be provided in accordance with regulations in the <em>California Building Code </em>and the <em>California Electrical Code</em>. Accessible EVCS shall be provided in accordance with the <em>California Building Code Chapter 11B Section 11B-228.3. </em>For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s). Calculation for spaces shall be rounded up to the nearest whole number.</text>
-        <text>
-          <strong>Exceptions:</strong>
-        </text>
-        <para>
-          <num>1.</num>
-          <text>On a case-by-case basis where the local enforcing agency has determined compliance with this section is not feasible based upon one of the following conditions:</text>
-          <para>
-            <num>a.</num>
-            <text>Where there is no local utility power supply.</text>
-          </para>
-          <para>
-            <num>b.</num>
-            <text>Where the local utility is unable to supply adequate power.</text>
-          </para>
-          <para>
-            <num>c.</num>
-            <text>Where there is evidence suitable to the local enforcement agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 5.106.5.3, may increase construction cost by an average of $4,500 per parking space. EV infrastructure shall be provided up to the level that would not exceed this cost for utility service.</text>
-          </para>
-        </para>
-        <para>
-          <num>2.</num>
-          <text>Parking spaces accessible only by automated mechanical car parking systems are not required to comply with this code section.</text>
-        </para>
-        <text>
-          <strong>5.106.5.3.1 Nonresidential Occupancy Class B Offices – Shared Parking Space.</strong>
-        </text>
-        <para>
-          <num>5.106.5.3.1.1</num>
-          <heading>New Construction.</heading>
-          <text>Twenty percent (20%) of parking spaces shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Thirty percent (30%) of parking spaces provided shall be Level 2 EV Capable.</text>
-        </para>
-        <text>
-          <strong>5.106.5.3.2 Hotel and Motel Occupancies – Shared Parking Facilities.</strong>
-        </text>
-        <para>
-          <num>5.106.5.3.2.1</num>
-          <heading>New Construction</heading>
-          <text>Five percent (5%) of parking spaces provided shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Twenty-five percent (25%) of parking spaces provided shall be Low Power Level 2 EV Ready space. Ten percent (10%) of parking spaces provided shall be Level 2 EV Capable.</text>
-        </para>
-        <text>
-          <strong>5.106.5.3.3 All Other Nonresidential Occupancies – Shared Parking Facilities.</strong>
-        </text>
-        <para>
-          <num>5.106.5.3.3.1</num>
-          <heading>New Construction.</heading>
-          <text>Ten percent (10%) of parking spaces provided shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Ten percent (10%) of parking spaces provided shall be Level 2 EV Capable.</text>
-        </para>
-        <text><strong>5.106.5.3.4 Direct current fast charging stations. </strong>One DCFC may be substituted for up to five (5) EVCS to meet the requirements of 5.106.5.3.1, 5.106.5.3.2, and 5.106.5.3.3. Where ALMS serve DCFC stations, the power demand from the DCFC shall be prioritized above Level 1 and Level 2 spaces.</text>
+        <include>
+          <section>
+            <num>5.106.5.3</num>
+            <heading>Electric vehicle (EV) charging.</heading>
+            <text proof="needed">Construction to provide electric vehicle infrastructure and facilitate electric vehicle charging shall comply with Section 5.106.5.3 and shall be provided in accordance with regulations in the <em>California Building Code </em>and the <em>California Electrical Code</em>. Accessible EVCS shall be provided in accordance with the <em>California Building Code Chapter 11B Section 11B-228.3. </em>For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s). Calculation for spaces shall be rounded up to the nearest whole number.</text>
+            <text>
+              <strong>Exceptions:</strong>
+            </text>
+            <para>
+              <num>1.</num>
+              <text>On a case-by-case basis where the local enforcing agency has determined compliance with this section is not feasible based upon one of the following conditions:</text>
+              <para>
+                <num>a.</num>
+                <text>Where there is no local utility power supply.</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>Where the local utility is unable to supply adequate power.</text>
+              </para>
+              <para>
+                <num>c.</num>
+                <text>Where there is evidence suitable to the local enforcement agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 5.106.5.3, may increase construction cost by an average of $4,500 per parking space. EV infrastructure shall be provided up to the level that would not exceed this cost for utility service.</text>
+              </para>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>Parking spaces accessible only by automated mechanical car parking systems are not required to comply with this code section.</text>
+            </para>
+          </section>
+          <section>
+            <num>5.106.5.3.1</num>
+            <heading>Nonresidential Occupancy Class B Offices – Shared Parking Space.</heading>
+          </section>
+          <section>
+            <num>5.106.5.3.1.1</num>
+            <heading>New Construction.</heading>
+            <text>Twenty percent (20%) of parking spaces shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Thirty percent (30%) of parking spaces provided shall be Level 2 EV Capable.</text>
+          </section>
+          <section>
+            <num>5.106.5.3.2</num>
+            <heading>Hotel and Motel Occupancies – Shared Parking Facilities.</heading>
+          </section>
+          <section>
+            <num>5.106.5.3.2.1</num>
+            <heading>New Construction</heading>
+            <text>Five percent (5%) of parking spaces provided shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Twenty-five percent (25%) of parking spaces provided shall be Low Power Level 2 EV Ready space. Ten percent (10%) of parking spaces provided shall be Level 2 EV Capable.</text>
+          </section>
+          <section>
+            <num>5.106.5.3.3</num>
+            <heading>All Other Nonresidential Occupancies – Shared Parking Facilities.</heading>
+          </section>
+          <section>
+            <num>5.106.5.3.3.1</num>
+            <heading>New Construction.</heading>
+            <text>Ten percent (10%) of parking spaces provided shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Ten percent (10%) of parking spaces provided shall be Level 2 EV Capable.</text>
+          </section>
+          <section>
+            <num>5.106.5.3.4</num>
+            <heading>Direct current fast charging stations.</heading>
+            <text>One DCFC may be substituted for up to five (5) EVCS to meet the requirements of 5.106.5.3.1, 5.106.5.3.2, and 5.106.5.3.3. Where ALMS serve DCFC stations, the power demand from the DCFC shall be prioritized above Level 1 and Level 2 spaces.</text>
+          </section>
+        </include>
       </para>
       <para>
         <num>(b)</num>
         <text>Green Building Code Section 5.106.5.4 "Electric vehicle (EV) charging: medium-duty and heavy-duty," is amended to read as follows:</text>
-        <text><strong>5.106.5.4 Electric vehicle (EV) charging readiness. </strong>Construction shall comply with Section 5.106.5.4.1 to facilitate future installation of electric vehicle supply equipment (EVSE). Construction for warehouses, grocery stores and retail stores with planned off-street loading spaces shall also comply with Section 5.106.5.4.1 for future installation of medium- and heavy-duty EVSE. Accessible EVCS shall be provided in accordance with the California Building Code Chapter 11B Section 11B-228.3. For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s).</text>
-        <text>
-          <strong>Exceptions:</strong>
-        </text>
-        <para>
-          <num>1.</num>
-          <text>On a case-by-case basis where the local enforcing agency has determined compliance with this section is not feasible based upon one of the following conditions:</text>
-          <para>
-            <num>a.</num>
-            <text>Where there is no local utility power supply.</text>
-          </para>
-          <para>
-            <num>b.</num>
-            <text>Where the local utility is unable to supply adequate power.</text>
-          </para>
-          <para>
-            <num>c.</num>
-            <text>Where there is evidence suitable to the local enforcing agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 5.106.5.3, may increase construction cost by an average of $4,500 per parking space. EV infrastructure shall be provided up to the level that would not exceed this cost for utility service.</text>
-          </para>
-        </para>
+        <include>
+          <section>
+            <num>5.106.5.4</num>
+            <heading>Electric vehicle (EV) charging readiness.</heading>
+            <text>Construction shall comply with Section 5.106.5.4.1 to facilitate future installation of electric vehicle supply equipment (EVSE). Construction for warehouses, grocery stores and retail stores with planned off-street loading spaces shall also comply with Section 5.106.5.4.1 for future installation of medium- and heavy-duty EVSE. Accessible EVCS shall be provided in accordance with the California Building Code Chapter 11B Section 11B-228.3. For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s).</text>
+            <text>
+              <strong>Exceptions:</strong>
+            </text>
+            <para>
+              <num>1.</num>
+              <text>On a case-by-case basis where the local enforcing agency has determined compliance with this section is not feasible based upon one of the following conditions:</text>
+              <para>
+                <num>a.</num>
+                <text>Where there is no local utility power supply.</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>Where the local utility is unable to supply adequate power.</text>
+              </para>
+              <para>
+                <num>c.</num>
+                <text>Where there is evidence suitable to the local enforcing agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 5.106.5.3, may increase construction cost by an average of $4,500 per parking space. EV infrastructure shall be provided up to the level that would not exceed this cost for utility service.</text>
+              </para>
+            </para>
+          </section>
+        </include>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-11" path="§1" type="History"/>
@@ -6827,23 +6889,21 @@
             <para>
               <num>6.</num>
               <text>Electric vehicle charger</text>
-              <include>
-                <text>
-                  <strong>Exceptions:</strong>
-                </text>
-                <para>
-                  <num>1.</num>
-                  <text>Buss bar electrical capacity shall not be required to exceed the proposed utility electrical service to the building. Capacity and overcurrent protection spaces shall be reserved in the priority listed above to the extent allowable under the proposed buss bar capacity.</text>
-                </para>
-                <para>
-                  <num>2.</num>
-                  <text>Reserved electric vehicle charger panel capacity may be shared with one of the following: water heater, clothes dryer, or cooking equipment.</text>
-                </para>
-                <para>
-                  <num>3.</num>
-                  <text>Electrical panels with internet-connected overcurrent protection devices that monitor circuit load and manage power distribution.</text>
-                </para>
-              </include>
+              <text>
+                <strong>Exceptions:</strong>
+              </text>
+              <para>
+                <num>1.</num>
+                <text>Buss bar electrical capacity shall not be required to exceed the proposed utility electrical service to the building. Capacity and overcurrent protection spaces shall be reserved in the priority listed above to the extent allowable under the proposed buss bar capacity.</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>Reserved electric vehicle charger panel capacity may be shared with one of the following: water heater, clothes dryer, or cooking equipment.</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>Electrical panels with internet-connected overcurrent protection devices that monitor circuit load and manage power distribution.</text>
+              </para>
             </para>
           </section>
         </include>
